@@ -1,41 +1,35 @@
-name: Process JSON Data
+name: Proses Data Lokasi
 
 on:
   push:
     paths:
-      - "raw-data/**.json"
+      - 'main/raw-data/**'
+      - 'main/process.py'
+      - '.github/workflows/process.yml'
   workflow_dispatch:
 
-permissions:
-  contents: read   # push memakai PAT (GH_PAT), bukan GITHUB_TOKEN
-
 jobs:
-  build:
+  process:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout main
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-          persist-credentials: false   # kita push dengan PAT
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.x"
+          python-version: '3.x'
 
-      - name: Install Python dependencies
-        run: |
-          pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: Install dependencies
+        run: pip install --upgrade pip
 
-      - name: Run processing script
-        run: |
-          python process.py
+      - name: Run process.py
+        run: python main/process.py
 
-      # Simpan hasil sementara agar aman saat ganti branch
-      - name: Stash artifacts
-        run: |
-          mkdir -p /tmp/artifacts
-          if [ -d output-json ]; then cp -r output-json /tmp/artifacts/; fi
-          if [ -f output-data.csv ]; then cp output-data.csv /tmp/artifacts/; fi
+      - name: Commit output
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto: update output json & csv"
+          file_pattern: |
+            output/output-json/*.json
+            output/output-data.csv
