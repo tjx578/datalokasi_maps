@@ -6,19 +6,16 @@ on:
       - "raw-data/**.json"
   workflow_dispatch:
 
-# Allow reading, but pushing will use PAT (not GITHUB_TOKEN)
-permissions:
-  contents: read
-
+# pakai PAT, jadi permissions default (read) sudah cukup
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo (main)
+      - name: Checkout main
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
-          persist-credentials: false   # we’ll push with PAT
+          persist-credentials: false   # kita push pakai PAT
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -30,16 +27,14 @@ jobs:
           pip install --upgrade pip
           python process.py
 
-      # stash artifacts away from current tree to avoid conflicts
+      # simpan hasil sebelum ganti branch
       - name: Stash artifacts
         run: |
           mkdir -p /tmp/artifacts
           cp -r output-json /tmp/artifacts/
           cp output-data.csv /tmp/artifacts/
 
-      - name: Switch (create or checkout) output branch
-        env:
-          PAT: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+      - name: Switch to output branch
         run: |
           git fetch origin
           if git ls-remote --exit-code --heads origin output >/dev/null 2>&1; then
@@ -47,18 +42,22 @@ jobs:
           else
             git checkout --orphan output
           fi
-          # clean working tree (keep .git)
+          # bersihkan working dir (kecuali .git)
           find . -mindepth 1 -maxdepth 1 ! -name '.git' -exec rm -rf {} +
           mkdir -p output-json
 
-          # restore artifacts (no redundant self-copy)
+      - name: Restore artifacts
+        run: |
           cp -r /tmp/artifacts/output-json/* output-json/ || true
           cp /tmp/artifacts/output-data.csv output-data.csv
 
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+      - name: Commit & push results to output
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
           git add output-json/ output-data.csv
           git commit -m "Update processed data" || echo "No changes"
+          git push https://x-access-token:${GH_PAT}@github.com/tjx578/datalokasi_maps.git HEAD:output
 
-          # push to output using PAT
-          git push https://x-access-token:${PAT}@github.com/${{ github.repository }} HEAD:output
