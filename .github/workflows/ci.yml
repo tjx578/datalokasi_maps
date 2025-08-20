@@ -1,7 +1,9 @@
 name: Data CI
+
 on:
   push:
   pull_request:
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -10,32 +12,33 @@ jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout this repo
+        uses: actions/checkout@v4
         with:
-          token: ${{ secrets.PAT_REPO }}   # jika repo private
           fetch-depth: 0
 
-      - name: List files
-        run: ls -R
+      - name: Clone datalokasi_maps (public)
+        run: git clone https://github.com/tjx578/datalokasi_maps.git
 
-      # Validasi JSON (opsional, lewati jika tidak pakai JSON)
-      - name: Validate JSON files
+      - name: List files (opsional)
+        run: |
+          ls -R
+          ls -R datalokasi_maps || true
+
+      - name: Validate JSON
         run: |
           set -e
-          shopt -s nullglob
-          for f in **/*.json; do
+          shopt -s globstar nullglob
+          for f in datalokasi_maps/**/*.json; do
             echo "checking $f"
-            jq -e . "$f" > /dev/null
+            jq -e . "$f" >/dev/null
           done
 
-      # Validasi GeoJSON (opsional, sama seperti JSON)
-      - name: Validate GeoJSON files
+      - name: Validate GeoJSON
         run: |
           set -e
-          shopt -s nullglob
-          for f in **/*.geojson; do
+          shopt -s globstar nullglob
+          for f in datalokasi_maps/**/*.geojson; do
             echo "checking $f"
-            jq -e . "$f" > /dev/null
+            jq -e . "$f" >/dev/null
           done
-
-
