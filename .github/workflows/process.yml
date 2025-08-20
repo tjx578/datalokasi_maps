@@ -6,7 +6,9 @@ on:
       - "raw-data/**.json"
   workflow_dispatch:
 
-# pakai PAT, jadi permissions default (read) sudah cukup
+permissions:
+  contents: read   # push memakai PAT (GH_PAT), bukan GITHUB_TOKEN
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,7 +17,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
-          persist-credentials: false   # kita push pakai PAT
+          persist-credentials: false   # kita push dengan PAT
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -27,13 +29,14 @@ jobs:
           pip install --upgrade pip
           python process.py
 
-      # simpan hasil sebelum ganti branch
+      # simpan hasil sementara agar aman saat ganti branch
       - name: Stash artifacts
         run: |
           mkdir -p /tmp/artifacts
           cp -r output-json /tmp/artifacts/
           cp output-data.csv /tmp/artifacts/
 
+      # >>> SAFE CHECKOUT/CREATE OUTPUT BRANCH <<<
       - name: Switch to output branch
         run: |
           git fetch origin
@@ -46,6 +49,7 @@ jobs:
           find . -mindepth 1 -maxdepth 1 ! -name '.git' -exec rm -rf {} +
           mkdir -p output-json
 
+      # kembalikan artefak, tanpa self-copy
       - name: Restore artifacts
         run: |
           cp -r /tmp/artifacts/output-json/* output-json/ || true
@@ -53,11 +57,11 @@ jobs:
 
       - name: Commit & push results to output
         env:
-          GH_PAT: ${{ secrets.GH_PAT }}
+          GH_PAT: ${{ secrets.GH_PAT }}   # PAT dengan scope repo
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add output-json/ output-data.csv
           git commit -m "Update processed data" || echo "No changes"
-          git push https://x-access-token:${GH_PAT}@github.com/tjx578/datalokasi_maps.git HEAD:output
+          git push https://x-access-token:${GH_PAT}@github.com/<username>/lokasi-data.git HEAD:output
 
