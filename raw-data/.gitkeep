@@ -1,0 +1,14 @@
+# 1. Buat folder raw-data (kalau belum ada)
+mkdir -p raw-data
+
+# 2. Buat file kosong .gitkeep di dalamnya
+touch raw-data/.gitkeep
+
+# 3. Tambahkan ke staging
+git add raw-data/.gitkeep
+
+# 4. Commit perubahan
+git commit -m "Add .gitkeep to keep raw-data folder in repo"
+
+# 5. Push ke GitHub
+git push
