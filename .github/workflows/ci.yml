@@ -11,17 +11,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # PR dari repo sendiri / cabang internal: gunakan PAT agar akses private repo/submodule
+      
       - name: Checkout with PAT
         if: ${{ github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name == github.repository }}
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.PAT_REPO }} # PAT scope: repo (enable SSO jika organisasi)
+          token: ${{ secrets.PAT_REPO }} 
           fetch-depth: 0
-          submodules: true               # true jika ada submodule private
+          submodules: true              
           persist-credentials: false
 
-      # PR dari fork: tidak ada akses secrets, jadi checkout tanpa private deps
+     
       - name: Checkout for forked PRs (no private deps)
         if: ${{ github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name != github.repository }}
         uses: actions/checkout@v4
@@ -33,27 +33,3 @@ jobs:
         run: |
           echo "jalankan build/test di sini"
 
-# -- Alternatif SSH dengan deploy key (jika lebih suka) --
-# Aktifkan blok berikut jika ingin pakai deploy key (tambahkan secrets.DEPLOY_KEY)
-#
-#     - name: Setup SSH and checkout
-#       if: ${{ github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name == github.repository }}
-#       run: |
-#         mkdir -p ~/.ssh
-#         echo "${{ secrets.DEPLOY_KEY }}" > ~/.ssh/id_rsa
-#         chmod 600 ~/.ssh/id_rsa
-#         ssh-keyscan github.com >> ~/.ssh/known_hosts
-#       shell: bash
-#     - uses: actions/checkout@v4
-#       if: ${{ github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name == github.repository }}
-#       with:
-#         ssh-key: ${{ secrets.DEPLOY_KEY }}
-#         fetch-depth: 0
-#         submodules: true
-
-# -- Pengaturan Secrets --
-# Settings > Secrets and variables > Actions > New repository secret
-#
-# PAT_REPO: Personal Access Token dengan scope repo (enable SSO jika organisasi)
-# atau
-# DEPLOY_KEY: private key yang cocok dengan deploy key di repo
