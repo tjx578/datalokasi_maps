@@ -6,12 +6,19 @@ on:
       - "raw-data/**.json"
   workflow_dispatch:
 
+# Allow reading, but pushing will use PAT (not GITHUB_TOKEN)
+permissions:
+  contents: read
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout repo (main)
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          persist-credentials: false   # we’ll push with PAT
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -23,18 +30,35 @@ jobs:
           pip install --upgrade pip
           python process.py
 
-      - name: Push results to output branch
+      # stash artifacts away from current tree to avoid conflicts
+      - name: Stash artifacts
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
+          mkdir -p /tmp/artifacts
+          cp -r output-json /tmp/artifacts/
+          cp output-data.csv /tmp/artifacts/
 
-          git fetch
-          git checkout output || git checkout --orphan output
-
+      - name: Switch (create or checkout) output branch
+        env:
+          PAT: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        run: |
+          git fetch origin
+          if git ls-remote --exit-code --heads origin output >/dev/null 2>&1; then
+            git checkout output
+          else
+            git checkout --orphan output
+          fi
+          # clean working tree (keep .git)
+          find . -mindepth 1 -maxdepth 1 ! -name '.git' -exec rm -rf {} +
           mkdir -p output-json
-          cp -r output-json/* output-json/ || true
-          cp output-data.csv . || true
 
+          # restore artifacts (no redundant self-copy)
+          cp -r /tmp/artifacts/output-json/* output-json/ || true
+          cp /tmp/artifacts/output-data.csv output-data.csv
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add output-json/ output-data.csv
           git commit -m "Update processed data" || echo "No changes"
-          git push origin output
+
+          # push to output using PAT
+          git push https://x-access-token:${PAT}@github.com/${{ github.repository }} HEAD:output
