@@ -63,5 +63,5 @@ jobs:
           git config --global user.email "actions@github.com"
           git add output-json/ output-data.csv
           git commit -m "Update processed data" || echo "No changes"
-          git push https://x-access-token:${GH_PAT}@github.com/<username>/lokasi-data.git HEAD:output
+          git push https://x-access-token:${KELANA_TJX}@github.com/<tjx578>/lokasi-data.git HEAD:output
 
