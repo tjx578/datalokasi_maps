@@ -1,67 +1,35 @@
-name: Process JSON Data
+name: Proses Data Lokasi
 
 on:
   push:
     paths:
-      - "raw-data/**.json"
+      - 'main/raw-data/**'
+      - 'main/process.py'
+      - '.github/workflows/process.yml'
   workflow_dispatch:
 
-permissions:
-  contents: read   # push memakai PAT (GH_PAT), bukan GITHUB_TOKEN
-
 jobs:
-  build:
+  process:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout main
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-          persist-credentials: false   # kita push dengan PAT
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.x"
+          python-version: '3.x'
 
-      - name: Run processing script
-        run: |
-          pip install --upgrade pip
-          python process.py
+      - name: Install dependencies
+        run: pip install --upgrade pip
 
-      # simpan hasil sementara agar aman saat ganti branch
-      - name: Stash artifacts
-        run: |
-          mkdir -p /tmp/artifacts
-          cp -r output-json /tmp/artifacts/
-          cp output-data.csv /tmp/artifacts/
+      - name: Run process.py
+        run: python main/process.py
 
-      # >>> SAFE CHECKOUT/CREATE OUTPUT BRANCH <<<
-      - name: Switch to output branch
-        run: |
-          git fetch origin
-          if git ls-remote --exit-code --heads origin output >/dev/null 2>&1; then
-            git checkout output
-          else
-            git checkout --orphan output
-          fi
-          # bersihkan working dir (kecuali .git)
-          find . -mindepth 1 -maxdepth 1 ! -name '.git' -exec rm -rf {} +
-          mkdir -p output-json
-
-      # kembalikan artefak, tanpa self-copy
-      - name: Restore artifacts
-        run: |
-          cp -r /tmp/artifacts/output-json/* output-json/ || true
-          cp /tmp/artifacts/output-data.csv output-data.csv
-
-      - name: Commit & push results to output
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}   # PAT dengan scope repo
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
-          git add output-json/ output-data.csv
-          git commit -m "Update processed data" || echo "No changes"
-          git push https://x-access-token:${GH_PAT}@github.com/<username>/lokasi-data.git HEAD:output
-
+      - name: Commit output
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto: update output json & csv"
+          file_pattern: |
+            output/output-json/*.json
+            output/output-data.csv
