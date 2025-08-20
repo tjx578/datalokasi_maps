@@ -2,32 +2,41 @@ name: CI
 
 on:
   push:
+    branches: [ main ]
   pull_request:
-
-permissions:
-  contents: read
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout with PAT
-        if: ${{ github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name == github.repository }}
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.PAT_REPO }} 
           fetch-depth: 0
-          submodules: true              
+          submodules: true
           persist-credentials: false
-          
-      - name: Checkout for forked PRs (no private deps)
-        if: ${{ github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name != github.repository }}
-        uses: actions/checkout@v4
+          repository: tjx578/datalokasi_maps
+          ssh-strict: true
+          ssh-user: git
+          clean: true
+          sparse-checkout-cone-mode: true
+          fetch-tags: false
+          show-progress: true
+          lfs: false
+          set-safe-directory: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Contoh langkah build/test berikutnya:
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          fetch-depth: 0
-          submodules: false
+          node-version: '20'
 
-      - name: Build
-        run: |
-          echo "jalankan build/test di sini"
+      - name: Install dependencies
+        run: npm install
 
+      - name: Run build
+        run: npm run build
+
+      - name: Run tests
+        run: npm test
