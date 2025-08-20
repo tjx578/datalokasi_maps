@@ -1,42 +1,41 @@
-name: CI
-
+name: Data CI
 on:
   push:
-    branches: [ main ]
   pull_request:
 
+permissions:
+  contents: read
+
 jobs:
-  build:
+  validate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
+          token: ${{ secrets.PAT_REPO }}   # jika repo private
           fetch-depth: 0
-          submodules: true
-          persist-credentials: false
-          repository: tjx578/datalokasi_maps
-          ssh-strict: true
-          ssh-user: git
-          clean: true
-          sparse-checkout-cone-mode: true
-          fetch-tags: false
-          show-progress: true
-          lfs: false
-          set-safe-directory: true
-          token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Contoh langkah build/test berikutnya:
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
+      - name: List files
+        run: ls -R
 
-      - name: Install dependencies
-        run: npm install
+      # Validasi JSON (opsional, lewati jika tidak pakai JSON)
+      - name: Validate JSON files
+        run: |
+          set -e
+          shopt -s nullglob
+          for f in **/*.json; do
+            echo "checking $f"
+            jq -e . "$f" > /dev/null
+          done
 
-      - name: Run build
-        run: npm run build
+      # Validasi GeoJSON (opsional, sama seperti JSON)
+      - name: Validate GeoJSON files
+        run: |
+          set -e
+          shopt -s nullglob
+          for f in **/*.geojson; do
+            echo "checking $f"
+            jq -e . "$f" > /dev/null
+          done
 
-      - name: Run tests
-        run: npm test
+
