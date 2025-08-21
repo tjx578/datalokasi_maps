@@ -1,0 +1,96 @@
+[
+  {
+    "title": "Purwosari Village Hall",
+    "place_id": "ChIJl_cIa7nEcC4RJgYOuU5ecuE",
+    "data_id": "0x2e70c4b96b08f797:0xe1725e4eb90e0626",
+    "data_cid": 16245150498083964454,
+    "gps_coordinates": {
+      "latitude": -6.8088234,
+      "longitude": 110.826723
+    },
+    "provider_id": "/g/11ddxlkwpj",
+    "rating": 3.7,
+    "reviews": 23,
+    "type": "Government office",
+    "types": [
+      "Government office",
+      "Community center"
+    ],
+    "address": "5RRG+FMH, Jl. Ganesha II, Purwosari, Kec. Kota Kudus, Kabupaten Kudus, Jawa Tengah 59316",
+    "operating_hours": {},
+    "phone": "+62 291 437535",
+    "website": "http://kelurahan-purwosari.kuduskab.go.id/",
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Qin0GtvesKOTGnVUTameKQ&cb_client=search.gws-prod.gps&w=211&h=120&yaw=210.5251&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "5RRG+FMH, Jl. Ganesha II",
+    "city": "Kudus Regency",
+    "state": "Central Java",
+    "zip_code": 59316,
+    "country": "ID",
+    "reviews_per_1": 3,
+    "reviews_per_2": 0,
+    "reviews_per_3": 5,
+    "reviews_per_4": 7,
+    "reviews_per_5": 8,
+    "photo_count": 9,
+    "not_claimed": true,
+    "owner": "111680658389291618971",
+    "category": "Kantor Pemerintah",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJl_cIa7nEcC4RJgYOuU5ecuE&authuser=0&hl=en&gl=CA",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Washroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/5RRG%2BFMH+Purwosari+Village+Hall,+Jl.+Ganesha+II,+Purwosari,+Kota+Kudus,+Kudus+Regency,+Central+Java+59316,+Indonesia/@-6.8088234,110.826723,3962a,13.1y/data=!4m2!3m1!1s0x2e70c4b96b08f797:0xe1725e4eb90e0626",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "kantor lurah",
+    "location": "Denpasar, gianyar, ",
+    "start": 2,
+    "language": "en",
+    "location_name": ""
+  }
+]

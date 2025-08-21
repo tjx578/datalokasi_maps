@@ -1,0 +1,214 @@
+[
+  {
+    "title": "Bali Car Charter & Hire Bali Driver - Pacung Transport",
+    "place_id": "ChIJ7z7ByDRB0i0RZQaWEHqEUC4",
+    "data_id": "0x2dd24134c8c13eef:0x2e50847a10960665",
+    "data_cid": 3337312983680681573,
+    "gps_coordinates": {
+      "latitude": -8.7086508,
+      "longitude": 115.18974109999999
+    },
+    "provider_id": "/g/11gf9ftvk8",
+    "rating": 4,
+    "reviews": 7,
+    "type": "Transportation service",
+    "types": [
+      "Transportation service"
+    ],
+    "address": "Jl. Glogor Carik Gg. Perempatan No.2, Pemogan, Denpasar Selatan, Bali 80221",
+    "open_state": "Open 24 hours",
+    "operating_hours": {
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours"
+    },
+    "phone": "+62 812-4662-148",
+    "website": "https://www.balirentcarwithdriver.com/",
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QgU0nPjTyzmNKzgzU0zQrQ&cb_client=search.gws-prod.gps&w=211&h=120&yaw=102.36504&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "Jl. Glogor Carik Gg. Perempatan No.2",
+    "city": "Denpasar Selatan",
+    "state": "Bali",
+    "zip_code": 80221,
+    "country": "ID",
+    "reviews_per_1": 1,
+    "reviews_per_2": 0,
+    "reviews_per_3": 1,
+    "reviews_per_4": 1,
+    "reviews_per_5": 4,
+    "photo_count": 7,
+    "logo": "https://lh3.googleusercontent.com/-WVi9XWv7C78/AAAAAAAAAAI/AAAAAAAAAAA/sEQllZBnNGw/s44-p-k-no-ns-nd/photo.jpg",
+    "owner": "103681726025785584711",
+    "category": "Layanan Transportasi",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ7z7ByDRB0i0RZQaWEHqEUC4&authuser=0&hl=en&gl=CA",
+    "place_url": "https://www.google.com/maps/preview/place/Bali+Car+Charter+%26+Hire+Bali+Driver+-+Pacung+Transport,+Jl.+Glogor+Carik+Gg.+Perempatan+No.2,+Pemogan,+Denpasar+Selatan,+Bali+80221,+Indonesia/@-8.7086508,115.1897411,3944a,13.1y/data=!4m2!3m1!1s0x2dd24134c8c13eef:0x2e50847a10960665",
+    "note_from_owner": null,
+    "description_arr": null,
+    "not_claimed": false,
+    "service_option": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "perempatan",
+    "location": "denpasar",
+    "start": 2,
+    "language": "id",
+    "location_name": ""
+  },
+  {
+    "title": "Balitraveltraveling/Nusa penida/ubud tour/Balitour",
+    "place_id": "ChIJrU801bxB0i0RffDTNYAgG4s",
+    "data_id": "0x2dd241bcd5344fad:0x8b1b208035d3f07d",
+    "data_cid": 10023641130674155645,
+    "gps_coordinates": {
+      "latitude": -8.669130899999999,
+      "longitude": 115.26036599999999
+    },
+    "provider_id": "/g/11tcfrz816",
+    "type": "Tourist attraction",
+    "types": [
+      "Tourist attraction",
+      "Lodging",
+      "SCUBA tour agency",
+      "Tour agency"
+    ],
+    "address": "Jl. Matahari Terbit, Sanur Kaja, Denpasar Selatan, Bali",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LkyESutHZ-6vR826-cLzog&cb_client=search.gws-prod.gps&w=211&h=120&yaw=279.49847&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "Jl. Matahari Terbit",
+    "city": "Denpasar Selatan",
+    "state": "Bali",
+    "country": "ID",
+    "reviews_per_1": null,
+    "reviews_per_2": null,
+    "reviews_per_3": null,
+    "reviews_per_4": null,
+    "reviews_per_5": null,
+    "photo_count": 58,
+    "logo": "https://lh6.googleusercontent.com/-frR0k2u6GXQ/AAAAAAAAAAI/AAAAAAAAAAA/4iTOA6OmYms/s44-p-k-no-ns-nd/photo.jpg",
+    "owner": "103882646826693222440",
+    "category": "attractions",
+    "service_option": [
+      {
+        "name": "From the business",
+        "slug": "from_the_business",
+        "options": [
+          {
+            "name": "Identifies as women-owned",
+            "slug": "/geo/type/establishment_poi/is_owned_by_women"
+          }
+        ]
+      },
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Assistive hearing loop",
+            "slug": "/geo/type/establishment_poi/has_hearing_loop"
+          },
+          {
+            "name": "Wheelchair accessible seating",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_seating"
+          },
+          {
+            "name": "Wheelchair-accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Wheelchair-accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          },
+          {
+            "name": "Wheelchair-accessible washroom",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_restroom"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Gender-neutral washroom",
+            "slug": "/geo/type/establishment_poi/has_restroom_unisex"
+          }
+        ]
+      },
+      {
+        "name": "Planning",
+        "slug": "planning",
+        "options": [
+          {
+            "name": "Appointment required",
+            "slug": "/geo/type/establishment/requires_appointments"
+          }
+        ]
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "place_url": "https://www.google.com/maps/preview/place/Balitraveltraveling%2FNusa+penida%2Fubud+tour%2FBalitour,+Jl.+Matahari+Terbit,+Sanur+Kaja,+Denpasar+Selatan,+Bali,+Indonesia/@-8.6691309,115.260366,3944a,13.1y/data=!4m2!3m1!1s0x2dd241bcd5344fad:0x8b1b208035d3f07d",
+    "open_state": null,
+    "note_from_owner": "Nusa Penida is famous for having white sand beaches. Especially if you stop at Kelingking Beach. There is an amazingly beautiful view hidden behind the steep and sturdy cliffs of Nusa Penida. You can find white sandy beaches with natural shades.",
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "zip_code": null,
+    "not_claimed": false,
+    "reviews_link": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "wisata",
+    "location": "denpasar",
+    "start": 6,
+    "language": "id",
+    "location_name": ""
+  }
+]
