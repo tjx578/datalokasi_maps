@@ -1,0 +1,647 @@
+[
+  {
+    "title": "SPBU Pertamina Pasti Pas (SPBU 34.412.22)",
+    "place_id": "ChIJ2-iPpZxEaS4R8RowSi4cr-o",
+    "data_id": "0x2e69449ca58fe8db:0xeaaf1c2e4a301af1",
+    "data_cid": 16910766110938241777,
+    "gps_coordinates": {
+      "latitude": -6.2927423,
+      "longitude": 107.77745
+    },
+    "provider_id": "/g/1pzsb09ds",
+    "rating": 4.3,
+    "reviews": 1229,
+    "type": "Gas station",
+    "types": [
+      "Gas station"
+    ],
+    "address": "Cikampek, Jalan, Sukasari, Karawang, West Java 41254",
+    "open_state": "Open 24 hours",
+    "operating_hours": {
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours"
+    },
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZRoTWLwhLkKe2ecwUCZxwA&cb_client=search.gws-prod.gps&w=211&h=120&yaw=353.44858&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "Cikampek, Jalan",
+    "city": "Karawang",
+    "state": "West Java",
+    "zip_code": 41254,
+    "country": "ID",
+    "reviews_per_1": 55,
+    "reviews_per_2": 27,
+    "reviews_per_3": 120,
+    "reviews_per_4": 275,
+    "reviews_per_5": 752,
+    "photo_count": 433,
+    "not_claimed": true,
+    "owner": "117616476753483647620",
+    "category": "Pom bensin/SPBU",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ2-iPpZxEaS4R8RowSi4cr-o&authuser=0&hl=en&gl=CA",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible washroom",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_restroom"
+          }
+        ]
+      },
+      {
+        "name": "Offerings",
+        "slug": "offerings",
+        "options": [
+          {
+            "name": "Car wash",
+            "slug": "/geo/type/establishment_poi/has_car_wash"
+          },
+          {
+            "name": "Diesel gas",
+            "slug": "/geo/type/establishment_poi/sells_gas_diesel"
+          },
+          {
+            "name": "LPG",
+            "slug": "/geo/type/establishment/offers_liquefied_petroleum_gas"
+          },
+          {
+            "name": "Pertamax fuel",
+            "slug": "/geo/type/establishment/offers_pertamax_fuel"
+          },
+          {
+            "name": "Pertamina Dex fuel",
+            "slug": "/geo/type/establishment/offers_pertamina_dex_fuel"
+          },
+          {
+            "name": "Propane exchange",
+            "slug": "/geo/type/establishment_poi/has_propane_exchange"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Washroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      },
+      {
+        "name": "Payments",
+        "slug": "payments",
+        "options": [
+          {
+            "name": "NFC mobile payments",
+            "slug": "/geo/type/establishment_poi/pay_mobile_nfc"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/SPBU+Pertamina+Pasti+Pas+(SPBU+34.412.22),+Cikampek,+Jalan,+Sukasari,+Kec.+Sukasari,+Karawang,+Jawa+Barat+41254,+Indonesia/@-6.2927423,107.77745,3966a,13.1y/data=!4m2!3m1!1s0x2e69449ca58fe8db:0xeaaf1c2e4a301af1",
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "spbu",
+    "location": "Denpasar, gianyar",
+    "start": 7,
+    "language": "en",
+    "location_name": ""
+  },
+  {
+    "title": "PUSKESMAS CIKAMPEK",
+    "place_id": "ChIJFxNEafRyaS4RnWF4u2VFCvg",
+    "data_id": "0x2e6972f469441317:0xf80a4565bb78619d",
+    "data_cid": 17873174374412476829,
+    "gps_coordinates": {
+      "latitude": -6.404755499999999,
+      "longitude": 107.4516421
+    },
+    "provider_id": "/g/11bc7pcp66",
+    "rating": 3.9,
+    "reviews": 170,
+    "type": "Public medical center",
+    "types": [
+      "Public medical center",
+      "Community health center",
+      "Doctor",
+      "Medical clinic",
+      "Walk-in clinic"
+    ],
+    "address": "Jl. Ahmad Yani No.50, Cikampek Sel., Kec. Cikampek, Karawang, Jawa Barat 41373",
+    "open_state": "Open 24 hours",
+    "operating_hours": {
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours"
+    },
+    "phone": "+62 264 316002",
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HYOZTson94i_LmEDZMH8MA&cb_client=search.gws-prod.gps&w=211&h=120&yaw=204.10545&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "Jl. Ahmad Yani No.50",
+    "city": "Karawang",
+    "state": "West Java",
+    "zip_code": 41373,
+    "country": "ID",
+    "reviews_per_1": 34,
+    "reviews_per_2": 7,
+    "reviews_per_3": 5,
+    "reviews_per_4": 21,
+    "reviews_per_5": 103,
+    "photo_count": 47,
+    "not_claimed": true,
+    "owner": "105942011310548063229",
+    "category": "Pusat Kesehatan Masyarakat",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJFxNEafRyaS4RnWF4u2VFCvg&authuser=0&hl=en&gl=CA",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Wheelchair-accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          },
+          {
+            "name": "Wheelchair-accessible washroom",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_restroom"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Washroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/PUSKESMAS+CIKAMPEK,+Jl.+Ahmad+Yani+No.50,+Cikampek+Sel.,+Kec.+Cikampek,+Karawang,+Jawa+Barat+41373,+Indonesia/@-6.4047555,107.4516421,3965a,13.1y/data=!4m2!3m1!1s0x2e6972f469441317:0xf80a4565bb78619d",
+    "note_from_owner": null,
+    "description_arr": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "puskesmas",
+    "location": "Denpasar, gianyar, ",
+    "start": 5,
+    "language": "en",
+    "location_name": ""
+  },
+  {
+    "title": "SDN CIKAMPEK KOTA",
+    "place_id": "ChIJafpKvlJzaS4RvWABtq77iDE",
+    "data_id": "0x2e697352be4afa69:0x3188fbaeb60160bd",
+    "data_cid": 3569379432487542973,
+    "gps_coordinates": {
+      "latitude": -6.4089274,
+      "longitude": 107.46412629999999
+    },
+    "provider_id": "/g/11fkmfjvpw",
+    "rating": 3.7,
+    "reviews": 3,
+    "type": "School",
+    "types": [
+      "School"
+    ],
+    "address": "HFR7+CMC, Cikampek Kota, Kec. Cikampek, Karawang, Jawa Barat 41373",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=t-0Phv-VP0cgwjb3RblIpQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=158.26355&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "HFR7+CMC",
+    "city": "Karawang",
+    "state": "West Java",
+    "zip_code": 41373,
+    "country": "ID",
+    "reviews_per_1": 1,
+    "photo_count": 1,
+    "not_claimed": true,
+    "owner": "110533041663251772628",
+    "category": "Sekolah",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJafpKvlJzaS4RvWABtq77iDE&authuser=0&hl=en&gl=CA",
+    "place_url": "https://www.google.com/maps/preview/place/HFR7%2BCMC+SDN+CIKAMPEK+KOTA,+Cikampek+Kota,+Kec.+Cikampek,+Karawang,+Jawa+Barat+41373,+Indonesia/@-6.4089274,107.4641263,3965a,13.1y/data=!4m2!3m1!1s0x2e697352be4afa69:0x3188fbaeb60160bd",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 0,
+    "reviews_per_5": 2,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "service_option": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "sekolah dasar negeri",
+    "location": "cau blayu",
+    "start": 12,
+    "language": "id",
+    "location_name": ""
+  },
+  {
+    "title": "SDN",
+    "place_id": "ChIJRWdZ0713aS4RzWxEyajl38o",
+    "data_id": "0x2e6977bdd3596745:0xcadfe5a8c9446ccd",
+    "gps_coordinates": {
+      "latitude": -6.305403,
+      "longitude": 107.3202675
+    },
+    "provider_id": "/g/11dxfnhv9j",
+    "type": "Elementary school",
+    "types": [
+      "Elementary school"
+    ],
+    "address": "M8VC+R4J, Karawang Wetan, Kec. Karawang Tim., Karawang, Jawa Barat 41314",
+    "operating_hours": {},
+    "phone": "+62 858-6150-2933",
+    "description": {},
+    "street": "M8VC+R4J",
+    "city": "Karawang",
+    "state": "West Java",
+    "zip_code": 41314,
+    "country": "ID",
+    "not_claimed": true,
+    "owner": "106318876690851094676",
+    "category": "Sekolah Dasar",
+    "data_cid": 14618655428561890509,
+    "rating": null,
+    "reviews": null,
+    "place_url": "https://www.google.com/maps/preview/place/M8VC%2BR4J+SDN,+Karawang+Wetan,+Kec.+Karawang+Tim.,+Karawang,+Jawa+Barat+41314,+Indonesia/@-6.305403,107.3202675,3966a,13.1y/data=!4m2!3m1!1s0x2e6977bdd3596745:0xcadfe5a8c9446ccd",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "reviews_per_1": null,
+    "reviews_per_2": null,
+    "reviews_per_3": null,
+    "reviews_per_4": null,
+    "reviews_per_5": null,
+    "website": null,
+    "thumbnail": null,
+    "photo_count": null,
+    "logo": null,
+    "reviews_link": null,
+    "service_option": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "sekolah dasar negeri",
+    "location": "cau blayu",
+    "start": 12,
+    "language": "id",
+    "location_name": ""
+  },
+  {
+    "title": "SDN Karangmulya II",
+    "place_id": "ChIJXQ3vvrSdaS4RJ5hrjXw0--I",
+    "data_id": "0x2e699db4beef0d5d:0xe2fb347c8d6b9827",
+    "data_cid": 16355724181279316007,
+    "gps_coordinates": {
+      "latitude": -6.3425899999999995,
+      "longitude": 107.24418999999999
+    },
+    "provider_id": "/g/1hm27wt83",
+    "type": "Elementary school",
+    "types": [
+      "Elementary school"
+    ],
+    "address": "M64V+XM8, Karangmulya, Kec. Telukjambe Bar., Karawang, Jawa Barat 41363",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yELZ3s-sDUU6KEzvfX8FYA&cb_client=search.gws-prod.gps&w=211&h=120&yaw=215.64828&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "M64V+XM8",
+    "city": "Karawang",
+    "state": "West Java",
+    "zip_code": 41363,
+    "country": "ID",
+    "reviews_per_1": null,
+    "reviews_per_2": null,
+    "reviews_per_3": null,
+    "reviews_per_4": null,
+    "reviews_per_5": null,
+    "photo_count": 4,
+    "not_claimed": true,
+    "owner": "117239880540748504478",
+    "category": "Sekolah Dasar",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Wheelchair-accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          }
+        ]
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "place_url": "https://www.google.com/maps/preview/place/M64V%2BXM8+SDN+Karangmulya+II,+Karangmulya,+Kec.+Telukjambe+Bar.,+Karawang,+Jawa+Barat+41363,+Indonesia/@-6.34259,107.24419,3965a,13.1y/data=!4m2!3m1!1s0x2e699db4beef0d5d:0xe2fb347c8d6b9827",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "reviews_link": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "sekolah dasar negeri",
+    "location": "cau blayu",
+    "start": 12,
+    "language": "id",
+    "location_name": ""
+  },
+  {
+    "title": "Gas Station Pos Siaga Lebaran Cikampek KM 57 A",
+    "place_id": "ChIJxyd2_yF0aS4Rke2QWUFK2lQ",
+    "data_id": "0x2e697421ff7627c7:0x54da4a415990ed91",
+    "data_cid": 6114281088644869521,
+    "gps_coordinates": {
+      "latitude": -6.3678899,
+      "longitude": 107.3611098
+    },
+    "provider_id": "/g/11c4k3wgyr",
+    "rating": 4.5,
+    "reviews": 11460,
+    "type": "Gas station",
+    "types": [
+      "Gas station",
+      "Rest stop"
+    ],
+    "address": "Jakarta - Cikampek Toll Rd No.Km. 57, Gintungkerta, Klari, Karawang, West Java 41371",
+    "open_state": "Open 24 hours",
+    "operating_hours": {
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours"
+    },
+    "phone": "+62 267 438777",
+    "website": "http://www.pertamina.com/",
+    "description": {},
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np7gIM4XagARckJ0cksbeMNecSZw4HTwuesFzgetWD3a176-1nJMRnnERo0lxbDtJ8LNm-obG19ZKOY2tXsA8NgxjWo4ePw0LdyMrLKg-XfLcbwBsW0kiPFnrSPXUTpn4Meybp94Q=w1600-h1000-k-no",
+    "street": "Jakarta - Cikampek Toll Rd No.Km. 57",
+    "city": "Karawang",
+    "state": "West Java",
+    "zip_code": 41371,
+    "country": "ID",
+    "reviews_per_1": 151,
+    "reviews_per_2": 132,
+    "reviews_per_3": 1031,
+    "reviews_per_4": 2608,
+    "reviews_per_5": 7538,
+    "photo_count": 2146,
+    "not_claimed": true,
+    "owner": "117111452242337388360",
+    "category": "Pom bensin/SPBU",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJxyd2_yF0aS4Rke2QWUFK2lQ&authuser=0&hl=en&gl=CA",
+    "service_option": [
+      {
+        "name": "Service options",
+        "slug": "service_options",
+        "options": [
+          {
+            "name": "Onsite services",
+            "slug": "/geo/type/establishment_poi/has_onsite_services"
+          }
+        ]
+      },
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible washroom",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_restroom"
+          }
+        ]
+      },
+      {
+        "name": "Offerings",
+        "slug": "offerings",
+        "options": [
+          {
+            "name": "Car wash",
+            "slug": "/geo/type/establishment_poi/has_car_wash"
+          },
+          {
+            "name": "Diesel gas",
+            "slug": "/geo/type/establishment_poi/sells_gas_diesel"
+          },
+          {
+            "name": "LPG",
+            "slug": "/geo/type/establishment/offers_liquefied_petroleum_gas"
+          },
+          {
+            "name": "Pertamax fuel",
+            "slug": "/geo/type/establishment/offers_pertamax_fuel"
+          },
+          {
+            "name": "Pertamina Dex fuel",
+            "slug": "/geo/type/establishment/offers_pertamina_dex_fuel"
+          },
+          {
+            "name": "Propane exchange",
+            "slug": "/geo/type/establishment_poi/has_propane_exchange"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Washroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      },
+      {
+        "name": "Payments",
+        "slug": "payments",
+        "options": [
+          {
+            "name": "Credit cards",
+            "slug": "/geo/type/establishment_poi/pay_credit_card"
+          },
+          {
+            "name": "Debit cards",
+            "slug": "/geo/type/establishment_poi/pay_debit_card"
+          },
+          {
+            "name": "NFC mobile payments",
+            "slug": "/geo/type/establishment_poi/pay_mobile_nfc"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/Gas+Station+Pos+Siaga+Lebaran+Cikampek+KM+57+A,+Jakarta+-+Cikampek+Toll+Rd+No.Km.+57,+Gintungkerta,+Klari,+Karawang,+West+Java+41371,+Indonesia/@-6.3678899,107.3611098,3965a,13.1y/data=!4m2!3m1!1s0x2e697421ff7627c7:0x54da4a415990ed91",
+    "note_from_owner": null,
+    "description_arr": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "spbu pertamina",
+    "location": "Denpasar, gianyar, ",
+    "start": 9,
+    "language": "en",
+    "location_name": ""
+  }
+]

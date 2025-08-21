@@ -1,0 +1,109 @@
+[
+  {
+    "title": "Puskesmas Cihampelas",
+    "place_id": "ChIJKXS_wKz6aC4RzfXZT7TFzQE",
+    "data_id": "0x2e68faacc0bf7429:0x1cdc5b44fd9f5cd",
+    "data_cid": 129977342488081869,
+    "gps_coordinates": {
+      "latitude": -6.926734799999999,
+      "longitude": 107.478302
+    },
+    "provider_id": "/g/11b6sxd0ld",
+    "rating": 2.4,
+    "reviews": 64,
+    "type": "Public medical center",
+    "types": [
+      "Public medical center",
+      "Community health center",
+      "Walk-in clinic"
+    ],
+    "address": "Jl. Raya Cihampelas No.149, Cihampelas, Kec. Cihampelas, Kabupaten Bandung Barat, Jawa Barat 40562",
+    "open_state": "Closed ⋅ Opens 7:45 a.m.",
+    "operating_hours": {
+      "sunday": "7:45–10 a.m.",
+      "monday": "7:45–10 a.m.",
+      "tuesday": "Closed",
+      "wednesday": "7:45 a.m.–3 p.m.",
+      "thursday": "7:45 a.m.–3 p.m.",
+      "friday": "7:45 a.m.–3 p.m.",
+      "saturday": "7:45–11 a.m."
+    },
+    "phone": "+62 822-9533-3955",
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=urYeZ7VO9okHFJGu292grA&cb_client=search.gws-prod.gps&w=211&h=120&yaw=133.40443&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "Jl. Raya Cihampelas No.149",
+    "city": "West Bandung Regency",
+    "state": "West Java",
+    "zip_code": 40562,
+    "country": "ID",
+    "reviews_per_1": 38,
+    "reviews_per_2": 3,
+    "reviews_per_3": 2,
+    "reviews_per_4": 1,
+    "reviews_per_5": 20,
+    "photo_count": 16,
+    "logo": "https://lh6.googleusercontent.com/-qAy-xY7wtW8/AAAAAAAAAAI/AAAAAAAAAAA/bN6G47rTBJE/s44-p-k-no-ns-nd/photo.jpg",
+    "owner": "101079341449454903637",
+    "category": "Pusat Kesehatan Masyarakat",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJKXS_wKz6aC4RzfXZT7TFzQE&authuser=0&hl=en&gl=CA",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Wheelchair-accessible washroom",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_restroom"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Washroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/Puskesmas+Cihampelas,+Jl.+Raya+Cihampelas+No.149,+Cihampelas,+Kec.+Cihampelas,+Kabupaten+Bandung+Barat,+Jawa+Barat+40562,+Indonesia/@-6.9267348,107.478302,3961a,13.1y/data=!4m2!3m1!1s0x2e68faacc0bf7429:0x1cdc5b44fd9f5cd",
+    "note_from_owner": null,
+    "description_arr": null,
+    "website": null,
+    "not_claimed": false,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "puskesmas",
+    "location": "Denpasar, gianyar, ",
+    "start": 9,
+    "language": "en",
+    "location_name": ""
+  }
+]

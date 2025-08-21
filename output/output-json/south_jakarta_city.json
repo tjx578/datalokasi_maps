@@ -1,0 +1,411 @@
+[
+  {
+    "title": "Arsip Nasional Republik Indonesia",
+    "place_id": "ChIJUfLeICDyaS4RamhZZjMkYJM",
+    "data_id": "0x2e69f22020def251:0x936024336659686a",
+    "data_cid": 10619527724518697066,
+    "gps_coordinates": {
+      "latitude": -6.2788803,
+      "longitude": 106.81996409999999
+    },
+    "provider_id": "/m/0ch370q",
+    "rating": 4.4,
+    "reviews": 190,
+    "type": "Government office",
+    "types": [
+      "Government office"
+    ],
+    "address": "Jl. Ampera Raya No.7 3, RT.3/RW.4, Cilandak Tim., Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12560",
+    "open_state": "Closed ⋅ Opens 7:30 a.m. Mon",
+    "operating_hours": {
+      "sunday": "Closed",
+      "monday": "Closed",
+      "tuesday": "7:30 a.m.–4 p.m.",
+      "wednesday": "7:30 a.m.–4 p.m.",
+      "thursday": "7:30 a.m.–4 p.m.",
+      "friday": "7:30 a.m.–4 p.m.",
+      "saturday": "7:30 a.m.–4:30 p.m."
+    },
+    "phone": "+62 21 7805851",
+    "website": "http://www.anri.go.id/",
+    "description": {},
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrjMor2dtlvEZoCVj6GIRZTtCIEgUwfFWroEFdLYVpmMDA3d7UxwnkoVR8zYkq4fXGalss82u1L-qj5lZjRaSHJJWbK6xTAFlsAPWC1e7In_sAMH7N6hHZohWreanwLiadGmMbuTQ=w1600-h1000-k-no",
+    "street": "Jl. Ampera Raya No.7 3, RT.3/RW.4",
+    "city": "South Jakarta City",
+    "state": "Jakarta",
+    "zip_code": 12560,
+    "country": "ID",
+    "reviews_per_1": 10,
+    "reviews_per_2": 3,
+    "reviews_per_3": 12,
+    "reviews_per_4": 36,
+    "reviews_per_5": 129,
+    "photo_count": 572,
+    "not_claimed": true,
+    "owner": "104092246022592048847",
+    "category": "Kantor Pemerintah",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJUfLeICDyaS4RamhZZjMkYJM&authuser=0&hl=en&gl=CA",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Wheelchair-accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Washroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      },
+      {
+        "name": "Parking",
+        "slug": "parking",
+        "options": [
+          {
+            "name": "Free parking lot",
+            "slug": "/geo/type/establishment_poi/has_parking_lot_free"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/Arsip+Nasional+Republik+Indonesia,+Jl.+Ampera+Raya+No.7+3,+RT.3%2FRW.4,+Cilandak+Tim.,+Ps.+Minggu,+Kota+Jakarta+Selatan,+Daerah+Khusus+Ibukota+Jakarta+12560,+Indonesia/@-6.2788803,106.8199641,3966a,13.1y/data=!4m2!3m1!1s0x2e69f22020def251:0x936024336659686a",
+    "note_from_owner": null,
+    "description_arr": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "kantor pemerintahan",
+    "location": "denpasar, gianyar",
+    "start": 9,
+    "language": "id",
+    "location_name": ""
+  },
+  {
+    "title": "Kantor Kelurahan Ragunan",
+    "place_id": "ChIJNW3iw_3taS4RZXO7JCW8ens",
+    "data_id": "0x2e69edfdc3e26d35:0x7b7abc2524bb7365",
+    "data_cid": 8897630881539912549,
+    "gps_coordinates": {
+      "latitude": -6.305299199999999,
+      "longitude": 106.8195344
+    },
+    "provider_id": "/g/1ptwq90k5",
+    "rating": 4,
+    "reviews": 71,
+    "type": "District government office",
+    "types": [
+      "District government office"
+    ],
+    "address": "Jl. Saco No.1 1, RT.1/RW.4, Ragunan, Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12550",
+    "open_state": "Closed ⋅ Opens 8 a.m.",
+    "operating_hours": {
+      "sunday": "8 a.m.–4:30 p.m.",
+      "monday": "Closed",
+      "tuesday": "Closed",
+      "wednesday": "8 a.m.–4 p.m.",
+      "thursday": "8 a.m.–4 p.m.",
+      "friday": "8 a.m.–4 p.m.",
+      "saturday": "8 a.m.–4 p.m."
+    },
+    "phone": "+62 21 7812816",
+    "website": "https://selatan.jakarta.go.id/ragunan/",
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AjXDBg6zsNjeSY22-63m4w&cb_client=search.gws-prod.gps&w=211&h=120&yaw=20.412437&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "Jl. Saco No.1 1, RT.1/RW.4",
+    "city": "South Jakarta City",
+    "state": "Jakarta",
+    "zip_code": 12550,
+    "country": "ID",
+    "reviews_per_1": 12,
+    "reviews_per_2": 2,
+    "reviews_per_3": 4,
+    "reviews_per_4": 10,
+    "reviews_per_5": 43,
+    "photo_count": 24,
+    "not_claimed": true,
+    "owner": "100173175625026451955",
+    "category": "Kantor Pemerintah Distrik",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJNW3iw_3taS4RZXO7JCW8ens&authuser=0&hl=en&gl=CA",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Wheelchair-accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Washroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/Kantor+Kelurahan+Ragunan,+Jl.+Saco+No.1+1,+RT.1%2FRW.4,+Ragunan,+Ps.+Minggu,+Kota+Jakarta+Selatan,+Daerah+Khusus+Ibukota+Jakarta+12550,+Indonesia/@-6.3052992,106.8195344,3966a,13.1y/data=!4m2!3m1!1s0x2e69edfdc3e26d35:0x7b7abc2524bb7365",
+    "note_from_owner": null,
+    "description_arr": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "kantor lurah",
+    "location": "Denpasar, gianyar",
+    "start": 3,
+    "language": "en",
+    "location_name": ""
+  },
+  {
+    "title": "Kelurahan Karet Kuningan",
+    "place_id": "ChIJCTAisPjzaS4RRq_Ft05GPMI",
+    "data_id": "0x2e69f3f8b0223009:0xc23c464eb7c5af46",
+    "data_cid": 13996139045865238342,
+    "gps_coordinates": {
+      "latitude": -6.2187322,
+      "longitude": 106.8249544
+    },
+    "provider_id": "/g/1pzr4qkhz",
+    "rating": 3.6,
+    "reviews": 44,
+    "type": "County government office",
+    "types": [
+      "County government office",
+      "Government office"
+    ],
+    "address": "Jl. Anggrek 4 No.1, RT.6/RW.2, Kuningan, Karet Kuningan, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12940",
+    "open_state": "Closed ⋅ Opens 7:30 a.m.",
+    "operating_hours": {
+      "sunday": "7:30 a.m.–4:30 p.m.",
+      "monday": "Closed",
+      "tuesday": "Closed",
+      "wednesday": "7:30 a.m.–4 p.m.",
+      "thursday": "7:30 a.m.–4 p.m.",
+      "friday": "7:30 a.m.–4 p.m.",
+      "saturday": "7:30 a.m.–4 p.m."
+    },
+    "phone": "+62 21 5273653",
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=h8Scr4f2I7ff1IoHxSY0cw&cb_client=search.gws-prod.gps&w=211&h=120&yaw=42.23979&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "Jl. Anggrek 4 No.1, RT.6/RW.2",
+    "city": "South Jakarta City",
+    "state": "Jakarta",
+    "zip_code": 12940,
+    "country": "ID",
+    "reviews_per_1": 10,
+    "reviews_per_2": 4,
+    "reviews_per_3": 1,
+    "reviews_per_4": 8,
+    "reviews_per_5": 21,
+    "photo_count": 45,
+    "not_claimed": true,
+    "owner": "101897416253757396188",
+    "category": "Kantor Pemerintahan Wilayah",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJCTAisPjzaS4RRq_Ft05GPMI&authuser=0&hl=en&gl=CA",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Washroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/Kelurahan+Karet+Kuningan,+Jl.+Anggrek+4+No.1,+RT.6%2FRW.2,+Kuningan,+Karet+Kuningan,+Setiabudi,+South+Jakarta+City,+Jakarta+12940,+Indonesia/@-6.2187322,106.8249544,3966a,13.1y/data=!4m2!3m1!1s0x2e69f3f8b0223009:0xc23c464eb7c5af46",
+    "note_from_owner": null,
+    "description_arr": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "kantor lurah",
+    "location": "Denpasar, gianyar, ",
+    "start": 3,
+    "language": "en",
+    "location_name": ""
+  },
+  {
+    "title": "Monumen Patung Dirgantara",
+    "place_id": "ChIJL-pfxLjzaS4ROaSgrXQgJrQ",
+    "data_id": "0x2e69f3b8c45fea2f:0xb4262074ada0a439",
+    "data_cid": 12981098661443314745,
+    "gps_coordinates": {
+      "latitude": -6.243080099999999,
+      "longitude": 106.8435923
+    },
+    "provider_id": "/g/120t9thm",
+    "rating": 4.5,
+    "reviews": 5454,
+    "type": "Monument",
+    "types": [
+      "Monument"
+    ],
+    "address": "Jl. Gatot Subroto No.1 2, RT.2/RW.1, Menteng Dalam, Kec. Pancoran, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12780",
+    "operating_hours": {},
+    "phone": "+62 838-1367-5909",
+    "description": {},
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqPPTe_IjQEgOdRDQwyN5YMYw8RABEAdJgzTX4RzZSJkCvUC3gQVLLlY5N5EDhMk_KFmskte91spzM5oi1O5GDXYL47RN4BRNSL7QG_DcS_5SWTvYM5_h2oIJbEGUyZ6Ho3We8J=w1600-h1000-k-no",
+    "street": "Jl. Gatot Subroto No.1 2, RT.2/RW.1",
+    "city": "South Jakarta City",
+    "state": "Jakarta",
+    "zip_code": 12780,
+    "country": "ID",
+    "reviews_per_1": 110,
+    "reviews_per_2": 110,
+    "reviews_per_3": 481,
+    "reviews_per_4": 912,
+    "reviews_per_5": 3841,
+    "photo_count": 3690,
+    "owner": "111845649269489967347",
+    "category": "attractions",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJL-pfxLjzaS4ROaSgrXQgJrQ&authuser=0&hl=en&gl=CA",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Wheelchair-accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/Monumen+Patung+Dirgantara,+Jl.+Gatot+Subroto+No.1+2,+RT.2%2FRW.1,+Menteng+Dalam,+Kec.+Pancoran,+Kota+Jakarta+Selatan,+Daerah+Khusus+Ibukota+Jakarta+12780,+Indonesia/@-6.2430801,106.8435923,3966a,13.1y/data=!4m2!3m1!1s0x2e69f3b8c45fea2f:0xb4262074ada0a439",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "website": null,
+    "logo": null,
+    "not_claimed": false,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "patung",
+    "location": "bali",
+    "start": 5,
+    "language": "en",
+    "location_name": ""
+  }
+]
