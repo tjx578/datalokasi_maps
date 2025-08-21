@@ -1,0 +1,103 @@
+[
+  {
+    "title": "Balai Desa Banjar Negeri",
+    "place_id": "ChIJnbt1lzLIQC4R0WhEtl1hsfo",
+    "data_id": "0x2e40c8329775bb9d:0xfab1615db64468d1",
+    "data_cid": 18064326635477559505,
+    "gps_coordinates": {
+      "latitude": -5.217732,
+      "longitude": 105.1743015
+    },
+    "provider_id": "/g/11dfx01y_h",
+    "rating": 4.3,
+    "reviews": 47,
+    "type": "Village hall",
+    "types": [
+      "Village hall"
+    ],
+    "address": "Q5JF+WP3, Banjarnegeri, Kec. Natar, Kabupaten Lampung Selatan, Lampung 35362",
+    "open_state": "Closed ⋅ Opens 7 a.m. Mon",
+    "operating_hours": {
+      "sunday": "Closed",
+      "monday": "7 a.m.–1 p.m.",
+      "tuesday": "7 a.m.–1 p.m.",
+      "wednesday": "7 a.m.–1 p.m.",
+      "thursday": "7 a.m.–1 p.m.",
+      "friday": "7 a.m.–1 p.m.",
+      "saturday": "7 a.m.–1 p.m."
+    },
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Zwzrel0VH10b8WRgNW8lWg&cb_client=search.gws-prod.gps&w=211&h=120&yaw=203.2197&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "Q5JF+WP3",
+    "city": "South Lampung Regency",
+    "state": "Lampung",
+    "zip_code": 35362,
+    "country": "ID",
+    "reviews_per_1": 1,
+    "reviews_per_2": 2,
+    "reviews_per_3": 6,
+    "reviews_per_4": 10,
+    "reviews_per_5": 28,
+    "photo_count": 12,
+    "not_claimed": true,
+    "owner": "109133666604974427433",
+    "category": "Balai Pertemuan Desa",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJnbt1lzLIQC4R0WhEtl1hsfo&authuser=0&hl=en&gl=CA",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Washroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/Q5JF%2BWP3+Balai+Desa+Banjar+Negeri,+Banjarnegeri,+Kec.+Natar,+Kabupaten+Lampung+Selatan,+Lampung+35362,+Indonesia/@-5.217732,105.1743015,3973a,13.1y/data=!4m2!3m1!1s0x2e40c8329775bb9d:0xfab1615db64468d1",
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "balai banjar",
+    "location": "denpasar barat",
+    "start": 18,
+    "language": "id",
+    "location_name": ""
+  }
+]

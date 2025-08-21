@@ -1,0 +1,89 @@
+[
+  {
+    "title": "Bundaran Arteri",
+    "place_id": "ChIJwfOz7w_f1y0R9yDoSZ2QqLA",
+    "data_id": "0x2dd7df0fefb3f3c1:0xb0a8909d49e820f7",
+    "data_cid": 12729583351986921719,
+    "gps_coordinates": {
+      "latitude": -7.553795099999999,
+      "longitude": 112.6943757
+    },
+    "provider_id": "/g/11rgd33q5t",
+    "rating": 4.4,
+    "reviews": 22,
+    "type": "Park",
+    "types": [
+      "Park"
+    ],
+    "address": "CMWV+FQJ, Jl. Raya Surabaya - Malang, Ngasem, Kejapanan, Kec. Gempol, Pasuruan, Jawa Timur 67155",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2qrewAx7MxQuZhcYf0sQWg&cb_client=search.gws-prod.gps&w=211&h=120&yaw=33.054283&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "CMWV+FQJ, Jl. Raya Surabaya - Malang",
+    "city": "Pasuruan Regency",
+    "state": "East Java",
+    "zip_code": 67155,
+    "country": "ID",
+    "reviews_per_1": 1,
+    "reviews_per_2": 0,
+    "reviews_per_3": 3,
+    "reviews_per_4": 3,
+    "reviews_per_5": 15,
+    "photo_count": 8,
+    "not_claimed": true,
+    "owner": "102577489949088477711",
+    "category": "attractions",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJwfOz7w_f1y0R9yDoSZ2QqLA&authuser=0&hl=en&gl=CA",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Wheelchair-accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/CMWV%2BFQJ+Bundaran+Arteri,+Jl.+Raya+Surabaya+-+Malang,+Ngasem,+Kejapanan,+Kec.+Gempol,+Pasuruan,+Jawa+Timur+67155,+Indonesia/@-7.5537951,112.6943757,3955a,13.1y/data=!4m2!3m1!1s0x2dd7df0fefb3f3c1:0xb0a8909d49e820f7",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "bundaran",
+    "location": "Denpasar, gianyar",
+    "start": 1,
+    "language": "en",
+    "location_name": ""
+  }
+]
