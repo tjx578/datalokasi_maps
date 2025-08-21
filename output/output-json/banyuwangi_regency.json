@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Banjar Village Hall",
+    "place_id": "ChIJf1YiJEdO0S0RVWsGnAsy4l4",
+    "data_id": "0x2dd14e472422567f:0x5ee2320b9c066b55",
+    "data_cid": 6837082209745529685,
+    "gps_coordinates": {
+      "latitude": -8.2053125,
+      "longitude": 114.26973439999999
+    },
+    "provider_id": "/g/11c597rbm7",
+    "rating": 4.1,
+    "reviews": 95,
+    "type": "Community center",
+    "types": [
+      "Community center"
+    ],
+    "address": "Q7V9+VVH, Pancoran, Banjar, Kec. Licin, Kabupaten Banyuwangi, Jawa Timur 68432",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cWYsxp3HhpbIZF7q15eBDA&cb_client=search.gws-prod.gps&w=211&h=120&yaw=58.59569&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "Q7V9+VVH",
+    "city": "Banyuwangi Regency",
+    "state": "East Java",
+    "zip_code": 68432,
+    "country": "ID",
+    "reviews_per_1": 4,
+    "reviews_per_2": 4,
+    "reviews_per_3": 14,
+    "reviews_per_4": 25,
+    "reviews_per_5": 48,
+    "photo_count": 85,
+    "not_claimed": true,
+    "owner": "115185151937412415399",
+    "category": "Balai masyarakat",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJf1YiJEdO0S0RVWsGnAsy4l4&authuser=0&hl=en&gl=CA",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Washroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/Q7V9%2BVVH+Banjar+Village+Hall,+Pancoran,+Banjar,+Licin,+Banyuwangi+Regency,+East+Java+68432,+Indonesia/@-8.2053125,114.2697344,3949a,13.1y/data=!4m2!3m1!1s0x2dd14e472422567f:0x5ee2320b9c066b55",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "balai banjar",
+    "location": "tampak siring",
+    "start": 15,
+    "language": "id",
+    "location_name": ""
+  }
+]

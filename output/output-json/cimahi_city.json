@@ -1,0 +1,95 @@
+[
+  {
+    "title": "SDN Cimahi Mandiri 1",
+    "place_id": "ChIJual0p0PkaC4R_4Hu5Ci3sOg",
+    "data_id": "0x2e68e443a774a9b9:0xe8b0b728e4ee81ff",
+    "data_cid": 16767102798967767551,
+    "gps_coordinates": {
+      "latitude": -6.8720243,
+      "longitude": 107.543088
+    },
+    "provider_id": "/g/1hm1t7123",
+    "type": "Primary school",
+    "types": [
+      "Primary school"
+    ],
+    "address": "Jl. Alun-Alun Tim. No.44, Cimahi, Kec. Cimahi Tengah, Kota Cimahi, Jawa Barat 40525",
+    "open_state": "Closed ⋅ Opens 6 a.m. Thu",
+    "operating_hours": {
+      "sunday": "6 a.m.–3 p.m.",
+      "monday": "6 a.m.–3 p.m.",
+      "tuesday": "6 a.m.–3 p.m.",
+      "wednesday": "Closed",
+      "thursday": "Closed",
+      "friday": "6 a.m.–3 p.m.",
+      "saturday": "6 a.m.–3 p.m."
+    },
+    "phone": "+62 22 6650013",
+    "website": "https://bit.ly/SDNCMHM1",
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eS2COn8pL5qPodJzOD12Ug&cb_client=search.gws-prod.gps&w=211&h=120&yaw=278.092&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "Jl. Alun-Alun Tim. No.44",
+    "city": "Cimahi City",
+    "state": "West Java",
+    "zip_code": 40525,
+    "country": "ID",
+    "reviews_per_1": null,
+    "reviews_per_2": null,
+    "reviews_per_3": null,
+    "reviews_per_4": null,
+    "reviews_per_5": null,
+    "photo_count": 46,
+    "logo": "https://lh3.googleusercontent.com/-qp1Q5s6v7qM/AAAAAAAAAAI/AAAAAAAAAAA/u_ywRTg7q0k/s44-p-k-no-ns-nd/photo.jpg",
+    "owner": "104038278133353600214",
+    "category": "Sekolah Dasar",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          }
+        ]
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "place_url": "https://www.google.com/maps/preview/place/SDN+Cimahi+Mandiri+1,+Jl.+Alun-Alun+Tim.+No.44,+Cimahi,+Cimahi+Tengah,+Cimahi+City,+West+Java+40525,+Indonesia/@-6.8720243,107.543088,3961a,13.1y/data=!4m2!3m1!1s0x2e68e443a774a9b9:0xe8b0b728e4ee81ff",
+    "note_from_owner": "SD Negeri Cimahi Mandiri 1",
+    "description_arr": null,
+    "not_claimed": false,
+    "reviews_link": null,
+    "email": [],
+    "social_media_links": [
+      "http://www.youtube.com/sdncimahimandirisatu"
+    ],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": "http://www.youtube.com/sdncimahimandirisatu",
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "sekolah dasar negeri",
+    "location": "cau blayu",
+    "start": 12,
+    "language": "id",
+    "location_name": ""
+  }
+]
