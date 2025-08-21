@@ -30,18 +30,21 @@ jobs:
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
       - name: Run processor
-        run: python main/process.py
+        run: |
+          cd main
+          python process.py
 
       - name: Commit outputs to repo
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update processed outputs"
           file_pattern: |
-            output/**
+            main/output-json/**
+            main/output-data.csv
             main/raw-data/**
 
       - name: Upload outputs as artifact
         uses: actions/upload-artifact@v4
         with:
           name: outputs
-          path: output/**
+          path: main/output-json/**

@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Sttkusumanadi",
+    "place_id": "ChIJz10VaoKa0S0REZDhYPOpW10",
+    "data_id": "0x2dd19a826a155dcf:0x5d5ba9f360e19011",
+    "data_cid": 6727157331175510033,
+    "gps_coordinates": {
+      "latitude": -8.140429,
+      "longitude": 115.0926812
+    },
+    "provider_id": "/g/11fy9xmnwp",
+    "rating": 4.3,
+    "reviews": 30,
+    "type": "Community center",
+    "types": [
+      "Community center"
+    ],
+    "address": "Banjar Dinas Babakan, Sambangan, Kec. Sukasada, Singaraja, Bali 81161",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AquXHDpL8el2Azk8vz_vIQ&cb_client=search.gws-prod.gps&w=211&h=120&yaw=256.09192&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "Banjar Dinas Babakan",
+    "city": "Singaraja",
+    "state": "Bali",
+    "zip_code": 81161,
+    "country": "ID",
+    "reviews_per_1": 2,
+    "reviews_per_2": 0,
+    "reviews_per_3": 4,
+    "reviews_per_4": 6,
+    "reviews_per_5": 18,
+    "photo_count": 5,
+    "not_claimed": true,
+    "owner": "117508091591621960366",
+    "category": "Balai masyarakat",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJz10VaoKa0S0REZDhYPOpW10&authuser=0&hl=en&gl=CA",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Wheelchair-accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Washroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/Sttkusumanadi,+Banjar+Dinas+Babakan,+Sambangan,+Sukasada,+Singaraja,+Bali+81161,+Indonesia/@-8.140429,115.0926812,3950a,13.1y/data=!4m2!3m1!1s0x2dd19a826a155dcf:0x5d5ba9f360e19011",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "balai banjar",
+    "location": "tampak siring",
+    "start": 13,
+    "language": "id",
+    "location_name": ""
+  },
+  {
+    "title": "Sekretariat PGSDT",
+    "place_id": "ChIJ8Shwp1In0i0Rous4QDD4bP0",
+    "data_id": "0x2dd22752a77028f1:0xfd6cf8304038eba2",
+    "data_cid": 18261243475200109474,
+    "gps_coordinates": {
+      "latitude": -8.3390069,
+      "longitude": 115.18794419999999
+    },
+    "provider_id": "/g/11gbf949kl",
+    "type": "Government office",
+    "types": [
+      "Government office"
+    ],
+    "address": "M56Q+95W, Jalan Baturiti, Pondok Nyoman , Pacung, Baturiti Ji, Bedugul, Baturiti, Kec. Baturiti, Singaraja, Bali 82191",
+    "operating_hours": {},
+    "phone": "+62 818-0550-4468",
+    "description": {},
+    "thumbnail": "//lh4.googleusercontent.com/I2vE1BKWMq4HmM8AlsFmtdgaUmHzaf9qPPL__401MD0MK1ZGZ1eUpOP5lwCktarV=w1600-h1000-k-no",
+    "street": "M56Q+95W, Jalan Baturiti, Pondok Nyoman , Pacung, Baturiti Ji, Bedugul",
+    "city": "Singaraja",
+    "state": "Bali",
+    "zip_code": 82191,
+    "country": "ID",
+    "reviews_per_1": null,
+    "photo_count": 2,
+    "not_claimed": true,
+    "owner": "112424610819929243798",
+    "category": "Kantor Pemerintah",
+    "service_option": [
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Washroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "place_url": "https://www.google.com/maps/preview/place/M56Q%2B95W+Sekretariat+PGSDT,+Jalan+Baturiti,+Pondok+Nyoman+,+Pacung,+Baturiti+Ji,+Bedugul,+Baturiti,+Kec.+Baturiti,+Singaraja,+Bali+82191,+Indonesia/@-8.3390069,115.1879442,3948a,13.1y/data=!4m2!3m1!1s0x2dd22752a77028f1:0xfd6cf8304038eba2",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "reviews_per_2": null,
+    "reviews_per_3": null,
+    "reviews_per_4": null,
+    "reviews_per_5": null,
+    "website": null,
+    "logo": null,
+    "reviews_link": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "kantor kecamatan",
+    "location": "bali",
+    "start": 6,
+    "language": "id",
+    "location_name": ""
+  }
+]
