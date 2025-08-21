@@ -1,43 +1,80 @@
 import os
 import json
 import csv
+from collections import defaultdict
 
-RAW_DIR = "main/raw-data"
-OUTPUT_JSON_DIR = "output/output-json"
-OUTPUT_CSV = "output/output-data.csv"
+INPUT_FOLDER = "raw-data"
+OUTPUT_FOLDER = "output-json"
+CSV_FILE = "output-data.csv"
 
-os.makedirs(OUTPUT_JSON_DIR, exist_ok=True)
+# --- 1. Validasi folder input ---
+if not os.path.isdir(INPUT_FOLDER):
+    raise FileNotFoundError(
+        f"Folder '{INPUT_FOLDER}' tidak ditemukan. "
+        f"Pastikan Anda membuat folder dan meletakkan file JSON mentah di sana."
+    )
 
-all_data = []
-data_by_region = {}
+os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
-# Baca semua file JSON mentah
-for fname in os.listdir(RAW_DIR):
-    if fname.endswith(".json"):
-        with open(os.path.join(RAW_DIR, fname)) as f:
-            data = json.load(f)
-            region = data.get("city") or data.get("regency") or "unknown"
-            # Anggap data adalah list, jika tidak, sesuaikan struktur di sini
-            if isinstance(data, list):
-                data_by_region.setdefault(region, []).extend(data)
-                all_data.extend(data)
-            else:
-                data_by_region.setdefault(region, []).append(data)
-                all_data.append(data)
+# --- 2. Gabungkan semua JSON mentah ---
+all_records = []
+for fn in os.listdir(INPUT_FOLDER):
+    if fn.endswith(".json"):
+        path = os.path.join(INPUT_FOLDER, fn)
+        try:
+            with open(path, encoding="utf-8") as f:
+                data = json.load(f)
+                if isinstance(data, list):
+                    all_records.extend(data)
+                else:
+                    print(f"[!] Lewati {fn}: bukan array JSON")
+        except Exception as e:
+            print(f"[!] Error membaca {fn}: {e}")
 
-# Output per kabupaten/kota
-for region, items in data_by_region.items():
-    slug = region.lower().replace(" ", "_")
-    with open(f"{OUTPUT_JSON_DIR}/{slug}.json", "w") as f:
+print("Total records mentah:", len(all_records))
+
+# --- 3. Dedup berdasarkan place_id ---
+deduped = {}
+for rec in all_records:
+    pid = rec.get("place_id")
+    if not pid:
+        continue
+    if pid not in deduped:
+        deduped[pid] = rec
+    else:
+        # Gabungkan jika ada data tambahan
+        for k, v in rec.items():
+            if k not in deduped[pid] or not deduped[pid][k]:
+                deduped[pid][k] = v
+
+all_records = list(deduped.values())
+print("Setelah dedup:", len(all_records))
+
+# --- 4. Kelompokkan berdasarkan city/state ---
+groups = defaultdict(list)
+for rec in all_records:
+    city = rec.get("city") or rec.get("state") or "lainnya"
+    groups[city].append(rec)
+
+# --- 5. Simpan JSON per kabupaten/kota ---
+for city, items in groups.items():
+    safe_name = city.lower().replace(" ", "_").replace("/", "-")
+    outpath = os.path.join(OUTPUT_FOLDER, f"{safe_name}.json")
+    with open(outpath, "w", encoding="utf-8") as f:
         json.dump(items, f, ensure_ascii=False, indent=2)
+    print(f"[OK] {outpath} : {len(items)} entri")
 
-# Output CSV
-with open(OUTPUT_CSV, "w", newline='') as f:
+# --- 6. Buat CSV ringkas (name, place_id, city) ---
+with open(CSV_FILE, "w", encoding="utf-8", newline="") as f:
     writer = csv.writer(f)
     writer.writerow(["name", "place_id", "city"])
-    for item in all_data:
-        writer.writerow([
-            item.get("name"),
-            item.get("place_id") or item.get("placeId"),
-            item.get("city") or item.get("regency")
-        ])
+    for city in sorted(groups.keys()):
+        for rec in groups[city]:
+            writer.writerow([
+                rec.get("title") or rec.get("name"),
+                rec.get("place_id"),
+                city
+            ])
+
+print("[OK] CSV dibuat:", CSV_FILE)
+
