@@ -1,0 +1,181 @@
+[
+  {
+    "title": "Perempatan Lodoyo Binangun",
+    "place_id": "ChIJjY09E63reC4RyEafRukAgNM",
+    "data_id": "0x2e78ebad133d8d8d:0xd38000e9469f46c8",
+    "gps_coordinates": {
+      "latitude": -8.1685643,
+      "longitude": 112.2173974
+    },
+    "provider_id": "/g/11rwr07c6r",
+    "rating": 5,
+    "reviews": 6,
+    "type": "Transportation service",
+    "types": [
+      "Transportation service"
+    ],
+    "address": "R6J8+HXC Lampu merah, Wonorejo, Kalipang, Kec. Sutojayan, Kabupaten Blitar, Jawa Timur 66172",
+    "operating_hours": {},
+    "description": {},
+    "street": "R6J8+HXC Lampu merah",
+    "city": "Blitar Regency",
+    "state": "East Java",
+    "zip_code": 66172,
+    "country": "ID",
+    "not_claimed": true,
+    "owner": "113682196683749755386",
+    "category": "Layanan Transportasi",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJjY09E63reC4RyEafRukAgNM&authuser=0&hl=en&gl=CA",
+    "data_cid": 15240182140933981896,
+    "place_url": "https://www.google.com/maps/preview/place/R6J8%2BHXC+Perempatan+Lodoyo+Binangun,+Lampu+merah,+Wonorejo,+Kalipang,+Kec.+Sutojayan,+Kabupaten+Blitar,+Jawa+Timur+66172,+Indonesia/@-8.1685643,112.2173974,3949a,13.1y/data=!4m2!3m1!1s0x2e78ebad133d8d8d:0xd38000e9469f46c8",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "reviews_per_1": 0,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 0,
+    "reviews_per_5": 6,
+    "phone": null,
+    "website": null,
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=u4Vd36FIjdWAcCWq5U0Wpg&cb_client=search.gws-prod.gps&w=211&h=120&yaw=97.361595&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "photo_count": 6,
+    "logo": null,
+    "service_option": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "perempatan",
+    "location": "denpasar",
+    "start": 5,
+    "language": "id",
+    "location_name": ""
+  },
+  {
+    "title": "Perempatan kandangan",
+    "place_id": "ChIJd8jZw7XveC4RWiAtoV7usPs",
+    "data_id": "0x2e78efb5c3d9c877:0xfbb0ee5ea12d205a",
+    "data_cid": 18136257789619413082,
+    "gps_coordinates": {
+      "latitude": -8.0826429,
+      "longitude": 112.09641029999999
+    },
+    "provider_id": "/g/11kqcjx8_b",
+    "type": "Bar",
+    "types": [
+      "Bar"
+    ],
+    "address": "W38W+WHV, Perempatan, Kandangan",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NayAV8LfW9V2MRdHkWydDg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=261.99756&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "W38W+WHV, Perempatan",
+    "city": "Blitar Regency",
+    "state": "East Java",
+    "country": "ID",
+    "reviews_per_1": null,
+    "photo_count": 1,
+    "not_claimed": true,
+    "owner": "109837192734351928751",
+    "category": "bars",
+    "service_option": [
+      {
+        "name": "Service options",
+        "slug": "service_options",
+        "options": [
+          {
+            "name": "Dine-in",
+            "slug": "/geo/type/establishment_poi/serves_dine_in"
+          }
+        ]
+      },
+      {
+        "name": "Offerings",
+        "slug": "offerings",
+        "options": [
+          {
+            "name": "Alcohol",
+            "slug": "/geo/type/establishment_poi/serves_alcohol"
+          },
+          {
+            "name": "Food",
+            "slug": "/geo/type/establishment_poi/serves_food"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Washroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "place_url": "https://www.google.com/maps/preview/place/W38W%2BWHV+Perempatan+kandangan,+Perempatan,+Kandangan,+Indonesia/@-8.0826429,112.0964103,3950a,13.1y/data=!4m2!3m1!1s0x2e78efb5c3d9c877:0xfbb0ee5ea12d205a",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "reviews_per_2": null,
+    "reviews_per_3": null,
+    "reviews_per_4": null,
+    "reviews_per_5": null,
+    "phone": null,
+    "website": null,
+    "zip_code": null,
+    "logo": null,
+    "reviews_link": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "perempatan",
+    "location": "gianyar",
+    "start": 1,
+    "language": "id",
+    "location_name": ""
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "title": "pemerintahan",
+    "place_id": "ChIJB_3YcW6baS4RqiVuiVMkNFI",
+    "data_id": "0x2e699b6e71d8fd07:0x52342453896e25aa",
+    "data_cid": 5923399351105627562,
+    "gps_coordinates": {
+      "latitude": -6.3617702,
+      "longitude": 107.17341359999999
+    },
+    "provider_id": "/g/11lq7tdl4x",
+    "rating": 5,
+    "reviews": 1,
+    "type": "Government office",
+    "types": [
+      "Government office"
+    ],
+    "address": "komplek perkantoran pemda, Sukamahi, Kec. Cikarang Pusat, Kabupaten Bekasi, Jawa Barat 17530",
+    "open_state": "Closed ⋅ Opens 8 a.m. Mon",
+    "operating_hours": {
+      "sunday": "Closed",
+      "monday": "Closed",
+      "tuesday": "8 a.m.–3 p.m.",
+      "wednesday": "8 a.m.–3 p.m.",
+      "thursday": "8 a.m.–3 p.m.",
+      "friday": "8 a.m.–3 p.m.",
+      "saturday": "8 a.m.–3 p.m."
+    },
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=au_IF6AzFTv0gT9b5k1qDA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=357.57422&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "komplek perkantoran pemda",
+    "city": "Bekasi Regency",
+    "state": "West Java",
+    "zip_code": 17530,
+    "country": "ID",
+    "reviews_per_1": 0,
+    "photo_count": 1,
+    "not_claimed": true,
+    "owner": "114592405026742429864",
+    "category": "Government office",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJB_3YcW6baS4RqiVuiVMkNFI&authuser=0&hl=en&gl=CA",
+    "service_option": [
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Washroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/pemerintahan,+komplek+perkantoran+pemda,+Sukamahi,+Central+Cikarang,+Bekasi+Regency,+West+Java+17530,+Indonesia/@-6.3617702,107.1734136,3965a,13.1y/data=!4m2!3m1!1s0x2e699b6e71d8fd07:0x52342453896e25aa",
+    "note_from_owner": null,
+    "description_arr": null,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 0,
+    "reviews_per_5": 1,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "kantor pemerintahan",
+    "location": "denpasar, gianyar",
+    "start": 10,
+    "language": "id",
+    "location_name": ""
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "title": "Kantor Pemerintah",
+    "place_id": "ChIJEaCounN_9i0RR54tr5Rc29g",
+    "data_id": "0x2df67f73baa8a011:0xd8db5c94af2d9e47",
+    "data_cid": 15626185125755985479,
+    "gps_coordinates": {
+      "latitude": -0.5013673,
+      "longitude": 117.1419442
+    },
+    "provider_id": "/g/11h0yt2rnt",
+    "type": "Government office",
+    "types": [
+      "Government office"
+    ],
+    "address": "F4XR+FQ4, Bugis, Kec. Samarinda Kota, Kota Samarinda, Kalimantan Timur 75242",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qk3g6eaSEvDQFWsROHi6BA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=188.08766&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "F4XR+FQ4",
+    "city": "Samarinda City",
+    "state": "East Kalimantan",
+    "zip_code": 75242,
+    "country": "ID",
+    "reviews_per_1": null,
+    "photo_count": 1,
+    "not_claimed": true,
+    "owner": "105794701151646276805",
+    "category": "Kantor Pemerintah",
+    "service_option": [
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Washroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "place_url": "https://www.google.com/maps/preview/place/F4XR%2BFQ4+Kantor+Pemerintah,+Bugis,+Kec.+Samarinda+Kota,+Kota+Samarinda,+Kalimantan+Timur+75242,+Indonesia/@-0.5013673,117.1419442,3990a,13.1y/data=!4m2!3m1!1s0x2df67f73baa8a011:0xd8db5c94af2d9e47",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "reviews_per_2": null,
+    "reviews_per_3": null,
+    "reviews_per_4": null,
+    "reviews_per_5": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "reviews_link": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "kantor pemerintahan",
+    "location": "denpasar, gianyar",
+    "start": 9,
+    "language": "id",
+    "location_name": ""
+  }
+]
