@@ -1,0 +1,85 @@
+[
+  {
+    "title": "Rumah adat Banjar Balai Bini",
+    "place_id": "ChIJgbhqHAAj5C0RUaPpzngaoxg",
+    "data_id": "0x2de423001c6ab881:0x18a31a78cee9a351",
+    "data_cid": 1775291784283923281,
+    "gps_coordinates": {
+      "latitude": -3.3131272,
+      "longitude": 114.610873
+    },
+    "provider_id": "/g/120qkxv2",
+    "rating": 5,
+    "reviews": 1,
+    "type": "Historical landmark",
+    "types": [
+      "Historical landmark"
+    ],
+    "address": "MJP6+P8X, Benua Anyar, Banjarmasin Timur, Banjarmasin City, South Kalimantan, Indonesia",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XLXZhB3utgZHhIgDamUzxw&cb_client=search.gws-prod.gps&w=211&h=120&yaw=10.672415&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "MJP6+P8X",
+    "city": "Banjarmasin City",
+    "state": "South Kalimantan",
+    "country": "ID",
+    "reviews_per_1": 0,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 0,
+    "reviews_per_5": 1,
+    "photo_count": 5,
+    "not_claimed": true,
+    "owner": "112547003500156982759",
+    "category": "Bangunan Bersejarah",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJgbhqHAAj5C0RUaPpzngaoxg&authuser=0&hl=en&gl=CA",
+    "service_option": [
+      {
+        "name": "Children",
+        "slug": "children",
+        "options": [
+          {
+            "name": "Good for kids",
+            "slug": "/geo/type/establishment_poi/welcomes_children"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/MJP6%2BP8X+Rumah+adat+Banjar+Balai+Bini,+Benua+Anyar,+Kec.+Banjarmasin+Tim.,+Kota+Banjarmasin,+Kalimantan+Selatan,+Indonesia/@-3.3131272,114.610873,3983a,13.1y/data=!4m2!3m1!1s0x2de423001c6ab881:0x18a31a78cee9a351",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "zip_code": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "balai banjar",
+    "location": "taman",
+    "start": 8,
+    "language": "en",
+    "location_name": ""
+  }
+]
