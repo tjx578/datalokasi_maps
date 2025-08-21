@@ -1,0 +1,113 @@
+[
+  {
+    "title": "Puskesmas Nyompok",
+    "place_id": "ChIJa5qyD-8EQi4RGPysT_EFuuQ",
+    "data_id": "0x2e4204ef0fb29a6b:0xe4ba05f14facfc18",
+    "data_cid": 16481492320297745432,
+    "gps_coordinates": {
+      "latitude": -6.2605824,
+      "longitude": 106.37815769999999
+    },
+    "provider_id": "/g/11c7p5tmxs",
+    "rating": 4.4,
+    "reviews": 65,
+    "type": "Public medical center",
+    "types": [
+      "Public medical center",
+      "Community health center",
+      "Walk-in clinic"
+    ],
+    "address": "P9QH+Q77, Nyompok, Kopo, Serang Regency, Banten 42178",
+    "open_state": "Open 24 hours",
+    "operating_hours": {
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours"
+    },
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=d5hgsFTAYy9miXyHXMpK8w&cb_client=search.gws-prod.gps&w=211&h=120&yaw=51.073853&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "P9QH+Q77",
+    "city": "Serang Regency",
+    "state": "Banten",
+    "zip_code": 42178,
+    "country": "ID",
+    "reviews_per_1": 7,
+    "reviews_per_2": 1,
+    "reviews_per_3": 1,
+    "reviews_per_4": 3,
+    "reviews_per_5": 53,
+    "photo_count": 111,
+    "not_claimed": true,
+    "owner": "101736432571849330123",
+    "category": "Pusat Kesehatan Masyarakat",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJa5qyD-8EQi4RGPysT_EFuuQ&authuser=0&hl=en&gl=CA",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Wheelchair-accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          },
+          {
+            "name": "Wheelchair-accessible washroom",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_restroom"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Washroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/P9QH%2BQ77+Puskesmas+Nyompok,+Nyompok,+Kec.+Kopo,+Kabupaten+Serang,+Banten+42178,+Indonesia/@-6.2605824,106.3781577,3966a,13.1y/data=!4m2!3m1!1s0x2e4204ef0fb29a6b:0xe4ba05f14facfc18",
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "puskesmas",
+    "location": "Denpasar, gianyar, ",
+    "start": 8,
+    "language": "en",
+    "location_name": ""
+  }
+]
