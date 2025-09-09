@@ -1,0 +1,104 @@
+[
+  {
+    "title": "Bendungan Sei Gong",
+    "place_id": "ChIJ1Rv9UQ-p2TER9YcU-zDa9do",
+    "data_id": "0x31d9a90f51fd1bd5:0xdaf5da30fb1487f5",
+    "data_cid": 15777756773468112885,
+    "gps_coordinates": {
+      "latitude": 0.7242191,
+      "longitude": 104.2171257
+    },
+    "provider_id": "/g/11h14rrd4f",
+    "rating": 4.4,
+    "reviews": 21,
+    "type": "Weir",
+    "types": [
+      "Weir"
+    ],
+    "address": "P6F8+MVJ, Sijantung, Galang, Batam City, Riau Islands 29485",
+    "open_state": "Open 24 hours",
+    "operating_hours": {
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours"
+    },
+    "description": {},
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqGqnH4rwHvkxjb7Be_LzzdZVG9Zjwc-sGfDIgR7M9JEZMx6TTZ29LXck1WgMW0v67PBKKpxPNGvF2yAmA49IxxOBGVbN-UJC29qish4jfIzVy92RJYcOPKQqscZog5cvV3Fsuq=w1600-h1000-k-no",
+    "street": "P6F8+MVJ",
+    "city": "Batam City",
+    "state": "Riau Islands",
+    "zip_code": 29485,
+    "country": "ID",
+    "reviews_per_1": 0,
+    "reviews_per_2": 0,
+    "reviews_per_3": 4,
+    "reviews_per_4": 5,
+    "reviews_per_5": 12,
+    "photo_count": 110,
+    "not_claimed": true,
+    "owner": "116346312642524668963",
+    "category": "Bendungan",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ1Rv9UQ-p2TER9YcU-zDa9do&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Wheelchair accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/P6F8%2BMVJ+Bendungan+Sei+Gong,+Sijantung,+Galang,+Kota+Batam,+Kepulauan+Riau+29485,+Indonesia/@0.7242191,104.2171257,3989a,13.1y/data=!4m2!3m1!1s0x31d9a90f51fd1bd5:0xdaf5da30fb1487f5",
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "BENDUNGAN",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 3,
+    "language": "en",
+    "location_name": ""
+  }
+]

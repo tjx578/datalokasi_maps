@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Puskesmas Pembantu Pustu Desa Maritengngae",
+    "place_id": "ChIJZQbyC-6vlS0Rl8RvH-eRuHk",
+    "data_id": "0x2d95afee0bf20665:0x79b891e71f6fc497",
+    "data_cid": 8770920696154932375,
+    "gps_coordinates": {
+      "latitude": -3.9597154999999997,
+      "longitude": 119.5864763
+    },
+    "provider_id": "/g/11jm0p6g8c",
+    "type": "Medical clinic",
+    "types": [
+      "Medical clinic"
+    ],
+    "address": "Maritengngae, Suppa, Pinrang Regency, South Sulawesi",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ngklGZB-3VPZ21d_IkthEg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=108.76982&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "city": "Pinrang Regency",
+    "state": "South Sulawesi",
+    "country": "ID",
+    "reviews_per_1": null,
+    "photo_count": 1,
+    "not_claimed": true,
+    "owner": "109596600719675916945",
+    "category": "Klinik Medis",
+    "service_option": [
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "place_url": "https://www.google.com/maps/preview/place/Puskesmas+Pembantu+Pustu+Desa+Maritengngae,+Maritengngae,+Kec.+Suppa,+Kabupaten+Pinrang,+Sulawesi+Selatan,+Indonesia/@-3.9597155,119.5864763,3980a,13.1y/data=!4m2!3m1!1s0x2d95afee0bf20665:0x79b891e71f6fc497",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "reviews_per_2": null,
+    "reviews_per_3": null,
+    "reviews_per_4": null,
+    "reviews_per_5": null,
+    "phone": null,
+    "website": null,
+    "street": null,
+    "zip_code": null,
+    "logo": null,
+    "reviews_link": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "PUSKESMAS PEMBANTU",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 3,
+    "language": "en",
+    "location_name": ""
+  }
+]

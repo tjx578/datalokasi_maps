@@ -1,0 +1,102 @@
+[
+  {
+    "title": "CAGAR BUDAYA BATU BATANGGUI",
+    "place_id": "ChIJzdHMPg8ZBi4Re1LD9f5-kfY",
+    "data_id": "0x2e06190f3eccd1cd:0xf6917efef5c3527b",
+    "data_cid": 17767121638463328891,
+    "gps_coordinates": {
+      "latitude": -2.1836477999999997,
+      "longitude": 111.4526023
+    },
+    "provider_id": "/g/11l019b4dj",
+    "rating": 5,
+    "reviews": 2,
+    "type": "Museum",
+    "types": [
+      "Museum"
+    ],
+    "address": "Jl. Batu Batanggui No.RT. 004, Nanga Bulik, Kec. Bulik, Kabupaten Lamandau, Kalimantan Tengah 74161",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cjKZPuhHYYgCJXxR7UH1Kg&cb_client=search.gws-prod.gps&w=211&h=120&yaw=311.81384&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "Jl. Batu Batanggui No.RT. 004",
+    "city": "Lamandau Regency",
+    "state": "Central Kalimantan",
+    "zip_code": 74161,
+    "country": "ID",
+    "reviews_per_1": 0,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 0,
+    "reviews_per_5": 2,
+    "photo_count": 9,
+    "not_claimed": true,
+    "owner": "113152880580263432330",
+    "category": "museums",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJzdHMPg8ZBi4Re1LD9f5-kfY&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restaurant",
+            "slug": "/geo/type/establishment_poi/has_restaurant"
+          }
+        ]
+      },
+      {
+        "name": "Children",
+        "slug": "children",
+        "options": [
+          {
+            "name": "Good for kids",
+            "slug": "/geo/type/establishment_poi/welcomes_children"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/CAGAR+BUDAYA+BATU+BATANGGUI,+Jl.+Batu+Batanggui+No.RT.+004,+Nanga+Bulik,+Kec.+Bulik,+Kabupaten+Lamandau,+Kalimantan+Tengah+74161,+Indonesia/@-2.1836478,111.4526023,3987a,13.1y/data=!4m2!3m1!1s0x2e06190f3eccd1cd:0xf6917efef5c3527b",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "CAGAR BUDAYA",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 0,
+    "language": "en",
+    "location_name": ""
+  }
+]

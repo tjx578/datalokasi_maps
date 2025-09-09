@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Datalokasi Maps API</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 2rem;
+            border-radius: 10px;
+            margin-bottom: 2rem;
+        }
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+        .stat-card {
+            background: #f8f9fa;
+            padding: 1.5rem;
+            border-radius: 8px;
+            text-align: center;
+            border-left: 4px solid #667eea;
+        }
+        .stat-number {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #667eea;
+        }
+        .endpoints {
+            background: white;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        .endpoint {
+            margin-bottom: 1rem;
+            padding: 1rem;
+            background: #f8f9fa;
+            border-radius: 5px;
+        }
+        .endpoint-url {
+            font-family: monospace;
+            background: #e9ecef;
+            padding: 0.5rem;
+            border-radius: 3px;
+            display: inline-block;
+            margin-top: 0.5rem;
+        }
+        .copy-btn {
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 0.25rem 0.5rem;
+            border-radius: 3px;
+            margin-left: 0.5rem;
+            cursor: pointer;
+        }
+        .copy-btn:hover {
+            background: #5a67d8;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🗺️ Datalokasi Maps API</h1>
+        <p>API untuk mengakses data lokasi maps Indonesia - Terintegrasi dengan Custom GPT Navi Pro</p>
+    </div>
+
+    <div class="stats" id="stats">
+        <div class="stat-card">
+            <div class="stat-number" id="total-records">-</div>
+            <div>Total Lokasi</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number" id="total-cities">-</div>
+            <div>Kota/Wilayah</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number">API v1.0</div>
+            <div>Version</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number">🤖</div>
+            <div>Custom GPT Ready</div>
+        </div>
+    </div>
+
+    <div class="endpoints">
+        <h2>📍 API Endpoints</h2>
+        
+        <div class="endpoint">
+            <h3>API Information</h3>
+            <p>Mendapatkan informasi dasar API dan statistik</p>
+            <div class="endpoint-url">
+                GET https://tjx578.github.io/datalokasi_maps/api/v1/index.json
+                <button class="copy-btn" onclick="copyToClipboard('https://tjx578.github.io/datalokasi_maps/api/v1/index.json')">Copy</button>
+            </div>
+        </div>
+
+        <div class="endpoint">
+            <h3>Semua Data Lokasi</h3>
+            <p>Mendapatkan semua data lokasi dalam format JSON</p>
+            <div class="endpoint-url">
+                GET https://tjx578.github.io/datalokasi_maps/api/v1/data.json
+                <button class="copy-btn" onclick="copyToClipboard('https://tjx578.github.io/datalokasi_maps/api/v1/data.json')">Copy</button>
+            </div>
+        </div>
+
+        <div class="endpoint">
+            <h3>Daftar Kota/Wilayah</h3>
+            <p>Mendapatkan daftar kota dan wilayah yang tersedia</p>
+            <div class="endpoint-url">
+                GET https://tjx578.github.io/datalokasi_maps/api/v1/cities.json
+                <button class="copy-btn" onclick="copyToClipboard('https://tjx578.github.io/datalokasi_maps/api/v1/cities.json')">Copy</button>
+            </div>
+        </div>
+
+        <div class="endpoint">
+            <h3>Data Per Wilayah</h3>
+            <p>Mendapatkan data lokasi untuk kota/wilayah tertentu</p>
+            <div class="endpoint-url">
+                GET https://tjx578.github.io/datalokasi_maps/api/v1/regions/{city_name}.json
+                <button class="copy-btn" onclick="copyToClipboard('https://tjx578.github.io/datalokasi_maps/api/v1/regions/')">Copy Base</button>
+            </div>
+            <p><small>Contoh: gianyar_regency.json, denpasar_city.json</small></p>
+        </div>
+
+        <div class="endpoint">
+            <h3>CSV Export</h3>
+            <p>Download semua data dalam format CSV</p>
+            <div class="endpoint-url">
+                GET https://tjx578.github.io/datalokasi_maps/api/v1/data.csv
+                <button class="copy-btn" onclick="copyToClipboard('https://tjx578.github.io/datalokasi_maps/api/v1/data.csv')">Copy</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="endpoints">
+        <h2>🤖 Custom GPT Configuration</h2>
+        <p>Untuk menghubungkan dengan Custom GPT Navi Pro, gunakan:</p>
+        
+        <div class="endpoint">
+            <h3>OpenAPI Schema URL</h3>
+            <div class="endpoint-url">
+                https://tjx578.github.io/datalokasi_maps/api/v1/schema.json
+                <button class="copy-btn" onclick="copyToClipboard('https://tjx578.github.io/datalokasi_maps/api/v1/schema.json')">Copy</button>
+            </div>
+        </div>
+
+        <div class="endpoint">
+            <h3>Base API URL</h3>
+            <div class="endpoint-url">
+                https://tjx578.github.io/datalokasi_maps
+                <button class="copy-btn" onclick="copyToClipboard('https://tjx578.github.io/datalokasi_maps')">Copy</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="endpoints">
+        <h2>📚 Documentation</h2>
+        <p><a href="./api/README.md">📖 Full API Documentation</a></p>
+        <p><a href="https://github.com/tjx578/datalokasi_maps">🔗 GitHub Repository</a></p>
+    </div>
+
+    <script>
+        async function loadStats() {
+            try {
+                const response = await fetch('./api/v1/index.json');
+                const data = await response.json();
+                
+                document.getElementById('total-records').textContent = data.total_records.toLocaleString();
+                document.getElementById('total-cities').textContent = data.total_cities;
+            } catch (error) {
+                console.error('Error loading stats:', error);
+            }
+        }
+
+        function copyToClipboard(text) {
+            navigator.clipboard.writeText(text).then(() => {
+                // Visual feedback
+                const originalText = event.target.textContent;
+                event.target.textContent = 'Copied!';
+                event.target.style.background = '#28a745';
+                setTimeout(() => {
+                    event.target.textContent = originalText;
+                    event.target.style.background = '#667eea';
+                }, 1000);
+            });
+        }
+
+        // Load stats when page loads
+        loadStats();
+    </script>
+</body>
+</html>

@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Crossroads",
+    "place_id": "ChIJXwU7-EHwwIcRHGzzvs5YjL4",
+    "data_id": "0x87c0f041f83b055f:0xbe8c58cebef36c1c",
+    "data_cid": 13730447008935930908,
+    "gps_coordinates": {
+      "latitude": 39.0904095,
+      "longitude": -94.5836758
+    },
+    "provider_id": "/g/11l5kn6bpd",
+    "type": "Transport hub",
+    "types": [
+      "Transport hub"
+    ],
+    "address": "Kansas City, MO 64108, United States",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oskfD7Q2SrfVWflbQLfLPg&cb_client=search.gws-prod.gps&w=360&h=120&yaw=156.0738&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "city": "Kansas City",
+    "state": "Missouri",
+    "country": "US",
+    "reviews_per_1": null,
+    "photo_count": 1,
+    "owner": "103946741240811593928",
+    "category": "Transport hub",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Passenger loading area",
+            "slug": "/geo/type/establishment_poi/has_passenger_loading_area"
+          },
+          {
+            "name": "Wheelchair accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "place_url": "https://www.google.com/maps/preview/place/Crossroads,+Kansas+City,+MO+64108/@39.0904095,-94.5836758,3097a,13.1y/data=!4m2!3m1!1s0x87c0f041f83b055f:0xbe8c58cebef36c1c",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "reviews_per_2": null,
+    "reviews_per_3": null,
+    "reviews_per_4": null,
+    "reviews_per_5": null,
+    "phone": null,
+    "website": null,
+    "street": null,
+    "zip_code": null,
+    "logo": null,
+    "not_claimed": false,
+    "reviews_link": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "CROSSROAD(S)",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 3,
+    "language": "en",
+    "location_name": ""
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "title": "KANTOR KEPALA DESA MAHARAYA",
+    "place_id": "ChIJdeRb-2_Guy0RmPkhdWy1STE",
+    "data_id": "0x2dbbc66ffb5be475:0x3149b56c7521f998",
+    "data_cid": 3551569258584603032,
+    "gps_coordinates": {
+      "latitude": -5.9465854,
+      "longitude": 120.44766899999999
+    },
+    "provider_id": "/g/11f_v18gjr",
+    "rating": 3.8,
+    "reviews": 8,
+    "type": "Government office",
+    "types": [
+      "Government office"
+    ],
+    "address": "3C3X+937, Maharaya, Bontomatene, Selayar Islands Regency, South Sulawesi 92854",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YNtiF-4o_XmO3xbsMKFE7A&cb_client=search.gws-prod.gps&w=211&h=120&yaw=7.533594&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "3C3X+937",
+    "city": "Selayar Islands Regency",
+    "state": "South Sulawesi",
+    "zip_code": 92854,
+    "country": "ID",
+    "reviews_per_1": 2,
+    "reviews_per_2": 0,
+    "reviews_per_3": 1,
+    "reviews_per_4": 0,
+    "reviews_per_5": 5,
+    "photo_count": 7,
+    "not_claimed": true,
+    "owner": "100739529160234343776",
+    "category": "Kantor Pemerintah",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJdeRb-2_Guy0RmPkhdWy1STE&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Wheelchair accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/3C3X%2B937+KANTOR+KEPALA+DESA+MAHARAYA,+Maharaya,+Kec.+Bontomatene,+Kab.+Kepulauan+Selayar,+Sulawesi+Selatan+92854,+Indonesia/@-5.9465854,120.447669,3968a,13.1y/data=!4m2!3m1!1s0x2dbbc66ffb5be475:0x3149b56c7521f998",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "kantor kepala desa",
+    "location": "kecamatan pekutatan",
+    "start": 2,
+    "language": "en",
+    "location_name": ""
+  }
+]

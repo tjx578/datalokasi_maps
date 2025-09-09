@@ -1,0 +1,85 @@
+[
+  {
+    "title": "gawean",
+    "place_id": "ChIJLymOQQAn0i0RZZPzf7kYR6s",
+    "data_id": "0x2dd22700418e292f:0xab4718b97ff39365",
+    "gps_coordinates": {
+      "latitude": -8.3959817,
+      "longitude": 115.1382833
+    },
+    "provider_id": "/g/11x0q571ps",
+    "type": "Historical landmark",
+    "types": [
+      "Historical landmark"
+    ],
+    "address": "J43Q+J7V, Banjar Belulang, Mengesta, Kec. Penebel, Tacy, Bali 82152",
+    "operating_hours": {},
+    "description": {},
+    "street": "J43Q+J7V",
+    "city": "Tacy",
+    "state": "Bali",
+    "zip_code": 82152,
+    "country": "ID",
+    "not_claimed": true,
+    "owner": "109797385023786705993",
+    "category": "Bangunan Bersejarah",
+    "service_option": [
+      {
+        "name": "Children",
+        "slug": "children",
+        "options": [
+          {
+            "name": "Good for kids",
+            "slug": "/geo/type/establishment_poi/welcomes_children"
+          }
+        ]
+      }
+    ],
+    "data_cid": 12341860488826819429,
+    "rating": null,
+    "reviews": null,
+    "place_url": "https://www.google.com/maps/preview/place/J43Q%2BJ7V+gawean,+Banjar+Belulang,+Mengesta,+Kec.+Penebel,+Tacy,+Bali+82152,+Indonesia/@-8.3959817,115.1382833,3947a,13.1y/data=!4m2!3m1!1s0x2dd22700418e292f:0xab4718b97ff39365",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "reviews_per_1": null,
+    "reviews_per_2": null,
+    "reviews_per_3": null,
+    "reviews_per_4": null,
+    "reviews_per_5": null,
+    "phone": null,
+    "website": null,
+    "thumbnail": null,
+    "photo_count": null,
+    "logo": null,
+    "reviews_link": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "tempat bersejarah",
+    "location": "bali",
+    "start": 2,
+    "language": "id",
+    "location_name": ""
+  }
+]

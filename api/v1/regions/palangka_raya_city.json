@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Bundaran Garuda",
+    "place_id": "ChIJ4UynFVuz_C0RkUTj9IYvhUw",
+    "data_id": "0x2dfcb35b15a74ce1:0x4c852f86f4e34491",
+    "data_cid": 5513865575465698449,
+    "gps_coordinates": {
+      "latitude": -2.2046992999999997,
+      "longitude": 113.888482
+    },
+    "provider_id": "/g/11skgdkr7t",
+    "rating": 4.3,
+    "reviews": 60,
+    "type": "Park",
+    "types": [
+      "Park"
+    ],
+    "address": "Palangka, Jekan Raya, Palangka Raya City, Central Kalimantan 74874",
+    "open_state": "Open 24 hours",
+    "operating_hours": {
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours"
+    },
+    "phone": "+62 851-6999-5778",
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7WLQy9Tx9ZUOoZmM4Z6mjA&cb_client=search.gws-prod.gps&w=211&h=120&yaw=77.85958&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "city": "Palangka Raya City",
+    "state": "Central Kalimantan",
+    "zip_code": 74874,
+    "country": "ID",
+    "reviews_per_1": 2,
+    "reviews_per_2": 2,
+    "reviews_per_3": 7,
+    "reviews_per_4": 13,
+    "reviews_per_5": 36,
+    "photo_count": 24,
+    "logo": "https://lh6.googleusercontent.com/-m4aAAK0jqQI/AAAAAAAAAAI/AAAAAAAAAAA/1OG-wSxNdYM/s44-p-k-no-ns-nd/photo.jpg",
+    "owner": "118081394844094447839",
+    "category": "attractions",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ4UynFVuz_C0RkUTj9IYvhUw&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Wheelchair accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          }
+        ]
+      },
+      {
+        "name": "Children",
+        "slug": "children",
+        "options": [
+          {
+            "name": "Good for kids",
+            "slug": "/geo/type/establishment_poi/welcomes_children"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/Bundaran+Garuda,+Palangka,+Kec.+Jekan+Raya,+Kota+Palangka+Raya,+Kalimantan+Tengah+74874,+Indonesia/@-2.2046993,113.888482,3987a,13.1y/data=!4m2!3m1!1s0x2dfcb35b15a74ce1:0x4c852f86f4e34491",
+    "note_from_owner": "\"\"\"\"\"Melayani sepenuh hati\"\"\"\"\"",
+    "description_arr": null,
+    "website": null,
+    "street": null,
+    "not_claimed": false,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "BUNDARAN",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 0,
+    "language": "en",
+    "location_name": ""
+  }
+]

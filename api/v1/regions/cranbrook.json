@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Crossroads",
+    "place_id": "ChIJ82IVITwj30cRIAvfQfrkfa4",
+    "data_id": "0x47df233c211562f3:0xae7de4fa41df0b20",
+    "data_cid": 12573457498186386208,
+    "gps_coordinates": {
+      "latitude": 51.068071499999995,
+      "longitude": 0.576626
+    },
+    "provider_id": "/g/11c5357_38",
+    "type": "Transport hub",
+    "types": [
+      "Transport hub"
+    ],
+    "address": "Benenden, Cranbrook, United Kingdom",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PPg72QfeV8lRnT8fmb0m1w&cb_client=search.gws-prod.gps&w=360&h=120&yaw=185.16533&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "city": "Cranbrook",
+    "country": "GB",
+    "reviews_per_1": null,
+    "photo_count": 1,
+    "owner": "110129839272747959316",
+    "category": "Transport hub",
+    "service_option": [
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "place_url": "https://www.google.com/maps/preview/place/Crossroads,+Benenden,+Cranbrook,+United+Kingdom/@51.0680715,0.576626,2507a,13.1y/data=!4m2!3m1!1s0x47df233c211562f3:0xae7de4fa41df0b20",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "reviews_per_2": null,
+    "reviews_per_3": null,
+    "reviews_per_4": null,
+    "reviews_per_5": null,
+    "phone": null,
+    "website": null,
+    "street": null,
+    "state": null,
+    "zip_code": null,
+    "logo": null,
+    "not_claimed": false,
+    "reviews_link": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "CROSSROAD(S)",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 7,
+    "language": "en",
+    "location_name": ""
+  }
+]
