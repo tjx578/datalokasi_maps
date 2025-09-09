@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Kantor Kepala Desa",
+    "place_id": "ChIJkThzB9p_MTARSmYlwyZfaIc",
+    "data_id": "0x30317fda07733891:0x87685f26c325664a",
+    "gps_coordinates": {
+      "latitude": 3.0800468999999997,
+      "longitude": 99.1371283
+    },
+    "provider_id": "/g/11h4gvynk0",
+    "rating": 3.8,
+    "reviews": 6,
+    "type": "Village hall",
+    "types": [
+      "Village hall"
+    ],
+    "address": "34JP+2V6, Bah Tobu, Dolok Batu Nanggar, Simalungun Regency, North Sumatra 21155",
+    "operating_hours": {},
+    "description": {},
+    "street": "34JP+2V6",
+    "city": "Simalungun Regency",
+    "state": "North Sumatra",
+    "zip_code": 21155,
+    "country": "ID",
+    "not_claimed": true,
+    "owner": "100998977566585051176",
+    "category": "Balai Pertemuan Desa",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJkThzB9p_MTARSmYlwyZfaIc&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "data_cid": 9757153212785583690,
+    "place_url": "https://www.google.com/maps/preview/place/34JP%2B2V6+Kantor+Kepala+Desa,+Bah+Tobu,+Kec.+Dolok+Batu+Nanggar,+Kabupaten+Simalungun,+Sumatera+Utara+21155,+Indonesia/@3.0800469,99.1371283,3984a,13.1y/data=!4m2!3m1!1s0x30317fda07733891:0x87685f26c325664a",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "reviews_per_1": 1,
+    "reviews_per_2": 0,
+    "reviews_per_3": 1,
+    "reviews_per_4": 1,
+    "reviews_per_5": 3,
+    "phone": null,
+    "website": null,
+    "thumbnail": null,
+    "photo_count": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "kantor kepala desa",
+    "location": "kecamatan pekutatan",
+    "start": 2,
+    "language": "en",
+    "location_name": ""
+  }
+]

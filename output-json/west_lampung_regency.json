@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Cagar Budaya Banten",
+    "place_id": "ChIJ1yMJt3CPRy4RCAY7mt2QxBg",
+    "data_id": "0x2e478f70b70923d7:0x18c490dd9a3b0608",
+    "data_cid": 1784710633795290632,
+    "gps_coordinates": {
+      "latitude": -5.001223599999999,
+      "longitude": 104.0560498
+    },
+    "provider_id": "/g/11hk8g18v_",
+    "rating": 5,
+    "reviews": 1,
+    "type": "Museum",
+    "types": [
+      "Museum"
+    ],
+    "address": "X3X4+GC7, Unnamed Road, Way Mengaku, Kec. Balik Bukit, Kabupaten Lampung Barat, Lampung 34812",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq98MzzUoocpEP8sQwZHykXnFxhPLxG7r2vNmGc-z84vyzfn3czyo_5BVSXZuvg6CIGilIL-sPpOzD8HJnE7j3YwJZR18ZgciUAbYVk6EAhhEDQe1ILvBL_R1S7_5yxtDCQNo-x=w1600-h1000-k-no",
+    "street": "X3X4+GC7, Unnamed Road",
+    "city": "West Lampung Regency",
+    "state": "Lampung",
+    "zip_code": 34812,
+    "country": "ID",
+    "reviews_per_1": 0,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 0,
+    "reviews_per_5": 1,
+    "photo_count": 6,
+    "not_claimed": true,
+    "owner": "111054998334492999252",
+    "category": "museums",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ1yMJt3CPRy4RCAY7mt2QxBg&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restaurant",
+            "slug": "/geo/type/establishment_poi/has_restaurant"
+          }
+        ]
+      },
+      {
+        "name": "Children",
+        "slug": "children",
+        "options": [
+          {
+            "name": "Good for kids",
+            "slug": "/geo/type/establishment_poi/welcomes_children"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/X3X4%2BGC7+Cagar+Budaya+Banten,+Unnamed+Road,+Way+Mengaku,+Kec.+Balik+Bukit,+Kabupaten+Lampung+Barat,+Lampung+34812,+Indonesia/@-5.0012236,104.0560498,3975a,13.1y/data=!4m2!3m1!1s0x2e478f70b70923d7:0x18c490dd9a3b0608",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "CAGAR BUDAYA",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 1,
+    "language": "en",
+    "location_name": ""
+  }
+]

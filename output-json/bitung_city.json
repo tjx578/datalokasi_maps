@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Public Health Centre",
+    "place_id": "ChIJUd04pctVhjIRIOGgpkdFZtk",
+    "data_id": "0x328655cba538dd51:0xd9664547a6a0e120",
+    "data_cid": 15665284527895404832,
+    "gps_coordinates": {
+      "latitude": 1.4999582999999999,
+      "longitude": 125.23774239999999
+    },
+    "provider_id": "/g/11gsn3rbdt",
+    "rating": 5,
+    "reviews": 3,
+    "type": "Community health center",
+    "types": [
+      "Community health center"
+    ],
+    "address": "F6XQ+X3Q, Makawidey, Kasawari, Aertembaga, Kota Bitung, Sulawesi Utara",
+    "open_state": "Open 24 hours",
+    "operating_hours": {
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours"
+    },
+    "phone": "+62 852-5661-1468",
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7PmZY6QDAZ8sre1S4J-pfQ&cb_client=search.gws-prod.gps&w=211&h=120&yaw=94.32952&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "F6XQ+X3Q, Makawidey",
+    "city": "Bitung City",
+    "state": "North Sulawesi",
+    "country": "ID",
+    "reviews_per_1": 0,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 0,
+    "reviews_per_5": 3,
+    "photo_count": 3,
+    "not_claimed": true,
+    "owner": "106051269663208901383",
+    "category": "Pusat Kesehatan Masyarakat",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJUd04pctVhjIRIOGgpkdFZtk&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair accessible restroom",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_restroom"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/F6XQ%2BX3Q+Public+Health+Centre,+Makawidey,+Kasawari,+Aertembaga,+Kota+Bitung,+Sulawesi+Utara,+Indonesia/@1.4999583,125.2377424,3988a,13.1y/data=!4m2!3m1!1s0x328655cba538dd51:0xd9664547a6a0e120",
+    "note_from_owner": null,
+    "description_arr": null,
+    "website": null,
+    "zip_code": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "PUSKESMAS PEMBANTU",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 3,
+    "language": "en",
+    "location_name": ""
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "title": "Bundaran Singkawang",
+    "place_id": "ChIJ0TDO3_dy4zERL-HqfQjzza0",
+    "data_id": "0x31e372f7dfce30d1:0xadcdf3087deae12f",
+    "data_cid": 12523933356585050415,
+    "gps_coordinates": {
+      "latitude": 0.8925162999999999,
+      "longitude": 108.9636287
+    },
+    "provider_id": "/g/11clscp20_",
+    "rating": 4.5,
+    "reviews": 946,
+    "type": "Park",
+    "types": [
+      "Park",
+      "Tourist attraction"
+    ],
+    "address": "VXV7+2F2, Jl. Tani, Sedau, Kec. Singkawang Sel., Kota Singkawang, Kalimantan Barat 79123",
+    "open_state": "Open 24 hours",
+    "operating_hours": {
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours"
+    },
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Lopy4brJToBJzh6AIQQHNQ&cb_client=search.gws-prod.gps&w=211&h=120&yaw=212.30864&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "VXV7+2F2, Jl. Tani",
+    "city": "Singkawang City",
+    "state": "West Kalimantan",
+    "zip_code": 79123,
+    "country": "ID",
+    "reviews_per_1": 33,
+    "reviews_per_2": 10,
+    "reviews_per_3": 95,
+    "reviews_per_4": 162,
+    "reviews_per_5": 646,
+    "photo_count": 1034,
+    "not_claimed": true,
+    "owner": "107210275073631187328",
+    "category": "attractions",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ0TDO3_dy4zERL-HqfQjzza0&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Highlights",
+        "slug": "highlights",
+        "options": [
+          {
+            "name": "Picnics",
+            "slug": "/geo/type/bare_properties_holder/suitable_for_picnics"
+          }
+        ]
+      },
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Wheelchair accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/VXV7%2B2F2+Bundaran+Singkawang,+Jl.+Tani,+Sedau,+Singkawang+Selatan,+Singkawang+City,+West+Kalimantan+79123,+Indonesia/@0.8925163,108.9636287,3989a,13.1y/data=!4m2!3m1!1s0x31e372f7dfce30d1:0xadcdf3087deae12f",
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "BUNDARAN",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 0,
+    "language": "en",
+    "location_name": ""
+  }
+]

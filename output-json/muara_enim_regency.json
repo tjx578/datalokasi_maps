@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Kantor Kepala Desa",
+    "place_id": "ChIJX0g8Q8BROi4R2GuChddLoPQ",
+    "data_id": "0x2e3a51c0433c485f:0xf4a04bd785826bd8",
+    "gps_coordinates": {
+      "latitude": -3.1079244999999998,
+      "longitude": 104.1275422
+    },
+    "provider_id": "/g/11kxrnwtxy",
+    "rating": 5,
+    "reviews": 1,
+    "type": "Government office",
+    "types": [
+      "Government office"
+    ],
+    "address": "V4RH+R2M, Tanjung Kurung, Abab, Muara Enim Regency, South Sumatra 31315",
+    "operating_hours": {},
+    "description": {},
+    "street": "V4RH+R2M",
+    "city": "Muara Enim Regency",
+    "state": "South Sumatra",
+    "zip_code": 31315,
+    "country": "ID",
+    "not_claimed": true,
+    "owner": "106623157975860829122",
+    "category": "Kantor Pemerintah",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJX0g8Q8BROi4R2GuChddLoPQ&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "data_cid": 17627172330558090200,
+    "place_url": "https://www.google.com/maps/preview/place/V4RH%2BR2M+Kantor+Kepala+Desa,+Tj.+Kurung,+Abab,+Kabupaten+Muara+Enim,+Sumatera+Selatan+31315,+Indonesia/@-3.1079245,104.1275422,3984a,13.1y/data=!4m2!3m1!1s0x2e3a51c0433c485f:0xf4a04bd785826bd8",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "reviews_per_1": 0,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 0,
+    "reviews_per_5": 1,
+    "phone": null,
+    "website": null,
+    "thumbnail": null,
+    "photo_count": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "kantor kepala desa",
+    "location": "melaya ",
+    "start": 1,
+    "language": "en",
+    "location_name": ""
+  }
+]

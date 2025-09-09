@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Crossroads",
+    "place_id": "ChIJ2UEOL5vKwoARrUhK5tDyjTE",
+    "data_id": "0x80c2ca9b2f0e41d9:0x318df2d0e64a48ad",
+    "data_cid": 3570777058605418669,
+    "gps_coordinates": {
+      "latitude": 33.8812658,
+      "longitude": -118.29117509999999
+    },
+    "provider_id": "/g/11k2vcybyp",
+    "rating": 5,
+    "reviews": 1,
+    "type": "Non-profit organization",
+    "types": [
+      "Non-profit organization"
+    ],
+    "address": "Los Angeles, CA 90247, United States",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dheHXPpN-Vv5DOzsGPiuuA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=70.89102&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "city": "Los Angeles",
+    "state": "California",
+    "country": "US",
+    "reviews_per_1": 0,
+    "photo_count": 1,
+    "not_claimed": true,
+    "owner": "106303892444534783649",
+    "category": "Non-profit organization",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ2UEOL5vKwoARrUhK5tDyjTE&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/Crossroads,+Los+Angeles,+CA+90247/@33.8812658,-118.2911751,3312a,13.1y/data=!4m2!3m1!1s0x80c2ca9b2f0e41d9:0x318df2d0e64a48ad",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 0,
+    "reviews_per_5": 1,
+    "phone": null,
+    "website": null,
+    "street": null,
+    "zip_code": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "TEMPORARILY_CLOSED",
+    "full_description": "",
+    "price": null,
+    "query": "CROSSROAD(S)",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 8,
+    "language": "en",
+    "location_name": ""
+  }
+]
