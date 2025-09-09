@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NaviPro Location Database API</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 10px;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .card {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+        .search-box {
+            width: 100%;
+            padding: 12px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+        .btn {
+            background: #667eea;
+            color: white;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            margin: 5px;
+        }
+        .btn:hover {
+            background: #5a67d8;
+        }
+        .result {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+            margin-top: 15px;
+            border-left: 4px solid #667eea;
+        }
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin: 20px 0;
+        }
+        .stat-item {
+            background: #667eea;
+            color: white;
+            padding: 20px;
+            border-radius: 5px;
+            text-align: center;
+        }
+        .stat-number {
+            font-size: 2em;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🗺️ NaviPro Location Database</h1>
+        <p>API Penyedia Database Lokasi Maps untuk NaviPro</p>
+    </div>
+
+    <div class="card">
+        <h2>🔗 API Endpoints</h2>
+        <div class="result">
+            <h3>Endpoints yang tersedia:</h3>
+            <ul>
+                <li><strong>GET /</strong> - Informasi API</li>
+                <li><strong>GET /health</strong> - Status kesehatan server</li>
+                <li><strong>GET /api/locations</strong> - Daftar semua lokasi (dengan pagination)</li>
+                <li><strong>GET /api/locations/&lt;city&gt;</strong> - Lokasi berdasarkan kota/kabupaten</li>
+                <li><strong>GET /api/search?q=&lt;query&gt;</strong> - Pencarian lokasi</li>
+                <li><strong>GET /api/regions</strong> - Daftar semua region yang tersedia</li>
+                <li><strong>GET /api/stats</strong> - Statistik database</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="card">
+        <h2>📊 Statistik Database</h2>
+        <div id="stats-container">
+            <p>Memuat statistik...</p>
+        </div>
+    </div>
+
+    <script>
+        async function loadStats() {
+            try {
+                const response = await fetch('/api/stats');
+                const data = await response.json();
+                
+                let html = `<div class="stats-grid">
+                    <div class="stat-item">
+                        <div class="stat-number">${data.total_regions || 0}</div>
+                        <div>Total Region</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number">${data.total_locations || 0}</div>
+                        <div>Total Lokasi</div>
+                    </div>
+                </div>`;
+
+                if (data.top_regions && data.top_regions.length > 0) {
+                    html += '<div class="result"><h4>🏆 Top 5 Region dengan Lokasi Terbanyak:</h4><ul>';
+                    data.top_regions.slice(0, 5).forEach((region, index) => {
+                        html += `<li><strong>${region.region.replace(/_/g, ' ').toUpperCase()}</strong>: ${region.count} lokasi</li>`;
+                    });
+                    html += '</ul></div>';
+                }
+
+                document.getElementById('stats-container').innerHTML = html;
+            } catch (error) {
+                document.getElementById('stats-container').innerHTML = '<div class="result">❌ Gagal memuat statistik</div>';
+            }
+        }
+
+        // Load stats on page load
+        window.onload = loadStats;
+    </script>
+</body>
+</html>
