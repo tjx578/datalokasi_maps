@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Puskesmas Pembantu",
+    "place_id": "ChIJS2hTOGizcDIRcB0jYruzX4s",
+    "data_id": "0x3270b3683853684b:0x8b5fb3bb62231d70",
+    "data_cid": 10042943311446220144,
+    "gps_coordinates": {
+      "latitude": 1.0595134,
+      "longitude": 121.43633319999999
+    },
+    "provider_id": "/g/11fhqlp5vg",
+    "type": "Community health center",
+    "types": [
+      "Community health center"
+    ],
+    "address": "3C5P+RG4, Unone, Bukal, Buol Regency, Central Sulawesi 94563",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mQJcpsMGO3l8W7inq-3n9A&cb_client=search.gws-prod.gps&w=211&h=120&yaw=54.25089&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "3C5P+RG4",
+    "city": "Buol Regency",
+    "state": "Central Sulawesi",
+    "zip_code": 94563,
+    "country": "ID",
+    "reviews_per_1": null,
+    "reviews_per_2": null,
+    "reviews_per_3": null,
+    "reviews_per_4": null,
+    "reviews_per_5": null,
+    "photo_count": 3,
+    "not_claimed": true,
+    "owner": "109291518660907017702",
+    "category": "Pusat Kesehatan Masyarakat",
+    "service_option": [
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "place_url": "https://www.google.com/maps/preview/place/3C5P%2BRG4+Puskesmas+Pembantu,+Unone,+Kec.+Bukal,+Kabupaten+Buol,+Sulawesi+Tengah+94563,+Indonesia/@1.0595134,121.4363332,3989a,13.1y/data=!4m2!3m1!1s0x3270b3683853684b:0x8b5fb3bb62231d70",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "reviews_link": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "PUSKESMAS PEMBANTU",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 7,
+    "language": "en",
+    "location_name": ""
+  }
+]

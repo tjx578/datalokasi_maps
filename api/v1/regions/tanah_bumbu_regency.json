@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Bundaran Pasar Minggu",
+    "place_id": "ChIJNcVeAdK16C0RXylmDO82Mts",
+    "data_id": "0x2de8b5d2015ec535:0xdb3236ef0c66295f",
+    "data_cid": 15794747243474856287,
+    "gps_coordinates": {
+      "latitude": -3.4279355,
+      "longitude": 115.9969971
+    },
+    "provider_id": "/g/11s2nrf3mh",
+    "rating": 4.7,
+    "reviews": 7,
+    "type": "Historical landmark",
+    "types": [
+      "Historical landmark"
+    ],
+    "address": "HXCW+RQH, Kampung Baru, Simpang Empat, Tanah Bumbu Regency, South Kalimantan 72273",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vUSoC56AV9J7Ko_FaFoEIQ&cb_client=search.gws-prod.gps&w=211&h=120&yaw=258.42328&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "HXCW+RQH",
+    "city": "Tanah Bumbu Regency",
+    "state": "South Kalimantan",
+    "zip_code": 72273,
+    "country": "ID",
+    "reviews_per_1": 0,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 2,
+    "reviews_per_5": 5,
+    "photo_count": 20,
+    "not_claimed": true,
+    "owner": "110756478222628355694",
+    "category": "Bangunan Bersejarah",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJNcVeAdK16C0RXylmDO82Mts&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Wheelchair accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          }
+        ]
+      },
+      {
+        "name": "Children",
+        "slug": "children",
+        "options": [
+          {
+            "name": "Good for kids",
+            "slug": "/geo/type/establishment_poi/welcomes_children"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/HXCW%2BRQH+Bundaran+Pasar+Minggu,+Kp.+Baru,+Kec.+Simpang+Empat,+Kabupaten+Tanah+Bumbu,+Kalimantan+Selatan+72273,+Indonesia/@-3.4279355,115.9969971,3983a,13.1y/data=!4m2!3m1!1s0x2de8b5d2015ec535:0xdb3236ef0c66295f",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "BUNDARAN",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 0,
+    "language": "en",
+    "location_name": ""
+  }
+]

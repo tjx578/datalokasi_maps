@@ -1,0 +1,145 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Datalokasi Maps API",
+    "description": "API untuk mengakses data lokasi maps Indonesia untuk Navi Pro Custom GPT. Menyediakan akses ke lebih dari 6900 lokasi di seluruh Indonesia.",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://tjx578.github.io/datalokasi_maps"
+    }
+  ],
+  "paths": {
+    "/api/v1/index.json": {
+      "get": {
+        "description": "Mendapatkan informasi dasar API dan statistik data",
+        "responses": {
+          "200": {
+            "description": "Informasi API berhasil diambil"
+          }
+        }
+      }
+    },
+    "/api/v1/data.json": {
+      "get": {
+        "description": "Mendapatkan semua data lokasi dalam format JSON",
+        "responses": {
+          "200": {
+            "description": "Data lokasi berhasil diambil",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Location"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/data.csv": {
+      "get": {
+        "description": "Mendapatkan semua data lokasi dalam format CSV",
+        "responses": {
+          "200": {
+            "description": "Data CSV berhasil diambil"
+          }
+        }
+      }
+    },
+    "/api/v1/cities.json": {
+      "get": {
+        "description": "Mendapatkan daftar kota dan wilayah yang tersedia",
+        "responses": {
+          "200": {
+            "description": "Daftar kota berhasil diambil"
+          }
+        }
+      }
+    },
+    "/api/v1/regions/{city}.json": {
+      "get": {
+        "description": "Mendapatkan data lokasi untuk kota tertentu",
+        "parameters": [
+          {
+            "name": "city",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            },
+            "description": "Nama kota/wilayah (contoh: gianyar_regency, denpasar_city)",
+            "example": "gianyar_regency"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Data lokasi kota berhasil diambil"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Location": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "description": "Nama lokasi"
+          },
+          "place_id": {
+            "type": "string",
+            "description": "Google Place ID"
+          },
+          "address": {
+            "type": "string",
+            "description": "Alamat lengkap"
+          },
+          "city": {
+            "type": "string",
+            "description": "Kota/Kabupaten"
+          },
+          "state": {
+            "type": "string",
+            "description": "Provinsi"
+          },
+          "country": {
+            "type": "string",
+            "description": "Negara"
+          },
+          "gps_coordinates": {
+            "type": "object",
+            "properties": {
+              "latitude": {
+                "type": "number",
+                "description": "Koordinat latitude"
+              },
+              "longitude": {
+                "type": "number",
+                "description": "Koordinat longitude"
+              }
+            }
+          },
+          "type": {
+            "type": "string",
+            "description": "Kategori lokasi"
+          },
+          "rating": {
+            "type": "number",
+            "description": "Rating (jika ada)"
+          },
+          "reviews": {
+            "type": "number",
+            "description": "Jumlah review"
+          }
+        }
+      }
+    }
+  }
+}

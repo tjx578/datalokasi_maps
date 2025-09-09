@@ -1,0 +1,331 @@
+[
+  {
+    "title": "Heritage Panembahan Depok",
+    "place_id": "ChIJVTkw1UZqZS4R79tWS49eUBg",
+    "data_id": "0x2e656a46d5303955:0x18505e8f4b56dbef",
+    "data_cid": 1752004224584440815,
+    "gps_coordinates": {
+      "latitude": -7.6295034,
+      "longitude": 109.1580876
+    },
+    "provider_id": "/g/11g8_111rf",
+    "rating": 4.4,
+    "reviews": 32,
+    "type": "Museum",
+    "types": [
+      "Museum"
+    ],
+    "address": "95C5+56W, Jl. Depok, Pendudutam, Kalikudi, Kec. Adipala, Kabupaten Cilacap, Jawa Tengah 53271",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rYkswlwHpImHHqGIYpjcNQ&cb_client=search.gws-prod.gps&w=211&h=120&yaw=302.6565&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "95C5+56W, Jl. Depok",
+    "city": "Cilacap Regency",
+    "state": "Central Java",
+    "zip_code": 53271,
+    "country": "ID",
+    "reviews_per_1": 1,
+    "reviews_per_2": 1,
+    "reviews_per_3": 3,
+    "reviews_per_4": 5,
+    "reviews_per_5": 22,
+    "photo_count": 17,
+    "not_claimed": true,
+    "owner": "104718265707725829106",
+    "category": "museums",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJVTkw1UZqZS4R79tWS49eUBg&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Wheelchair accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          },
+          {
+            "name": "Restaurant",
+            "slug": "/geo/type/establishment_poi/has_restaurant"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/95C5%2B56W+Heritage+Panembahan+Depok,+Jl.+Depok,+Pendudutam,+Kalikudi,+Adipala,+Cilacap+Regency,+Central+Java+53271,+Indonesia/@-7.6295034,109.1580876,3954a,13.1y/data=!4m2!3m1!1s0x2e656a46d5303955:0x18505e8f4b56dbef",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "CAGAR BUDAYA",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 0,
+    "language": "en",
+    "location_name": ""
+  },
+  {
+    "title": "Puskesmas Sidareja",
+    "place_id": "ChIJOcmcZW-CZS4RAl7I0dJw8I4",
+    "data_id": "0x2e65826f659cc939:0x8ef070d2d1c85e02",
+    "data_cid": 10299856398561336834,
+    "gps_coordinates": {
+      "latitude": -7.487195,
+      "longitude": 108.7913564
+    },
+    "provider_id": "/g/1pzsd9drk",
+    "rating": 4.2,
+    "reviews": 403,
+    "type": "Public medical center",
+    "types": [
+      "Public medical center"
+    ],
+    "address": "GQ7R+46R, Jl. Yos Sudarso No.49, Cikalong, Sidareja, Kec. Sidareja, Kabupaten Cilacap, Jawa Tengah 53261",
+    "open_state": "Closed ⋅ Opens 8 AM",
+    "operating_hours": {
+      "sunday": "8–11 AM",
+      "monday": "Closed",
+      "tuesday": "7:30 AM–12 PM",
+      "wednesday": "7:30 AM–12 PM",
+      "thursday": "7:30 AM–12 PM",
+      "friday": "7:30 AM–12 PM",
+      "saturday": "7:30–11 AM"
+    },
+    "phone": "+62 821-4146-1609",
+    "website": "https://puskesmassidareja.cilacapkab.go.id/",
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6Y1Zgqmi7ypB8I2D3FvQUg&cb_client=search.gws-prod.gps&w=211&h=120&yaw=224.34961&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "GQ7R+46R, Jl. Yos Sudarso No.49",
+    "city": "Cilacap Regency",
+    "state": "Central Java",
+    "zip_code": 53261,
+    "country": "ID",
+    "reviews_per_1": 58,
+    "reviews_per_2": 16,
+    "reviews_per_3": 14,
+    "reviews_per_4": 24,
+    "reviews_per_5": 291,
+    "photo_count": 128,
+    "logo": "https://lh5.googleusercontent.com/-6hZq48mV2Mw/AAAAAAAAAAI/AAAAAAAAAAA/BKjp_fwUv6M/s44-p-k-no-ns-nd/photo.jpg",
+    "owner": "103160658288674861381",
+    "category": "Pusat Kesehatan Masyarakat",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJOcmcZW-CZS4RAl7I0dJw8I4&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Wheelchair accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          },
+          {
+            "name": "Wheelchair accessible restroom",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_restroom"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/GQ7R%2B46R+Puskesmas+Sidareja,+Jl.+Yos+Sudarso+No.49,+Cikalong,+Sidareja,+Kec.+Sidareja,+Kabupaten+Cilacap,+Jawa+Tengah+53261,+Indonesia/@-7.487195,108.7913564,3956a,13.1y/data=!4m2!3m1!1s0x2e65826f659cc939:0x8ef070d2d1c85e02",
+    "note_from_owner": "Pelayanan kesehatan masyarakat",
+    "description_arr": null,
+    "not_claimed": false,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "PUSKESMAS PEMBANTU",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 4,
+    "language": "en",
+    "location_name": ""
+  },
+  {
+    "title": "Balai Desa Banjareja Kec. Nusawungu",
+    "place_id": "ChIJwTa02Bo5ZS4R1M_BMN1pu7g",
+    "data_id": "0x2e65391ad8b436c1:0xb8bb69dd30c1cfd4",
+    "data_cid": 13311349522350329812,
+    "gps_coordinates": {
+      "latitude": -7.686579,
+      "longitude": 109.3735095
+    },
+    "provider_id": "/g/11r10tqtt7",
+    "rating": 4.5,
+    "reviews": 42,
+    "type": "Community center",
+    "types": [
+      "Community center"
+    ],
+    "address": "Jl. Satria No.34, Banjarutama, Banjareja, Kec. Nusawungu, Kabupaten Cilacap, Jawa Tengah 53283",
+    "open_state": "Closed ⋅ Opens 8:30 a.m. Mon",
+    "operating_hours": {
+      "sunday": "Closed",
+      "monday": "8:30 a.m.–2:30 p.m.",
+      "tuesday": "8:30 a.m.–2:30 p.m.",
+      "wednesday": "8:30 a.m.–2:30 p.m.",
+      "thursday": "8:30 a.m.–2:30 p.m.",
+      "friday": "8:30 a.m.–2 p.m.",
+      "saturday": "Closed"
+    },
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=I8Z2ZLRCB4zlYymHqgd6sg&cb_client=search.gws-prod.gps&w=211&h=120&yaw=23.439983&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "Jl. Satria No.34",
+    "city": "Cilacap Regency",
+    "state": "Central Java",
+    "zip_code": 53283,
+    "country": "ID",
+    "reviews_per_1": 2,
+    "reviews_per_2": 1,
+    "reviews_per_3": 1,
+    "reviews_per_4": 7,
+    "reviews_per_5": 31,
+    "photo_count": 14,
+    "not_claimed": true,
+    "owner": "113182954722361932724",
+    "category": "Balai masyarakat",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJwTa02Bo5ZS4R1M_BMN1pu7g&authuser=0&hl=en&gl=CA",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Wheelchair-accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Washroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/Balai+Desa+Banjareja+Kec.+Nusawungu,+Jl.+Satria+No.34,+Banjarutama,+Banjareja,+Kec.+Nusawungu,+Kabupaten+Cilacap,+Jawa+Tengah+53283,+Indonesia/@-7.686579,109.3735095,3954a,13.1y/data=!4m2!3m1!1s0x2e65391ad8b436c1:0xb8bb69dd30c1cfd4",
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "balai banjar",
+    "location": "denpasar barat",
+    "start": 18,
+    "language": "id",
+    "location_name": ""
+  }
+]

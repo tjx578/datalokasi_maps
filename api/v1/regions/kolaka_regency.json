@@ -1,0 +1,96 @@
+[
+  {
+    "title": "Bendungan Balandete",
+    "place_id": "ChIJtVw0NHofmC0RhGUbarn1AjE",
+    "data_id": "0x2d981f7a34345cb5:0x3102f5b96a1b6584",
+    "data_cid": 3531655234509825412,
+    "gps_coordinates": {
+      "latitude": -4.0660371,
+      "longitude": 121.6358956
+    },
+    "provider_id": "/g/11jggzz7f9",
+    "rating": 3.5,
+    "reviews": 4,
+    "type": "Weir",
+    "types": [
+      "Weir"
+    ],
+    "address": "WJMP+H9J, Balandete, Kolaka, Kolaka Regency, South East Sulawesi 93561",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lfhra6kt7-yZwBqmxAm9Sg&cb_client=search.gws-prod.gps&w=211&h=120&yaw=298.42853&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "WJMP+H9J",
+    "city": "Kolaka Regency",
+    "state": "South East Sulawesi",
+    "zip_code": 93561,
+    "country": "ID",
+    "reviews_per_1": 1,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 2,
+    "reviews_per_5": 1,
+    "photo_count": 16,
+    "not_claimed": true,
+    "owner": "103651376961761653062",
+    "category": "Bendungan",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJtVw0NHofmC0RhGUbarn1AjE&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Wheelchair accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/WJMP%2BH9J+Bendungan+Balandete,+Balandete,+Kec.+Kolaka,+Kabupaten+Kolaka,+Sulawesi+Tenggara+93561,+Indonesia/@-4.0660371,121.6358956,3980a,13.1y/data=!4m2!3m1!1s0x2d981f7a34345cb5:0x3102f5b96a1b6584",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "BENDUNGAN",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 3,
+    "language": "en",
+    "location_name": ""
+  }
+]

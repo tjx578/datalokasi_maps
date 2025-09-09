@@ -1,0 +1,210 @@
+[
+  {
+    "title": "Cagar Budaya 'Bandar Tasik Selatan'",
+    "place_id": "ChIJURMb1s5V3y0RiR-fgaK5oyY",
+    "data_id": "0x2ddf55ced61b1351:0x26a3b9a2819f1f89",
+    "data_cid": 2784273102255628169,
+    "gps_coordinates": {
+      "latitude": -5.853099599999999,
+      "longitude": 112.6572676
+    },
+    "provider_id": "/g/11fz26wsx7",
+    "rating": 5,
+    "reviews": 2,
+    "type": "Archaeological museum",
+    "types": [
+      "Archaeological museum"
+    ],
+    "address": "4MW4+QW6, Jl. Pahlawan, Sawahmulya, Kec. Sangkapura, Kabupaten Gresik, Jawa Timur 61181",
+    "open_state": "Closed ⋅ Opens 8 AM",
+    "operating_hours": {
+      "sunday": "8 AM–6 PM",
+      "monday": "8 AM–6 PM",
+      "tuesday": "8 AM–6 PM",
+      "wednesday": "8 AM–6 PM",
+      "thursday": "8 AM–6 PM",
+      "friday": "8 AM–6 PM",
+      "saturday": "8 AM–6 PM"
+    },
+    "description": {},
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqxHuvNULwLxnWRZG_uCNb5EZedoF0laSPasSz5hhEnA_zQwy_1G2Rks570JOhvWaiFaVq76YFmRAmKf0li4N8FGKwz9L2qf3RhwnZTIy3XlLlsjd53NgEiSTMwfYWYdmjoexWHVg=w1600-h1000-k-no",
+    "street": "4MW4+QW6, Jl. Pahlawan",
+    "city": "Gresik Regency",
+    "state": "East Java",
+    "zip_code": 61181,
+    "country": "ID",
+    "reviews_per_1": 0,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 0,
+    "reviews_per_5": 2,
+    "photo_count": 5,
+    "not_claimed": true,
+    "owner": "108007799844531380645",
+    "category": "museums",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJURMb1s5V3y0RiR-fgaK5oyY&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restaurant",
+            "slug": "/geo/type/establishment_poi/has_restaurant"
+          }
+        ]
+      },
+      {
+        "name": "Children",
+        "slug": "children",
+        "options": [
+          {
+            "name": "Good for kids",
+            "slug": "/geo/type/establishment_poi/welcomes_children"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/4MW4%2BQW6+Cagar+Budaya+'Bandar+Tasik+Selatan',+Jl.+Pahlawan,+Sawahmulya,+Kec.+Sangkapura,+Kabupaten+Gresik,+Jawa+Timur+61181,+Indonesia/@-5.8530996,112.6572676,3969a,13.1y/data=!4m2!3m1!1s0x2ddf55ced61b1351:0x26a3b9a2819f1f89",
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "CAGAR BUDAYA",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 0,
+    "language": "en",
+    "location_name": ""
+  },
+  {
+    "title": "Cagar Budaya Mbah Lebih",
+    "place_id": "ChIJyQu3RhL9dy4REcFDoa_j_bQ",
+    "data_id": "0x2e77fd1246b70bc9:0xb4fde3afa143c111",
+    "data_cid": 13041830439399178513,
+    "gps_coordinates": {
+      "latitude": -7.0397172999999995,
+      "longitude": 112.5334122
+    },
+    "provider_id": "/g/11l0c6291b",
+    "rating": 4.8,
+    "reviews": 4,
+    "type": "Museum",
+    "types": [
+      "Museum"
+    ],
+    "address": "Jl. Desa Melirang No.24, Kalimalang, Melirang, Kec. Bungah, Kabupaten Gresik, Jawa Timur 61152",
+    "operating_hours": {},
+    "phone": "+62 813-5760-2449",
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ILYaqa273bYaiAE7yjimWw&cb_client=search.gws-prod.gps&w=211&h=120&yaw=288.41718&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "Jl. Desa Melirang No.24",
+    "city": "Gresik Regency",
+    "state": "East Java",
+    "zip_code": 61152,
+    "country": "ID",
+    "reviews_per_1": 0,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 1,
+    "reviews_per_5": 3,
+    "photo_count": 11,
+    "not_claimed": true,
+    "owner": "113346986725333334798",
+    "category": "museums",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJyQu3RhL9dy4REcFDoa_j_bQ&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restaurant",
+            "slug": "/geo/type/establishment_poi/has_restaurant"
+          }
+        ]
+      },
+      {
+        "name": "Children",
+        "slug": "children",
+        "options": [
+          {
+            "name": "Good for kids",
+            "slug": "/geo/type/establishment_poi/welcomes_children"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/Cagar+Budaya+Mbah+Lebih,+Jl.+Desa+Melirang+No.24,+Kalimalang,+Melirang,+Kec.+Bungah,+Kabupaten+Gresik,+Jawa+Timur+61152,+Indonesia/@-7.0397173,112.5334122,3960a,13.1y/data=!4m2!3m1!1s0x2e77fd1246b70bc9:0xb4fde3afa143c111",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "CAGAR BUDAYA",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 0,
+    "language": "en",
+    "location_name": ""
+  }
+]

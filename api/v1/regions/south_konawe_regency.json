@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Puskesmas Pembantu",
+    "place_id": "ChIJyQn1ZLOYoi0RqzP5nKEm1mI",
+    "data_id": "0x2da298b364f509c9:0x62d626a19cf933ab",
+    "data_cid": 7121922336298185643,
+    "gps_coordinates": {
+      "latitude": -4.3660581999999994,
+      "longitude": 122.0094093
+    },
+    "provider_id": "/g/11c1dwqnxh",
+    "type": "Public medical center",
+    "types": [
+      "Public medical center",
+      "Community health center",
+      "Walk-in clinic"
+    ],
+    "address": "J2M5+HQF, Sumber Jaya, Lalembuu, South Konawe Regency, South East Sulawesi 93885",
+    "open_state": "Open 24 hours",
+    "operating_hours": {
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours"
+    },
+    "phone": "+62 852-4161-2900",
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TLwBBhldLgTbzVWahrfELA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=31.267916&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "J2M5+HQF",
+    "city": "South Konawe Regency",
+    "state": "South East Sulawesi",
+    "zip_code": 93885,
+    "country": "ID",
+    "reviews_per_1": null,
+    "photo_count": 1,
+    "not_claimed": true,
+    "owner": "114841786974155426711",
+    "category": "Public medical center",
+    "service_option": [
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "place_url": "https://www.google.com/maps/preview/place/J2M5%2BHQF+Puskesmas+Pembantu,+Sumber+Jaya,+Lalembuu,+South+Konawe+Regency,+South+East+Sulawesi+93885,+Indonesia/@-4.3660582,122.0094093,3978a,13.1y/data=!4m2!3m1!1s0x2da298b364f509c9:0x62d626a19cf933ab",
+    "note_from_owner": null,
+    "description_arr": null,
+    "reviews_per_2": null,
+    "reviews_per_3": null,
+    "reviews_per_4": null,
+    "reviews_per_5": null,
+    "website": null,
+    "logo": null,
+    "reviews_link": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "PUSKESMAS PEMBANTU",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 4,
+    "language": "en",
+    "location_name": ""
+  }
+]

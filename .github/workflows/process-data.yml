@@ -1,0 +1,309 @@
+name: Process Maps Data for Navi Pro GPT
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'raw-data/**'
+      - 'process.py'
+  pull_request:
+    branches: [ main ]
+    paths:
+      - 'raw-data/**'
+      - 'process.py'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  process-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Validate JSON files
+        run: |
+          echo "Validating JSON files..."
+          for file in raw-data/*.json; do
+            if [ -f "$file" ]; then
+              echo "Checking $file"
+              python -m json.tool "$file" > /dev/null
+            fi
+          done
+
+      - name: Process data
+        run: |
+          echo "Processing maps data..."
+          python process.py
+
+      - name: Create API endpoint structure
+        run: |
+          mkdir -p api/v1
+          
+          # Create main API index
+          cat > api/v1/index.json << 'EOF'
+          {
+            "name": "Datalokasi Maps API",
+            "version": "1.0.0",
+            "description": "Maps data API for Navi Pro Custom GPT",
+            "endpoints": {
+              "all_data": "/api/v1/data.json",
+              "csv_export": "/api/v1/data.csv",
+              "cities": "/api/v1/cities.json",
+              "regions": "/api/v1/regions/"
+            },
+            "total_records": null,
+            "last_updated": null
+          }
+          EOF
+          
+          # Copy processed data to API endpoints
+          cp output-data.csv api/v1/data.csv
+          
+          # Create consolidated JSON data
+          python3 << 'EOF'
+          import json
+          import os
+          from datetime import datetime
+          
+          # Read all processed JSON files
+          all_data = []
+          cities_data = {}
+          
+          for filename in os.listdir('output-json'):
+              if filename.endswith('.json'):
+                  city_name = filename[:-5]  # Remove .json
+                  with open(f'output-json/{filename}', 'r', encoding='utf-8') as f:
+                      data = json.load(f)
+                      all_data.extend(data)
+                      cities_data[city_name] = {
+                          "count": len(data),
+                          "endpoint": f"/api/v1/regions/{filename}"
+                      }
+          
+          # Save consolidated data
+          with open('api/v1/data.json', 'w', encoding='utf-8') as f:
+              json.dump(all_data, f, ensure_ascii=False, indent=2)
+          
+          # Save cities index
+          with open('api/v1/cities.json', 'w', encoding='utf-8') as f:
+              json.dump(cities_data, f, ensure_ascii=False, indent=2)
+          
+          # Update main index with stats
+          with open('api/v1/index.json', 'r', encoding='utf-8') as f:
+              index_data = json.load(f)
+          
+          index_data['total_records'] = len(all_data)
+          index_data['last_updated'] = datetime.utcnow().isoformat() + 'Z'
+          index_data['total_cities'] = len(cities_data)
+          
+          with open('api/v1/index.json', 'w', encoding='utf-8') as f:
+              json.dump(index_data, f, ensure_ascii=False, indent=2)
+          EOF
+          
+          # Create regions directory and copy individual city files
+          mkdir -p api/v1/regions
+          cp output-json/*.json api/v1/regions/
+
+      - name: Create custom GPT integration files
+        run: |
+          # Create schema for custom GPT
+          cat > api/v1/schema.json << 'EOF'
+          {
+            "openapi": "3.0.1",
+            "info": {
+              "title": "Datalokasi Maps API",
+              "description": "API untuk mengakses data lokasi maps Indonesia untuk Navi Pro Custom GPT",
+              "version": "1.0.0"
+            },
+            "servers": [
+              {
+                "url": "https://tjx578.github.io/datalokasi_maps"
+              }
+            ],
+            "paths": {
+              "/api/v1/data.json": {
+                "get": {
+                  "description": "Mendapatkan semua data lokasi dalam format JSON",
+                  "responses": {
+                    "200": {
+                      "description": "Data lokasi berhasil diambil",
+                      "content": {
+                        "application/json": {
+                          "schema": {
+                            "type": "array",
+                            "items": {
+                              "$ref": "#/components/schemas/Location"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "/api/v1/cities.json": {
+                "get": {
+                  "description": "Mendapatkan daftar kota dan wilayah yang tersedia",
+                  "responses": {
+                    "200": {
+                      "description": "Daftar kota berhasil diambil"
+                    }
+                  }
+                }
+              },
+              "/api/v1/regions/{city}.json": {
+                "get": {
+                  "description": "Mendapatkan data lokasi untuk kota tertentu",
+                  "parameters": [
+                    {
+                      "name": "city",
+                      "in": "path",
+                      "required": true,
+                      "schema": {
+                        "type": "string"
+                      }
+                    }
+                  ],
+                  "responses": {
+                    "200": {
+                      "description": "Data lokasi kota berhasil diambil"
+                    }
+                  }
+                }
+              }
+            },
+            "components": {
+              "schemas": {
+                "Location": {
+                  "type": "object",
+                  "properties": {
+                    "title": {"type": "string"},
+                    "place_id": {"type": "string"},
+                    "address": {"type": "string"},
+                    "city": {"type": "string"},
+                    "state": {"type": "string"},
+                    "country": {"type": "string"},
+                    "gps_coordinates": {
+                      "type": "object",
+                      "properties": {
+                        "latitude": {"type": "number"},
+                        "longitude": {"type": "number"}
+                      }
+                    },
+                    "type": {"type": "string"},
+                    "rating": {"type": "number"},
+                    "reviews": {"type": "number"}
+                  }
+                }
+              }
+            }
+          }
+          EOF
+          
+          # Create README for API usage
+          cat > api/README.md << 'EOF'
+          # Datalokasi Maps API
+          
+          API endpoint untuk mengakses data lokasi maps Indonesia yang dapat digunakan oleh Custom GPT Navi Pro.
+          
+          ## Base URL
+          ```
+          https://tjx578.github.io/datalokasi_maps
+          ```
+          
+          ## Endpoints
+          
+          ### 1. API Information
+          ```
+          GET /api/v1/index.json
+          ```
+          Mendapatkan informasi dasar API dan statistik data.
+          
+          ### 2. All Data
+          ```
+          GET /api/v1/data.json
+          ```
+          Mendapatkan semua data lokasi dalam format JSON.
+          
+          ### 3. CSV Export
+          ```
+          GET /api/v1/data.csv
+          ```
+          Mendapatkan semua data dalam format CSV.
+          
+          ### 4. Cities List
+          ```
+          GET /api/v1/cities.json
+          ```
+          Mendapatkan daftar kota/wilayah yang tersedia.
+          
+          ### 5. Regional Data
+          ```
+          GET /api/v1/regions/{city_name}.json
+          ```
+          Mendapatkan data lokasi untuk kota/wilayah tertentu.
+          
+          ## Contoh Usage untuk Custom GPT
+          
+          ```javascript
+          // Mengambil data untuk Gianyar Regency
+          fetch('https://tjx578.github.io/datalokasi_maps/api/v1/regions/gianyar_regency.json')
+            .then(response => response.json())
+            .then(data => console.log(data));
+          ```
+          
+          ## Data Schema
+          
+          Setiap lokasi memiliki struktur data:
+          - title: Nama lokasi
+          - place_id: Google Place ID
+          - address: Alamat lengkap
+          - city: Kota/Kabupaten
+          - state: Provinsi
+          - country: Negara
+          - gps_coordinates: {latitude, longitude}
+          - type: Kategori lokasi
+          - rating: Rating (jika ada)
+          - reviews: Jumlah review
+          EOF
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .
+          destination_dir: .
+          keep_files: false
+
+      - name: Create summary
+        run: |
+          echo "## 🗺️ Maps Data Processing Complete" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Data Statistics:" >> $GITHUB_STEP_SUMMARY
+          echo "- **Total Records**: $(wc -l < output-data.csv) locations" >> $GITHUB_STEP_SUMMARY
+          echo "- **Total Cities**: $(ls output-json/*.json | wc -l) cities/regions" >> $GITHUB_STEP_SUMMARY
+          echo "- **API Endpoints**: Created" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### API Access:" >> $GITHUB_STEP_SUMMARY
+          echo "- **Base URL**: https://tjx578.github.io/datalokasi_maps" >> $GITHUB_STEP_SUMMARY
+          echo "- **All Data**: https://tjx578.github.io/datalokasi_maps/api/v1/data.json" >> $GITHUB_STEP_SUMMARY
+          echo "- **Cities List**: https://tjx578.github.io/datalokasi_maps/api/v1/cities.json" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Top Cities by Location Count:" >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+          head -10 <(for file in output-json/*.json; do echo "$(jq length "$file") - $(basename "$file" .json)"; done | sort -nr) >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`" >> $GITHUB_STEP_SUMMARY

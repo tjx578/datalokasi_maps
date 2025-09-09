@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Bendungan Rotiklot",
+    "place_id": "ChIJJdJ1Iz6V_ywRB3ZxGPfqGug",
+    "data_id": "0x2cff953e2375d225:0xe81aeaf718717607",
+    "data_cid": 16724938513181668871,
+    "gps_coordinates": {
+      "latitude": -9.0671503,
+      "longitude": 124.8363952
+    },
+    "provider_id": "/g/11h7h_hbbs",
+    "rating": 4.7,
+    "reviews": 38,
+    "type": "Weir",
+    "types": [
+      "Weir"
+    ],
+    "address": "WRMP+4HJ, Jl. Nasional Trans Timor, Fatukety, Kec. Kakuluk Mesak, Kabupaten Belu, Nusa Tenggara Tim.",
+    "open_state": "Open 24 hours",
+    "operating_hours": {
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours"
+    },
+    "website": "http://belukab.go.id/",
+    "description": {},
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqXuM5f0JQ-D6Yb8TDbleCIgSOcPgyQHBZ1f5EbXCrS4SrRbEEh3-xr69oWHoiKjSYLugU5iDJo6OQAArkTFIgvUnlakObGOD3MlO-hZq-RAn848O78jr3DUa-gpqQm3tbjYH8=w1600-h1000-k-no",
+    "street": "WRMP+4HJ, Jl. Nasional Trans Timor",
+    "city": "Belu Regency",
+    "state": "East Nusa Tenggara",
+    "country": "ID",
+    "reviews_per_1": 1,
+    "reviews_per_2": 0,
+    "reviews_per_3": 1,
+    "reviews_per_4": 5,
+    "reviews_per_5": 31,
+    "photo_count": 219,
+    "not_claimed": true,
+    "owner": "110782089264949766846",
+    "category": "Bendungan",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJJdJ1Iz6V_ywRB3ZxGPfqGug&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/WRMP%2B4HJ+Bendungan+Rotiklot,+Jl.+Nasional+Trans+Timor,+Fatukety,+Kec.+Kakuluk+Mesak,+Kabupaten+Belu,+Nusa+Tenggara+Tim.,+Indonesia/@-9.0671503,124.8363952,3940a,13.1y/data=!4m2!3m1!1s0x2cff953e2375d225:0xe81aeaf718717607",
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "zip_code": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "BENDUNGAN",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 3,
+    "language": "en",
+    "location_name": ""
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Crossroads",
+    "place_id": "ChIJR6mo8AXLdkgRtO5Zw5yyxaw",
+    "data_id": "0x4876cb05f0a8a947:0xacc5b29cc359eeb4",
+    "data_cid": 12449553131297697460,
+    "gps_coordinates": {
+      "latitude": 51.7262935,
+      "longitude": -1.4948139999999999
+    },
+    "provider_id": "/g/11c536wx3b",
+    "rating": 5,
+    "reviews": 1,
+    "type": "Transport hub",
+    "types": [
+      "Transport hub"
+    ],
+    "address": "Cote, Bampton OX18 2EG, United Kingdom",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9L7DjLhfZINw0V7ScvBJow&cb_client=search.gws-prod.gps&w=360&h=120&yaw=177.77774&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "city": "Bampton",
+    "country": "GB",
+    "reviews_per_1": 0,
+    "photo_count": 1,
+    "owner": "108885287318081714020",
+    "category": "Transport hub",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJR6mo8AXLdkgRtO5Zw5yyxaw&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/Crossroads,+Cote,+Bampton+OX18+2EG,+United+Kingdom/@51.7262935,-1.494814,2471a,13.1y/data=!4m2!3m1!1s0x4876cb05f0a8a947:0xacc5b29cc359eeb4",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 0,
+    "reviews_per_5": 1,
+    "phone": null,
+    "website": null,
+    "street": null,
+    "state": null,
+    "zip_code": null,
+    "logo": null,
+    "not_claimed": false,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "CROSSROAD(S)",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 3,
+    "language": "en",
+    "location_name": ""
+  }
+]

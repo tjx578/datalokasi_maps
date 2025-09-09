@@ -1,0 +1,1226 @@
+{
+  "pasuruan_city": {
+    "count": 4,
+    "endpoint": "/api/v1/regions/pasuruan_city.json"
+  },
+  "alabama": {
+    "count": 3,
+    "endpoint": "/api/v1/regions/alabama.json"
+  },
+  "east_lombok_regency": {
+    "count": 4,
+    "endpoint": "/api/v1/regions/east_lombok_regency.json"
+  },
+  "kota_gorontalo": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/kota_gorontalo.json"
+  },
+  "salatiga_city": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/salatiga_city.json"
+  },
+  "singaraja": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/singaraja.json"
+  },
+  "rembang_regency": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/rembang_regency.json"
+  },
+  "situbondo_regency": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/situbondo_regency.json"
+  },
+  "jombang_regency": {
+    "count": 5,
+    "endpoint": "/api/v1/regions/jombang_regency.json"
+  },
+  "palembang_city": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/palembang_city.json"
+  },
+  "banyumas_regency": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/banyumas_regency.json"
+  },
+  "penysarn": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/penysarn.json"
+  },
+  "sleman_regency": {
+    "count": 10,
+    "endpoint": "/api/v1/regions/sleman_regency.json"
+  },
+  "virginia": {
+    "count": 3,
+    "endpoint": "/api/v1/regions/virginia.json"
+  },
+  "georgia": {
+    "count": 3,
+    "endpoint": "/api/v1/regions/georgia.json"
+  },
+  "bolaang_mongondow_regency": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/bolaang_mongondow_regency.json"
+  },
+  "kolaka_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/kolaka_regency.json"
+  },
+  "sukamara_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/sukamara_regency.json"
+  },
+  "kabupaten_katingan": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/kabupaten_katingan.json"
+  },
+  "ilkeston": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/ilkeston.json"
+  },
+  "kab._buleleng": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/kab._buleleng.json"
+  },
+  "pati_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/pati_regency.json"
+  },
+  "sragen_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/sragen_regency.json"
+  },
+  "tuban_regency": {
+    "count": 5,
+    "endpoint": "/api/v1/regions/tuban_regency.json"
+  },
+  "los_angeles": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/los_angeles.json"
+  },
+  "jayapura": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/jayapura.json"
+  },
+  "padang_city": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/padang_city.json"
+  },
+  "wonogiri_regency": {
+    "count": 3,
+    "endpoint": "/api/v1/regions/wonogiri_regency.json"
+  },
+  "banjar": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/banjar.json"
+  },
+  "swanage": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/swanage.json"
+  },
+  "virginia_water": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/virginia_water.json"
+  },
+  "kapuas_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/kapuas_regency.json"
+  },
+  "minahasa_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/minahasa_regency.json"
+  },
+  "ciamis_regency": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/ciamis_regency.json"
+  },
+  "central_lampung_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/central_lampung_regency.json"
+  },
+  "north_lombok_regency": {
+    "count": 3,
+    "endpoint": "/api/v1/regions/north_lombok_regency.json"
+  },
+  "south_carolina": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/south_carolina.json"
+  },
+  "kuningan_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/kuningan_regency.json"
+  },
+  "tanah_laut_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/tanah_laut_regency.json"
+  },
+  "purwakarta_regency": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/purwakarta_regency.json"
+  },
+  "north_tapanuli_regency": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/north_tapanuli_regency.json"
+  },
+  "salisbury": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/salisbury.json"
+  },
+  "garut_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/garut_regency.json"
+  },
+  "pasuruan_regency": {
+    "count": 6,
+    "endpoint": "/api/v1/regions/pasuruan_regency.json"
+  },
+  "cianjur_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/cianjur_regency.json"
+  },
+  "north_lampung_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/north_lampung_regency.json"
+  },
+  "guildford": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/guildford.json"
+  },
+  "bridport": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/bridport.json"
+  },
+  "chesterfield": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/chesterfield.json"
+  },
+  "godalming": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/godalming.json"
+  },
+  "bantul_regency": {
+    "count": 6,
+    "endpoint": "/api/v1/regions/bantul_regency.json"
+  },
+  "guntersville": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/guntersville.json"
+  },
+  "south_timor_tengah_regency": {
+    "count": 3,
+    "endpoint": "/api/v1/regions/south_timor_tengah_regency.json"
+  },
+  "mojokerto_regency": {
+    "count": 3,
+    "endpoint": "/api/v1/regions/mojokerto_regency.json"
+  },
+  "karawang": {
+    "count": 10,
+    "endpoint": "/api/v1/regions/karawang.json"
+  },
+  "south_lampung_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/south_lampung_regency.json"
+  },
+  "lamandau_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/lamandau_regency.json"
+  },
+  "bombana_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/bombana_regency.json"
+  },
+  "cirencester": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/cirencester.json"
+  },
+  "ngada_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/ngada_regency.json"
+  },
+  "west_lombok_regency": {
+    "count": 3,
+    "endpoint": "/api/v1/regions/west_lombok_regency.json"
+  },
+  "north_labuhan_batu_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/north_labuhan_batu_regency.json"
+  },
+  "blora_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/blora_regency.json"
+  },
+  "sambas_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/sambas_regency.json"
+  },
+  "swansea": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/swansea.json"
+  },
+  "durham": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/durham.json"
+  },
+  "kendal_regency": {
+    "count": 5,
+    "endpoint": "/api/v1/regions/kendal_regency.json"
+  },
+  "bangli_regency": {
+    "count": 265,
+    "endpoint": "/api/v1/regions/bangli_regency.json"
+  },
+  "bishops_castle": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/bishops_castle.json"
+  },
+  "surabaya": {
+    "count": 26,
+    "endpoint": "/api/v1/regions/surabaya.json"
+  },
+  "rushmere": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/rushmere.json"
+  },
+  "penajam_north_paser_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/penajam_north_paser_regency.json"
+  },
+  "kutai_kartanegara_regency": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/kutai_kartanegara_regency.json"
+  },
+  "deal": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/deal.json"
+  },
+  "cirebon": {
+    "count": 7,
+    "endpoint": "/api/v1/regions/cirebon.json"
+  },
+  "selayar_islands_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/selayar_islands_regency.json"
+  },
+  "stoke-on-trent": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/stoke-on-trent.json"
+  },
+  "east_central_shelby": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/east_central_shelby.json"
+  },
+  "pringsewu_regency": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/pringsewu_regency.json"
+  },
+  "batang_regency": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/batang_regency.json"
+  },
+  "serang_regency": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/serang_regency.json"
+  },
+  "south_jakarta_city": {
+    "count": 5,
+    "endpoint": "/api/v1/regions/south_jakarta_city.json"
+  },
+  "kawan": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/kawan.json"
+  },
+  "tennessee": {
+    "count": 12,
+    "endpoint": "/api/v1/regions/tennessee.json"
+  },
+  "tacy": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/tacy.json"
+  },
+  "newmarket": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/newmarket.json"
+  },
+  "nottingham": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/nottingham.json"
+  },
+  "liberty_township": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/liberty_township.json"
+  },
+  "padang_pariaman_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/padang_pariaman_regency.json"
+  },
+  "richland_township": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/richland_township.json"
+  },
+  "bandar_lampung_city": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/bandar_lampung_city.json"
+  },
+  "east_lampung_regency": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/east_lampung_regency.json"
+  },
+  "surakarta_city": {
+    "count": 8,
+    "endpoint": "/api/v1/regions/surakarta_city.json"
+  },
+  "tangerang_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/tangerang_regency.json"
+  },
+  "bitung_city": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/bitung_city.json"
+  },
+  "fairview_heights": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/fairview_heights.json"
+  },
+  "denpasar": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/denpasar.json"
+  },
+  "dompu_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/dompu_regency.json"
+  },
+  "chester": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/chester.json"
+  },
+  "denpasar_selatan": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/denpasar_selatan.json"
+  },
+  "trowbridge": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/trowbridge.json"
+  },
+  "buol_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/buol_regency.json"
+  },
+  "stowmarket": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/stowmarket.json"
+  },
+  "bangkalan_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/bangkalan_regency.json"
+  },
+  "princeton": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/princeton.json"
+  },
+  "west_bandung_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/west_bandung_regency.json"
+  },
+  "muscatine": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/muscatine.json"
+  },
+  "pasangkayu": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/pasangkayu.json"
+  },
+  "belu_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/belu_regency.json"
+  },
+  "parigi_moutong_regency": {
+    "count": 3,
+    "endpoint": "/api/v1/regions/parigi_moutong_regency.json"
+  },
+  "winchester": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/winchester.json"
+  },
+  "kota_ambon": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/kota_ambon.json"
+  },
+  "bedford": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/bedford.json"
+  },
+  "upper_pottsgrove_township": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/upper_pottsgrove_township.json"
+  },
+  "ludlow": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/ludlow.json"
+  },
+  "east_belitung_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/east_belitung_regency.json"
+  },
+  "lancaster": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/lancaster.json"
+  },
+  "negara": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/negara.json"
+  },
+  "mojokerto_city": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/mojokerto_city.json"
+  },
+  "sekadau_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/sekadau_regency.json"
+  },
+  "sittingbourne": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/sittingbourne.json"
+  },
+  "sukabumi_regency": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/sukabumi_regency.json"
+  },
+  "buleleng_regency": {
+    "count": 352,
+    "endpoint": "/api/v1/regions/buleleng_regency.json"
+  },
+  "banjarmasin_city": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/banjarmasin_city.json"
+  },
+  "klaten_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/klaten_regency.json"
+  },
+  "batu_pahat": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/batu_pahat.json"
+  },
+  "tabanan_regency": {
+    "count": 814,
+    "endpoint": "/api/v1/regions/tabanan_regency.json"
+  },
+  "cilacap_regency": {
+    "count": 3,
+    "endpoint": "/api/v1/regions/cilacap_regency.json"
+  },
+  "ashford": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/ashford.json"
+  },
+  "edgewood": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/edgewood.json"
+  },
+  "epsom": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/epsom.json"
+  },
+  "wickliffe": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/wickliffe.json"
+  },
+  "tasikmalaya_regency": {
+    "count": 4,
+    "endpoint": "/api/v1/regions/tasikmalaya_regency.json"
+  },
+  "lainnya": {
+    "count": 10,
+    "endpoint": "/api/v1/regions/lainnya.json"
+  },
+  "bima_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/bima_regency.json"
+  },
+  "karangasem_regency": {
+    "count": 114,
+    "endpoint": "/api/v1/regions/karangasem_regency.json"
+  },
+  "toli-toli_regency": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/toli-toli_regency.json"
+  },
+  "malang_regency": {
+    "count": 9,
+    "endpoint": "/api/v1/regions/malang_regency.json"
+  },
+  "palu_city": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/palu_city.json"
+  },
+  "tulang_bawang_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/tulang_bawang_regency.json"
+  },
+  "bondowoso_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/bondowoso_regency.json"
+  },
+  "south_ogan_komering_ulu_regency": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/south_ogan_komering_ulu_regency.json"
+  },
+  "denpasar_city": {
+    "count": 1213,
+    "endpoint": "/api/v1/regions/denpasar_city.json"
+  },
+  "west_jakarta_city": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/west_jakarta_city.json"
+  },
+  "jember_regency": {
+    "count": 4,
+    "endpoint": "/api/v1/regions/jember_regency.json"
+  },
+  "south_tangerang_city": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/south_tangerang_city.json"
+  },
+  "south_bolaang_mongondow_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/south_bolaang_mongondow_regency.json"
+  },
+  "central_jakarta_city": {
+    "count": 8,
+    "endpoint": "/api/v1/regions/central_jakarta_city.json"
+  },
+  "tanah_datar_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/tanah_datar_regency.json"
+  },
+  "ellesmere_port": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/ellesmere_port.json"
+  },
+  "langport": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/langport.json"
+  },
+  "purworejo_regency": {
+    "count": 4,
+    "endpoint": "/api/v1/regions/purworejo_regency.json"
+  },
+  "moore_township": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/moore_township.json"
+  },
+  "peterlee": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/peterlee.json"
+  },
+  "wonosobo_regency": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/wonosobo_regency.json"
+  },
+  "banyuasin_regency": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/banyuasin_regency.json"
+  },
+  "buton_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/buton_regency.json"
+  },
+  "grobogan_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/grobogan_regency.json"
+  },
+  "gorontalo_regency": {
+    "count": 4,
+    "endpoint": "/api/v1/regions/gorontalo_regency.json"
+  },
+  "muna_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/muna_regency.json"
+  },
+  "sumbawa_regency": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/sumbawa_regency.json"
+  },
+  "gianyar_regency": {
+    "count": 1307,
+    "endpoint": "/api/v1/regions/gianyar_regency.json"
+  },
+  "east_jakarta_city": {
+    "count": 9,
+    "endpoint": "/api/v1/regions/east_jakarta_city.json"
+  },
+  "banggai_regency": {
+    "count": 3,
+    "endpoint": "/api/v1/regions/banggai_regency.json"
+  },
+  "orange_grove": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/orange_grove.json"
+  },
+  "craven_arms": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/craven_arms.json"
+  },
+  "cimahi_city": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/cimahi_city.json"
+  },
+  "bekasi": {
+    "count": 10,
+    "endpoint": "/api/v1/regions/bekasi.json"
+  },
+  "bandung_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/bandung_regency.json"
+  },
+  "mataram_city": {
+    "count": 3,
+    "endpoint": "/api/v1/regions/mataram_city.json"
+  },
+  "banjar_city": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/banjar_city.json"
+  },
+  "trenggalek_regency": {
+    "count": 3,
+    "endpoint": "/api/v1/regions/trenggalek_regency.json"
+  },
+  "manado_city": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/manado_city.json"
+  },
+  "arkansas": {
+    "count": 13,
+    "endpoint": "/api/v1/regions/arkansas.json"
+  },
+  "wolverhampton": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/wolverhampton.json"
+  },
+  "pontianak": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/pontianak.json"
+  },
+  "ngawi_regency": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/ngawi_regency.json"
+  },
+  "carlisle": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/carlisle.json"
+  },
+  "kota_mataram": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/kota_mataram.json"
+  },
+  "gunungkidul_regency": {
+    "count": 8,
+    "endpoint": "/api/v1/regions/gunungkidul_regency.json"
+  },
+  "new_quay": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/new_quay.json"
+  },
+  "central_lombok_regency": {
+    "count": 9,
+    "endpoint": "/api/v1/regions/central_lombok_regency.json"
+  },
+  "temanggung_regency": {
+    "count": 5,
+    "endpoint": "/api/v1/regions/temanggung_regency.json"
+  },
+  "aylesbury": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/aylesbury.json"
+  },
+  "maidstone": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/maidstone.json"
+  },
+  "tanah_bumbu_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/tanah_bumbu_regency.json"
+  },
+  "bristol": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/bristol.json"
+  },
+  "muara_enim_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/muara_enim_regency.json"
+  },
+  "bampton": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/bampton.json"
+  },
+  "palangka_raya_city": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/palangka_raya_city.json"
+  },
+  "boalemo_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/boalemo_regency.json"
+  },
+  "bandung_city": {
+    "count": 24,
+    "endpoint": "/api/v1/regions/bandung_city.json"
+  },
+  "yogyakarta_city": {
+    "count": 14,
+    "endpoint": "/api/v1/regions/yogyakarta_city.json"
+  },
+  "uckfield": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/uckfield.json"
+  },
+  "singkawang_city": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/singkawang_city.json"
+  },
+  "north_morowali_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/north_morowali_regency.json"
+  },
+  "kansas_city": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/kansas_city.json"
+  },
+  "merangin_regency": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/merangin_regency.json"
+  },
+  "konawe_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/konawe_regency.json"
+  },
+  "nganjuk_regency": {
+    "count": 4,
+    "endpoint": "/api/v1/regions/nganjuk_regency.json"
+  },
+  "banyuwangi_regency": {
+    "count": 251,
+    "endpoint": "/api/v1/regions/banyuwangi_regency.json"
+  },
+  "springport": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/springport.json"
+  },
+  "hunstanton": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/hunstanton.json"
+  },
+  "narberth": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/narberth.json"
+  },
+  "pembroke": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/pembroke.json"
+  },
+  "hexham": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/hexham.json"
+  },
+  "semarang_city": {
+    "count": 8,
+    "endpoint": "/api/v1/regions/semarang_city.json"
+  },
+  "mangupura,_badung": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/mangupura,_badung.json"
+  },
+  "penukal_abab_lematang_ilir_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/penukal_abab_lematang_ilir_regency.json"
+  },
+  "crossroads": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/crossroads.json"
+  },
+  "mamasa_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/mamasa_regency.json"
+  },
+  "west_kotawaringin_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/west_kotawaringin_regency.json"
+  },
+  "pandeglang_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/pandeglang_regency.json"
+  },
+  "rokan_hilir_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/rokan_hilir_regency.json"
+  },
+  "kota_denpasar": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/kota_denpasar.json"
+  },
+  "purbalingga_regency": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/purbalingga_regency.json"
+  },
+  "bone_regency": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/bone_regency.json"
+  },
+  "equality_township": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/equality_township.json"
+  },
+  "madiun_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/madiun_regency.json"
+  },
+  "pwllheli": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/pwllheli.json"
+  },
+  "nagekeo_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/nagekeo_regency.json"
+  },
+  "poso_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/poso_regency.json"
+  },
+  "trimdon_station": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/trimdon_station.json"
+  },
+  "probolinggo_regency": {
+    "count": 3,
+    "endpoint": "/api/v1/regions/probolinggo_regency.json"
+  },
+  "polewali_mandar_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/polewali_mandar_regency.json"
+  },
+  "kab._majalengka": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/kab._majalengka.json"
+  },
+  "st_andrews": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/st_andrews.json"
+  },
+  "wajo_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/wajo_regency.json"
+  },
+  "shrewsbury": {
+    "count": 6,
+    "endpoint": "/api/v1/regions/shrewsbury.json"
+  },
+  "bali": {
+    "count": 6,
+    "endpoint": "/api/v1/regions/bali.json"
+  },
+  "kabupaten_tabanan": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/kabupaten_tabanan.json"
+  },
+  "wood_township": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/wood_township.json"
+  },
+  "south_konawe_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/south_konawe_regency.json"
+  },
+  "mississippi": {
+    "count": 3,
+    "endpoint": "/api/v1/regions/mississippi.json"
+  },
+  "cranbrook": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/cranbrook.json"
+  },
+  "maros_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/maros_regency.json"
+  },
+  "majalengka_regency": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/majalengka_regency.json"
+  },
+  "blitar_regency": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/blitar_regency.json"
+  },
+  "brebes_regency": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/brebes_regency.json"
+  },
+  "lincoln_township": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/lincoln_township.json"
+  },
+  "malang_city": {
+    "count": 7,
+    "endpoint": "/api/v1/regions/malang_city.json"
+  },
+  "penzance": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/penzance.json"
+  },
+  "saint-denis": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/saint-denis.json"
+  },
+  "kentucky": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/kentucky.json"
+  },
+  "sumenep_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/sumenep_regency.json"
+  },
+  "middlewich": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/middlewich.json"
+  },
+  "magetan_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/magetan_regency.json"
+  },
+  "samarinda_city": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/samarinda_city.json"
+  },
+  "east_kotawaringin_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/east_kotawaringin_regency.json"
+  },
+  "newport": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/newport.json"
+  },
+  "kulon_progo_regency": {
+    "count": 6,
+    "endpoint": "/api/v1/regions/kulon_progo_regency.json"
+  },
+  "gresik_regency": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/gresik_regency.json"
+  },
+  "denpasar_utara": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/denpasar_utara.json"
+  },
+  "ponorogo_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/ponorogo_regency.json"
+  },
+  "badung_regency": {
+    "count": 740,
+    "endpoint": "/api/v1/regions/badung_regency.json"
+  },
+  "sidoarjo_regency": {
+    "count": 5,
+    "endpoint": "/api/v1/regions/sidoarjo_regency.json"
+  },
+  "sukabumi_city": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/sukabumi_city.json"
+  },
+  "louisiana": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/louisiana.json"
+  },
+  "gurudware": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/gurudware.json"
+  },
+  "dumai_city": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/dumai_city.json"
+  },
+  "llandysul": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/llandysul.json"
+  },
+  "clifton": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/clifton.json"
+  },
+  "tulungagung_regency": {
+    "count": 9,
+    "endpoint": "/api/v1/regions/tulungagung_regency.json"
+  },
+  "bulukumba_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/bulukumba_regency.json"
+  },
+  "bogor_regency": {
+    "count": 5,
+    "endpoint": "/api/v1/regions/bogor_regency.json"
+  },
+  "denpasar_timur": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/denpasar_timur.json"
+  },
+  "pangandaran_regency": {
+    "count": 3,
+    "endpoint": "/api/v1/regions/pangandaran_regency.json"
+  },
+  "hereford": {
+    "count": 5,
+    "endpoint": "/api/v1/regions/hereford.json"
+  },
+  "wooler": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/wooler.json"
+  },
+  "cross_roads": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/cross_roads.json"
+  },
+  "piney_flats": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/piney_flats.json"
+  },
+  "kudus_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/kudus_regency.json"
+  },
+  "dakar": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/dakar.json"
+  },
+  "banggai_islands_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/banggai_islands_regency.json"
+  },
+  "bone_bolango_regency": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/bone_bolango_regency.json"
+  },
+  "cheltenham": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/cheltenham.json"
+  },
+  "kabupaten_lombok_utara": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/kabupaten_lombok_utara.json"
+  },
+  "klungkung_regency": {
+    "count": 357,
+    "endpoint": "/api/v1/regions/klungkung_regency.json"
+  },
+  "jembrana_regency": {
+    "count": 825,
+    "endpoint": "/api/v1/regions/jembrana_regency.json"
+  },
+  "west_lampung_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/west_lampung_regency.json"
+  },
+  "eye": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/eye.json"
+  },
+  "tapin_regency": {
+    "count": 3,
+    "endpoint": "/api/v1/regions/tapin_regency.json"
+  },
+  "pinrang_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/pinrang_regency.json"
+  },
+  "west_kutai_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/west_kutai_regency.json"
+  },
+  "tanggamus_regency": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/tanggamus_regency.json"
+  },
+  "batam_city": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/batam_city.json"
+  },
+  "texas": {
+    "count": 11,
+    "endpoint": "/api/v1/regions/texas.json"
+  },
+  "bukittinggi_city": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/bukittinggi_city.json"
+  },
+  "oswestry": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/oswestry.json"
+  },
+  "balikpapan_city": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/balikpapan_city.json"
+  },
+  "droitwich": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/droitwich.json"
+  },
+  "kabupaten_bangli": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/kabupaten_bangli.json"
+  },
+  "kota_kediri": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/kota_kediri.json"
+  },
+  "chester-le-street": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/chester-le-street.json"
+  },
+  "semarang_regency": {
+    "count": 5,
+    "endpoint": "/api/v1/regions/semarang_regency.json"
+  },
+  "chichester": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/chichester.json"
+  },
+  "makassar_city": {
+    "count": 3,
+    "endpoint": "/api/v1/regions/makassar_city.json"
+  },
+  "kebumen_regency": {
+    "count": 3,
+    "endpoint": "/api/v1/regions/kebumen_regency.json"
+  },
+  "lumajang_regency": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/lumajang_regency.json"
+  },
+  "magelang_regency": {
+    "count": 3,
+    "endpoint": "/api/v1/regions/magelang_regency.json"
+  },
+  "bekasi_regency": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/bekasi_regency.json"
+  },
+  "devizes": {
+    "count": 2,
+    "endpoint": "/api/v1/regions/devizes.json"
+  },
+  "boyolali_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/boyolali_regency.json"
+  },
+  "simalungun_regency": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/simalungun_regency.json"
+  },
+  "cilegon": {
+    "count": 4,
+    "endpoint": "/api/v1/regions/cilegon.json"
+  },
+  "yanceyville": {
+    "count": 1,
+    "endpoint": "/api/v1/regions/yanceyville.json"
+  }
+}

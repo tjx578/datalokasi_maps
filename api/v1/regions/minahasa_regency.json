@@ -1,0 +1,103 @@
+[
+  {
+    "title": "PUSKESMAS PEMBANTU",
+    "place_id": "ChIJEwVNWNlvhzIRcUPEOjz5JDg",
+    "data_id": "0x32876fd9584d0513:0x3824f93c3ac44371",
+    "data_cid": 4045632402364842865,
+    "gps_coordinates": {
+      "latitude": 1.3739001,
+      "longitude": 124.7141372
+    },
+    "provider_id": "/g/11cn3q9mf6",
+    "rating": 3,
+    "reviews": 2,
+    "type": "Public medical center",
+    "types": [
+      "Public medical center",
+      "Community health center",
+      "Doctor",
+      "Walk-in clinic"
+    ],
+    "address": "Lemoh, Tombariri Timur, Minahasa Regency, North Sulawesi",
+    "open_state": "Open ⋅ Closes 12 AM",
+    "operating_hours": {
+      "sunday": "Open 24 hours",
+      "monday": "Closed",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours"
+    },
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TO0WcLCiTudhHUbl5nzv8g&cb_client=search.gws-prod.gps&w=360&h=120&yaw=219.3871&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "city": "Minahasa Regency",
+    "state": "North Sulawesi",
+    "country": "ID",
+    "reviews_per_1": 1,
+    "photo_count": 1,
+    "not_claimed": true,
+    "owner": "108217215495932813578",
+    "category": "Public medical center",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJEwVNWNlvhzIRcUPEOjz5JDg&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/PUSKESMAS+PEMBANTU,+Lemoh,+Tombariri+Timur,+Minahasa+Regency,+North+Sulawesi,+Indonesia/@1.3739001,124.7141372,3989a,13.1y/data=!4m2!3m1!1s0x32876fd9584d0513:0x3824f93c3ac44371",
+    "note_from_owner": null,
+    "description_arr": null,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 0,
+    "reviews_per_5": 1,
+    "phone": null,
+    "website": null,
+    "street": null,
+    "zip_code": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "PUSKESMAS PEMBANTU",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 3,
+    "language": "en",
+    "location_name": ""
+  }
+]

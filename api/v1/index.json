@@ -1,0 +1,14 @@
+{
+  "name": "Datalokasi Maps API",
+  "version": "1.0.0",
+  "description": "Maps data API for Navi Pro Custom GPT",
+  "endpoints": {
+    "all_data": "/api/v1/data.json",
+    "csv_export": "/api/v1/data.csv",
+    "cities": "/api/v1/cities.json",
+    "regions": "/api/v1/regions/"
+  },
+  "total_records": 6918,
+  "total_cities": 306,
+  "last_updated": "2025-09-09T01:54:57.155637Z"
+}

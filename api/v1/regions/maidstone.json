@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Crossroads",
+    "place_id": "ChIJeYXdIAc230cREVPDWyhL7a0",
+    "data_id": "0x47df360720dd8579:0xaded4b285bc35311",
+    "data_cid": 12532755974752260881,
+    "gps_coordinates": {
+      "latitude": 51.259476,
+      "longitude": 0.38014899999999996
+    },
+    "provider_id": "/g/1q6796nx6",
+    "rating": 2,
+    "reviews": 1,
+    "type": "Bus stop",
+    "types": [
+      "Bus stop"
+    ],
+    "address": "Mereworth, Maidstone ME18 5LU, United Kingdom",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2kXNs_aV8uAuQ41YY1x_Qw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=278.44177&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "city": "Maidstone",
+    "country": "GB",
+    "reviews_per_1": 0,
+    "photo_count": 1,
+    "owner": "108822238812615811911",
+    "category": "Bus stop",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJeYXdIAc230cREVPDWyhL7a0&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Getting here",
+        "slug": "getting_here",
+        "options": [
+          {
+            "name": "24-hour transit available",
+            "slug": "/geo/type/establishment_poi/has_transit_24_hours"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/Crossroads,+Mereworth,+Maidstone+ME18+5LU,+United+Kingdom/@51.259476,0.380149,2497a,13.1y/data=!4m2!3m1!1s0x47df360720dd8579:0xaded4b285bc35311",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "reviews_per_2": 1,
+    "reviews_per_3": 0,
+    "reviews_per_4": 0,
+    "reviews_per_5": 0,
+    "phone": null,
+    "website": null,
+    "street": null,
+    "state": null,
+    "zip_code": null,
+    "logo": null,
+    "not_claimed": false,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "CROSSROAD(S)",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 7,
+    "language": "en",
+    "location_name": ""
+  }
+]

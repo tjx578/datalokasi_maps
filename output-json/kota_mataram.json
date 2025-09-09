@@ -1,0 +1,92 @@
+[
+  {
+    "title": "741 St Mechanise Infantry Battalion",
+    "place_id": "ChIJYbSY2PFh0S0RfX66RtNup0c",
+    "data_id": "0x2dd161f1d898b461:0x47a76ed346ba7e7d",
+    "data_cid": 5163217351507345021,
+    "gps_coordinates": {
+      "latitude": -8.355126,
+      "longitude": 114.61269949999999
+    },
+    "provider_id": "/g/11bccd9k4m",
+    "rating": 5,
+    "reviews": 3,
+    "type": "Regional government office",
+    "types": [
+      "Regional government office"
+    ],
+    "address": "JJV7+W3W, Jl. Udayana, Banjar Tengah, Kec. Negara, Kota Mataram, Bali 82218",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OvbTi5kqol_MNbEzKKTOfw&cb_client=search.gws-prod.gps&w=211&h=120&yaw=202.15785&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "JJV7+W3W, Jl. Udayana",
+    "city": "Kota Mataram",
+    "state": "Bali",
+    "zip_code": 82218,
+    "country": "ID",
+    "reviews_per_1": 0,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 0,
+    "reviews_per_5": 3,
+    "photo_count": 5,
+    "not_claimed": true,
+    "owner": "109478859498443129523",
+    "category": "Kantor Pemerintahan Regional",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJYbSY2PFh0S0RfX66RtNup0c&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/JJV7%2BW3W+741+St+Mechanise+Infantry+Battalion,+Jl.+Udayana,+Central+Banjar,+Negara,+Kota+Mataram,+Bali+82218,+Indonesia/@-8.355126,114.6126995,3947a,13.1y/data=!4m2!3m1!1s0x2dd161f1d898b461:0x47a76ed346ba7e7d",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "KANTOR PEMERINTAHAN",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 6,
+    "language": "en",
+    "location_name": ""
+  }
+]

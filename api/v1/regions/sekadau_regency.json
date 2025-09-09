@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Cagar Budaya Nusantara",
+    "place_id": "ChIJIwCJGz8DAi4R-2HYSFNq5a8",
+    "data_id": "0x2e02033f1b890023:0xafe56a5348d861fb",
+    "data_cid": 12674653632241099259,
+    "gps_coordinates": {
+      "latitude": -0.0761323,
+      "longitude": 111.07500999999999
+    },
+    "provider_id": "/g/11s434qh_0",
+    "rating": 4.3,
+    "reviews": 3,
+    "type": "Cultural center",
+    "types": [
+      "Cultural center"
+    ],
+    "address": "Engkersik, Sekadau Hilir, Sekadau Regency, West Kalimantan 79513",
+    "operating_hours": {},
+    "phone": "+62 812-5826-8955",
+    "website": "https://youtube.com/channel/UCa5W1rXKFj-ITIhwUAFwnBw",
+    "description": {},
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrXYbcxb8rqBr90mCN748G45qG8ALGyACjNFWLAOj2Kk6qohmz8bUeD6m_8PNxx_omdDh_1NrqNskXK99V1k9nhr-3ZElpSWpfa_UudQXHzWIyRf02xIOLKT6XGJG_BheUf-0Q=w1600-h1000-k-no",
+    "city": "Sekadau Regency",
+    "state": "West Kalimantan",
+    "zip_code": 79513,
+    "country": "ID",
+    "reviews_per_1": 0,
+    "reviews_per_2": 0,
+    "reviews_per_3": 1,
+    "reviews_per_4": 0,
+    "reviews_per_5": 2,
+    "photo_count": 1,
+    "not_claimed": true,
+    "owner": "116491562509062536638",
+    "category": "Pusat kebudayaan",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJIwCJGz8DAi4R-2HYSFNq5a8&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/Cagar+Budaya+Nusantara,+Engkersik,+Kec.+Sekadau+Hilir,+Kabupaten+Sekadau,+Kalimantan+Barat+79513,+Indonesia/@-0.0761323,111.07501,3990a,13.1y/data=!4m2!3m1!1s0x2e02033f1b890023:0xafe56a5348d861fb",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "street": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "CAGAR BUDAYA",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 1,
+    "language": "en",
+    "location_name": ""
+  }
+]
