@@ -4,8 +4,8 @@ on:
   push:
     branches: [ main ]
     paths:
-      - 'main/raw-data/**'
-      - 'main/process.py'
+      - 'raw-data/**'
+      - 'process.py'
       - '.github/workflows/process.yml'
   workflow_dispatch:
 
@@ -30,7 +30,7 @@ jobs:
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
       - name: Run processor
-        run: python main/process.py
+        run: python process.py
 
       - name: Commit outputs to repo
         uses: stefanzweifel/git-auto-commit-action@v5
@@ -38,7 +38,7 @@ jobs:
           commit_message: "chore: update processed outputs"
           file_pattern: |
             output/**
-            main/raw-data/**
+            raw-data/**
 
       - name: Upload outputs as artifact
         uses: actions/upload-artifact@v4

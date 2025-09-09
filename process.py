@@ -19,7 +19,7 @@ os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 # --- 2. Gabungkan semua JSON mentah ---
 all_records = []
 for fn in os.listdir(INPUT_FOLDER):
-    if fn.endswith(".json"):
+    if fn.endswith(".json") and fn != "custom_gpt_instructions.json":
         path = os.path.join(INPUT_FOLDER, fn)
         try:
             with open(path, encoding="utf-8") as f:
