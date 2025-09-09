@@ -1,0 +1,210 @@
+[
+  {
+    "title": "The Crossroads",
+    "place_id": "ChIJuVBjktMMwQ4RFrzMMCMFvC8",
+    "data_id": "0xec10cd3926350b9:0x2fbc052330ccbc16",
+    "data_cid": 3439629864104934422,
+    "gps_coordinates": {
+      "latitude": 14.7352049,
+      "longitude": -17.4254933
+    },
+    "provider_id": "/g/11s5vgjmlq",
+    "type": "Restaurant",
+    "types": [
+      "Restaurant"
+    ],
+    "address": "Dakar, Senegal",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GD7dRF5ffpFiDHvrJi4v7w&cb_client=search.gws-prod.gps&w=211&h=120&yaw=166.40092&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "city": "Dakar",
+    "country": "SN",
+    "reviews_per_1": null,
+    "photo_count": 2,
+    "not_claimed": true,
+    "owner": "110424161738700522476",
+    "category": "restaurants",
+    "service_option": [
+      {
+        "name": "Service options",
+        "slug": "service_options",
+        "options": [
+          {
+            "name": "Delivery",
+            "slug": "/geo/type/establishment_poi/has_delivery"
+          },
+          {
+            "name": "Takeout",
+            "slug": "/geo/type/establishment_poi/has_takeout"
+          },
+          {
+            "name": "Dine-in",
+            "slug": "/geo/type/establishment_poi/serves_dine_in"
+          }
+        ]
+      },
+      {
+        "name": "Popular for",
+        "slug": "popular_for",
+        "options": [
+          {
+            "name": "Solo dining",
+            "slug": "/geo/type/establishment_poi/suitable_for_solo_dining"
+          }
+        ]
+      },
+      {
+        "name": "Offerings",
+        "slug": "offerings",
+        "options": [
+          {
+            "name": "Halal food",
+            "slug": "/geo/type/establishment_poi/serves_halal_food"
+          },
+          {
+            "name": "Small plates",
+            "slug": "/geo/type/establishment_poi/serves_small_plates"
+          }
+        ]
+      },
+      {
+        "name": "Dining options",
+        "slug": "dining_options",
+        "options": [
+          {
+            "name": "Lunch",
+            "slug": "/geo/type/establishment_poi/serves_lunch"
+          },
+          {
+            "name": "Table service",
+            "slug": "/geo/type/establishment_poi/has_table_service"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      },
+      {
+        "name": "Atmosphere",
+        "slug": "atmosphere",
+        "options": [
+          {
+            "name": "Casual",
+            "slug": "/geo/type/establishment_poi/feels_casual"
+          },
+          {
+            "name": "Cozy",
+            "slug": "/geo/type/establishment_poi/feels_cozy"
+          },
+          {
+            "name": "Trendy",
+            "slug": "/geo/type/establishment_poi/feels_hip"
+          }
+        ]
+      },
+      {
+        "name": "Crowd",
+        "slug": "crowd",
+        "options": [
+          {
+            "name": "Groups",
+            "slug": "/geo/type/establishment_poi/suitable_for_groups"
+          },
+          {
+            "name": "Tourists",
+            "slug": "/geo/type/establishment_poi/popular_with_tourists"
+          }
+        ]
+      },
+      {
+        "name": "Planning",
+        "slug": "planning",
+        "options": [
+          {
+            "name": "Accepts reservations",
+            "slug": "/geo/type/establishment_poi/accepts_reservations"
+          }
+        ]
+      },
+      {
+        "name": "Children",
+        "slug": "children",
+        "options": [
+          {
+            "name": "Good for kids",
+            "slug": "/geo/type/establishment_poi/welcomes_children"
+          }
+        ]
+      },
+      {
+        "name": "Parking",
+        "slug": "parking",
+        "options": [
+          {
+            "name": "Free street parking",
+            "slug": "/geo/type/establishment_poi/has_parking_street_free"
+          }
+        ]
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "place_url": "https://www.google.com/maps/preview/place/The+Crossroads,+Dakar,+Senegal/@14.7352049,-17.4254933,3859a,13.1y/data=!4m2!3m1!1s0xec10cd3926350b9:0x2fbc052330ccbc16",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "reviews_per_2": null,
+    "reviews_per_3": null,
+    "reviews_per_4": null,
+    "reviews_per_5": null,
+    "phone": null,
+    "website": null,
+    "street": null,
+    "state": null,
+    "zip_code": null,
+    "logo": null,
+    "reviews_link": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "CROSSROAD(S)",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 2,
+    "language": "en",
+    "location_name": ""
+  }
+]

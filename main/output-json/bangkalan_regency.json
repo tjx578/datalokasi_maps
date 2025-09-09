@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Suramadu Bridge",
+    "place_id": "ChIJAacuE4cD2C0R5q7AcePfHiM",
+    "data_id": "0x2dd80387132ea701:0x231edfe371c0aee6",
+    "data_cid": 2530706208587820774,
+    "gps_coordinates": {
+      "latitude": -7.1855231999999996,
+      "longitude": 112.78012249999999
+    },
+    "provider_id": "/m/08_zg0",
+    "rating": 4.7,
+    "reviews": 1581,
+    "type": "Bridge",
+    "types": [
+      "Bridge"
+    ],
+    "address": "RQ7J+Q2X, Jl. Tol Suramadu, Sekarbungu, Polasari, Sukolilo Bar., Kec. Labang, Kabupaten Bangkalan, Jawa Timur 69163",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr89_XAoD-1RpTXRGhR7zv7olQR3l6luzfsUi1jWfz9_HD4Qr11U-3YcNviAHD40tbXjNkt2OvQUaukrZyMxz9n2g93mtJPrCVoBALpTUGlZnNaXnYjzGR4RbxeiVrad7_-ibcQ=w1600-h1000-k-no",
+    "street": "RQ7J+Q2X, Jl. Tol Suramadu, Sekarbungu",
+    "city": "Bangkalan Regency",
+    "state": "East Java",
+    "zip_code": 69163,
+    "country": "ID",
+    "reviews_per_1": 47,
+    "reviews_per_2": 10,
+    "reviews_per_3": 51,
+    "reviews_per_4": 163,
+    "reviews_per_5": 1310,
+    "photo_count": 1389,
+    "not_claimed": true,
+    "owner": "114556353514574559140",
+    "category": "Jembatan",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJAacuE4cD2C0R5q7AcePfHiM&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Wheelchair accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/RQ7J%2BQ2X+Suramadu+Bridge,+Jl.+Tol+Suramadu,+Sekarbungu,+Polasari,+Sukolilo+Bar.,+Kec.+Labang,+Kabupaten+Bangkalan,+Jawa+Timur+69163,+Indonesia/@-7.1855232,112.7801225,3958a,13.1y/data=!4m2!3m1!1s0x2dd80387132ea701:0x231edfe371c0aee6",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "JEMBATAN",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 2,
+    "language": "id",
+    "location_name": ""
+  }
+]

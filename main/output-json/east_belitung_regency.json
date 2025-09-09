@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Cagar Budaya Batu Penyu",
+    "place_id": "ChIJb02hD9crES4R0oaKIiCGivg",
+    "data_id": "0x2e112bd70fa14d6f:0xf88a8620228a86d2",
+    "data_cid": 17909274340768777938,
+    "gps_coordinates": {
+      "latitude": -2.9900881,
+      "longitude": 108.139445
+    },
+    "provider_id": "/g/11d__nhkp0",
+    "rating": 5,
+    "reviews": 5,
+    "type": "Heritage preservation",
+    "types": [
+      "Heritage preservation"
+    ],
+    "address": "245Q+XQ8, Batu Penyu, Gantung, East Belitung Regency, Bangka Belitung Islands 33562",
+    "open_state": "Open 24 hours",
+    "operating_hours": {
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours"
+    },
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0wJh8mmif5TBJmXY5uwHUQ&cb_client=search.gws-prod.gps&w=211&h=120&yaw=150.83989&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "245Q+XQ8",
+    "city": "East Belitung Regency",
+    "state": "Bangka Belitung Islands",
+    "zip_code": 33562,
+    "country": "ID",
+    "reviews_per_1": 0,
+    "photo_count": 2,
+    "not_claimed": true,
+    "owner": "109273673136108898611",
+    "category": "attractions",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJb02hD9crES4R0oaKIiCGivg&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Children",
+        "slug": "children",
+        "options": [
+          {
+            "name": "Good for kids",
+            "slug": "/geo/type/establishment_poi/welcomes_children"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/245Q%2BXQ8+Cagar+Budaya+Batu+Penyu,+Batu+Penyu,+Kec.+Gantung,+Kabupaten+Belitung+Timur,+Kepulauan+Bangka+Belitung+33562,+Indonesia/@-2.9900881,108.139445,3984a,13.1y/data=!4m2!3m1!1s0x2e112bd70fa14d6f:0xf88a8620228a86d2",
+    "note_from_owner": null,
+    "description_arr": null,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 0,
+    "reviews_per_5": 5,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "CAGAR BUDAYA",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 1,
+    "language": "en",
+    "location_name": ""
+  }
+]

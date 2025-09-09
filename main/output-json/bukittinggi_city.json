@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Bangunan Cagarbudaya",
+    "place_id": "ChIJ7d8GF5841S8Rr2g6ygTbAXk",
+    "data_id": "0x2fd5389f1706dfed:0x7901db04ca3a68af",
+    "data_cid": 8719491167185168559,
+    "gps_coordinates": {
+      "latitude": -0.2979944,
+      "longitude": 100.3742051
+    },
+    "provider_id": "/g/11hbn6yj55",
+    "rating": 5,
+    "reviews": 6,
+    "type": "Museum",
+    "types": [
+      "Museum"
+    ],
+    "address": "Jl. Mandiangin No.No.38, Campago Ipuh, Kec. Mandiangin Koto Selayan, Kota Bukittinggi, Sumatera Barat 26137",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=u2jB8PqdIRguOR3Sbg9y6A&cb_client=search.gws-prod.gps&w=211&h=120&yaw=274.7194&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "Jl. Mandiangin No.No.38",
+    "city": "Bukittinggi City",
+    "state": "West Sumatra",
+    "zip_code": 26137,
+    "country": "ID",
+    "reviews_per_1": 0,
+    "photo_count": 2,
+    "not_claimed": true,
+    "owner": "114083643804100552211",
+    "category": "museums",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ7d8GF5841S8Rr2g6ygTbAXk&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          },
+          {
+            "name": "Restaurant",
+            "slug": "/geo/type/establishment_poi/has_restaurant"
+          }
+        ]
+      },
+      {
+        "name": "Children",
+        "slug": "children",
+        "options": [
+          {
+            "name": "Good for kids",
+            "slug": "/geo/type/establishment_poi/welcomes_children"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/Bangunan+Cagarbudaya,+Jl.+Mandiangin+No.No.38,+Campago+Ipuh,+Kec.+Mandiangin+Koto+Selayan,+Kota+Bukittinggi,+Sumatera+Barat+26137,+Indonesia/@-0.2979944,100.3742051,3990a,13.1y/data=!4m2!3m1!1s0x2fd5389f1706dfed:0x7901db04ca3a68af",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 0,
+    "reviews_per_5": 6,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "CAGAR BUDAYA",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 1,
+    "language": "en",
+    "location_name": ""
+  }
+]

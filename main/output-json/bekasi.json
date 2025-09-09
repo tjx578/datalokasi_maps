@@ -1,0 +1,1033 @@
+[
+  {
+    "title": "SMP Negeri 14 Bekasi",
+    "place_id": "ChIJgccoxYmMaS4RS8DPd8SX4-c",
+    "data_id": "0x2e698c89c528c781:0xe7e397c477cfc04b",
+    "data_cid": 16709365912554160203,
+    "gps_coordinates": {
+      "latitude": -6.2265356999999995,
+      "longitude": 106.9583694
+    },
+    "provider_id": "/g/1td3bvfb",
+    "type": "Middle school",
+    "types": [
+      "Middle school"
+    ],
+    "address": "Jl. Bintara VIII, RT.005/RW.003, Bintara, Kec. Bekasi Bar., Kota Bks, Jawa Barat 17134",
+    "operating_hours": {},
+    "phone": "+62 21 8852978",
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Tr6uCWFJlojJ2D9c_Mupaw&cb_client=search.gws-prod.gps&w=211&h=120&yaw=314.6891&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "Jl. Bintara VIII, RT.005/RW.003",
+    "city": "Bekasi",
+    "state": "West Java",
+    "zip_code": 17134,
+    "country": "ID",
+    "reviews_per_1": null,
+    "reviews_per_2": null,
+    "reviews_per_3": null,
+    "reviews_per_4": null,
+    "reviews_per_5": null,
+    "photo_count": 120,
+    "logo": "https://lh6.googleusercontent.com/-W8AdZkmiGs4/AAAAAAAAAAI/AAAAAAAAAAA/CQWRK5YY6S4/s44-p-k-no-ns-nd/photo.jpg",
+    "owner": "108354396361545085620",
+    "category": "Sekolah Menengah Pertama",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          }
+        ]
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "place_url": "https://www.google.com/maps/preview/place/SMP+Negeri+14+Bekasi,+Jl.+Bintara+VIII,+RT.005%2FRW.003,+Bintara,+Bekasi+Barat,+Bekasi,+West+Java+17134,+Indonesia/@-6.2265357,106.9583694,3966a,13.1y/data=!4m2!3m1!1s0x2e698c89c528c781:0xe7e397c477cfc04b",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "website": null,
+    "not_claimed": false,
+    "reviews_link": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "SMPN",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 1,
+    "language": "id",
+    "location_name": ""
+  },
+  {
+    "title": "SMPN 1 Bekasi",
+    "place_id": "ChIJbX9rbB-MaS4RXvJ4OqAXfQQ",
+    "data_id": "0x2e698c1f6c6b7f6d:0x47d17a03a78f25e",
+    "data_cid": 323440725183754846,
+    "gps_coordinates": {
+      "latitude": -6.233124699999999,
+      "longitude": 107.00891399999999
+    },
+    "provider_id": "/g/1tdhpfkz",
+    "type": "Secondary school",
+    "types": [
+      "Secondary school"
+    ],
+    "address": "Jl. KH. Agus Salim No.138, Bekasi Jaya, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17112",
+    "open_state": "Closed ⋅ Opens 7 AM Mon",
+    "operating_hours": {
+      "sunday": "7 AM–4 PM",
+      "monday": "Closed",
+      "tuesday": "Closed",
+      "wednesday": "7 AM–4 PM",
+      "thursday": "7 AM–4 PM",
+      "friday": "7 AM–4 PM",
+      "saturday": "7 AM–4 PM"
+    },
+    "phone": "+62 21 8802539",
+    "website": "http://www.smpn1kotabekasi.sch.id/",
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7GB_NUih-CW_2DzkahNilg&cb_client=search.gws-prod.gps&w=211&h=120&yaw=107.50723&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "Jl. KH. Agus Salim No.138",
+    "city": "Bekasi",
+    "state": "West Java",
+    "zip_code": 17112,
+    "country": "ID",
+    "reviews_per_1": null,
+    "reviews_per_2": null,
+    "reviews_per_3": null,
+    "reviews_per_4": null,
+    "reviews_per_5": null,
+    "photo_count": 97,
+    "logo": "https://lh4.googleusercontent.com/-8zfG3WcU7GI/AAAAAAAAAAI/AAAAAAAAAAA/j38JqyGA_dA/s44-p-k-no-ns-nd/photo.jpg",
+    "owner": "105339752853138833102",
+    "category": "Sekolah menengah",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          }
+        ]
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "place_url": "https://www.google.com/maps/preview/place/SMPN+1+Bekasi,+Jl.+KH.+Agus+Salim+No.138,+Bekasi+Jaya,+Bekasi+Timur,+Bekasi,+West+Java+17112,+Indonesia/@-6.2331247,107.008914,3966a,13.1y/data=!4m2!3m1!1s0x2e698c1f6c6b7f6d:0x47d17a03a78f25e",
+    "note_from_owner": "SMP Negeri 1 Bekasi adalah Sekolah Menengah Pertama Negeri yang berada di daerah Kecamatan Bekasi Timur, kelurahan Bekasi Jaya tepatnya di Jalan K.H Agus Salim No. 138. SMP Negeri 1 Bekasi sempat berstatus “Rintisan Sekolah Bertaraf Internasional” dan sudah distandarisasi ISO 9001:2000 mulai Tahun 2007/2008. SMP Negeri 1 Bekasi berdiri pertama kali sebagai SMP Negeri Bekasi pada tanggal 1 Agustus 1956 dimana pada saat itu diurus oleh Kepala SMP Negeri Karawang, Bapak Sukardja (almarhum). Sejak tanggal, 1 Agustus 1956 s/d tahun 1961 dijabat oleh Bapak M. Otjid yang sekarang telah pensiun di SMP Negeri 1 Cianjur. Saat ini SMPN 1 Bekasi sudah tidak lagi berstatus RSBI. Kemudian Tahun 2014/2015 SMP Negeri 1 Bekasi Menjadi Kategori Sekolah Model",
+    "description_arr": null,
+    "not_claimed": false,
+    "reviews_link": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "SMPN",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 2,
+    "language": "id",
+    "location_name": ""
+  },
+  {
+    "title": "SMPN 17 Bekasi",
+    "place_id": "ChIJc5vryTqNaS4RrvMYLnm3fm4",
+    "data_id": "0x2e698d3ac9eb9b73:0x6e7eb7792e18f3ae",
+    "data_cid": 7962002922329928622,
+    "gps_coordinates": {
+      "latitude": -6.2662797,
+      "longitude": 106.9246118
+    },
+    "provider_id": "/g/1hm63sn79",
+    "type": "Secondary school",
+    "types": [
+      "Secondary school"
+    ],
+    "address": "Jl. Kemang Raya No.80, RT.001/RW.012, Jaticempaka, Kec. Pd. Gede, Kota Bks, Jawa Barat 13620",
+    "operating_hours": {},
+    "phone": "+62 21 85519434",
+    "website": "http://smpn17kotabekasi.sch.id/",
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=llotZVHbZ9WYnO3-g-YtHw&cb_client=search.gws-prod.gps&w=211&h=120&yaw=16.694862&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "Jl. Kemang Raya No.80, RT.001/RW.012",
+    "city": "Bekasi",
+    "state": "West Java",
+    "zip_code": 13620,
+    "country": "ID",
+    "reviews_per_1": null,
+    "reviews_per_2": null,
+    "reviews_per_3": null,
+    "reviews_per_4": null,
+    "reviews_per_5": null,
+    "photo_count": 277,
+    "not_claimed": true,
+    "owner": "100345043413158630659",
+    "category": "Sekolah menengah",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          }
+        ]
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "place_url": "https://www.google.com/maps/preview/place/SMPN+17+Bekasi,+Jl.+Kemang+Raya+No.80,+RT.001%2FRW.012,+Jaticempaka,+Pondok+Gede,+Bekasi,+West+Java+13620,+Indonesia/@-6.2662797,106.9246118,3966a,13.1y/data=!4m2!3m1!1s0x2e698d3ac9eb9b73:0x6e7eb7792e18f3ae",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "logo": null,
+    "reviews_link": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "SMPN",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 2,
+    "language": "id",
+    "location_name": ""
+  },
+  {
+    "title": "State Junior High School 18 Bekasi",
+    "place_id": "ChIJ3TX51aGOaS4RiO_uBUQ1kEA",
+    "data_id": "0x2e698ea1d5f935dd:0x4090354405eeef88",
+    "data_cid": 4652276981347315592,
+    "gps_coordinates": {
+      "latitude": -6.2317998,
+      "longitude": 107.0101919
+    },
+    "provider_id": "/g/1tdkv2md",
+    "type": "Middle school",
+    "types": [
+      "Middle school",
+      "Public educational institution",
+      "School"
+    ],
+    "address": "Jl. KH. Agus Salim No.78, RT.008/RW.007, Bekasi Jaya, Kec. Bekasi Tim., Kota Bks, Jawa Barat 17112",
+    "open_state": "Closed ⋅ Opens 6 AM Sat",
+    "operating_hours": {
+      "sunday": "6 AM–3 PM",
+      "monday": "6 AM–3 PM",
+      "tuesday": "Closed",
+      "wednesday": "6 AM–3 PM",
+      "thursday": "6 AM–3 PM",
+      "friday": "6 AM–3 PM",
+      "saturday": "6 AM–3 PM"
+    },
+    "phone": "+62 21 8808413",
+    "website": "https://smpn18bekasi.sch.id/",
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=32xZ1PyL0-Rux2beLMM27Q&cb_client=search.gws-prod.gps&w=211&h=120&yaw=38.26063&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "Jl. KH. Agus Salim No.78, RT.008/RW.007",
+    "city": "Bekasi",
+    "state": "West Java",
+    "zip_code": 17112,
+    "country": "ID",
+    "reviews_per_1": null,
+    "reviews_per_2": null,
+    "reviews_per_3": null,
+    "reviews_per_4": null,
+    "reviews_per_5": null,
+    "photo_count": 66,
+    "not_claimed": true,
+    "owner": "101636547278465892451",
+    "category": "Sekolah Menengah Pertama",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          }
+        ]
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "place_url": "https://www.google.com/maps/preview/place/State+Junior+High+School+18+Bekasi,+Jl.+KH.+Agus+Salim+No.78,+RT.008%2FRW.007,+Bekasi+Jaya,+Bekasi+Timur,+Bekasi,+West+Java+17112,+Indonesia/@-6.2317998,107.0101919,3966a,13.1y/data=!4m2!3m1!1s0x2e698ea1d5f935dd:0x4090354405eeef88",
+    "note_from_owner": null,
+    "description_arr": null,
+    "logo": null,
+    "reviews_link": null,
+    "email": [
+      "smpnegeri18bks@gmail.com"
+    ],
+    "social_media_links": [
+      "https://www.youtube.com/@osis18bekasi70/videos",
+      "https://instagram.com/smpn18_bekasi"
+    ],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": "https://instagram.com/smpn18_bekasi",
+    "linkedin": null,
+    "youtube": "https://www.youtube.com/@osis18bekasi70/videos",
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "SMPN",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 2,
+    "language": "id",
+    "location_name": ""
+  },
+  {
+    "title": "Kranggan Pusat Cagar Budaya",
+    "place_id": "ChIJRymLtoaTaS4RnVEhWVDfd-Q",
+    "data_id": "0x2e699386b68b2947:0xe477df505921519d",
+    "data_cid": 16462872499061871005,
+    "gps_coordinates": {
+      "latitude": -6.367071,
+      "longitude": 106.93331099999999
+    },
+    "provider_id": "/g/11h3wvxzg4",
+    "rating": 4.9,
+    "reviews": 20,
+    "type": "Museum",
+    "types": [
+      "Museum"
+    ],
+    "address": "JWMM+58F, RT.001/RW.004, Jatirangga, Jatisampurna, Bekasi, West Java 17434",
+    "open_state": "Closed ⋅ Opens 4 PM",
+    "operating_hours": {
+      "sunday": "4 PM–12 AM",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "12 AM–3 PM",
+      "thursday": "4 PM–12 AM",
+      "friday": "Open 24 hours",
+      "saturday": "12 AM–3 PM"
+    },
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=r0gMou-9AvKeqpqU0T0F1g&cb_client=search.gws-prod.gps&w=211&h=120&yaw=18.846966&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "JWMM+58F, RT.001/RW.004",
+    "city": "Bekasi",
+    "state": "West Java",
+    "zip_code": 17434,
+    "country": "ID",
+    "reviews_per_1": 0,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 2,
+    "reviews_per_5": 18,
+    "photo_count": 25,
+    "not_claimed": true,
+    "owner": "101723433668310803902",
+    "category": "museums",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJRymLtoaTaS4RnVEhWVDfd-Q&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      },
+      {
+        "name": "Children",
+        "slug": "children",
+        "options": [
+          {
+            "name": "Good for kids",
+            "slug": "/geo/type/establishment_poi/welcomes_children"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/JWMM%2B58F+Kranggan+Pusat+Cagar+Budaya,+RT.001%2FRW.004,+Jatirangga,+Kec.+Jatisampurna,+Kota+Bks,+Jawa+Barat+17434,+Indonesia/@-6.367071,106.933311,3965a,13.1y/data=!4m2!3m1!1s0x2e699386b68b2947:0xe477df505921519d",
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "CAGAR BUDAYA",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 0,
+    "language": "en",
+    "location_name": ""
+  },
+  {
+    "title": "State Elementary School Jatibening IV & V",
+    "place_id": "ChIJB-ZzJxCNaS4RYiERv2oys9Q",
+    "data_id": "0x2e698d102773e607:0xd4b3326abf112162",
+    "data_cid": 15326649390925422946,
+    "gps_coordinates": {
+      "latitude": -6.2661625,
+      "longitude": 106.94775829999999
+    },
+    "provider_id": "/g/11b867y7hq",
+    "type": "Elementary school",
+    "types": [
+      "Elementary school",
+      "Primary school"
+    ],
+    "address": "Jl. Seram No.12a, RT.006/RW.010, Jatibening, Kec. Pd. Gede, Kota Bks, Jawa Barat 17412",
+    "open_state": "Closed ⋅ Opens 6 a.m.",
+    "operating_hours": {
+      "sunday": "6 a.m.–5 p.m.",
+      "monday": "6:30 a.m.–3 p.m.",
+      "tuesday": "Closed",
+      "wednesday": "6 a.m.–5 p.m.",
+      "thursday": "6 a.m.–5 p.m.",
+      "friday": "6 a.m.–5 p.m.",
+      "saturday": "6 a.m.–5 p.m."
+    },
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=h2hI_IhzQfTWda40uBr3oQ&cb_client=search.gws-prod.gps&w=211&h=120&yaw=103.88951&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "Jl. Seram No.12a, RT.006/RW.010",
+    "city": "Bekasi",
+    "state": "West Java",
+    "zip_code": 17412,
+    "country": "ID",
+    "reviews_per_1": null,
+    "reviews_per_2": null,
+    "reviews_per_3": null,
+    "reviews_per_4": null,
+    "reviews_per_5": null,
+    "photo_count": 52,
+    "logo": "https://lh5.googleusercontent.com/-db7TRXWO1RA/AAAAAAAAAAI/AAAAAAAAAAA/jNA64Qt8Rsk/s44-p-k-no-ns-nd/photo.jpg",
+    "owner": "112775518672695189065",
+    "category": "Sekolah Dasar",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          }
+        ]
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "place_url": "https://www.google.com/maps/preview/place/State+Elementary+School+Jatibening+IV+%26+V,+Jl.+Seram+No.12a,+RT.006%2FRW.010,+Jatibening,+Pondok+Gede,+Bekasi,+West+Java+17412,+Indonesia/@-6.2661625,106.9477583,3966a,13.1y/data=!4m2!3m1!1s0x2e698d102773e607:0xd4b3326abf112162",
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "not_claimed": false,
+    "reviews_link": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "sekolah dasar negeri",
+    "location": "Denpasar, gianyar",
+    "start": 10,
+    "language": "en",
+    "location_name": ""
+  },
+  {
+    "title": "State Elementary School Jatibening Baru IV",
+    "place_id": "ChIJAb39FBmNaS4RbIMZSEwKSkQ",
+    "data_id": "0x2e698d1914fdbd01:0x444a0a4c4819836c",
+    "data_cid": 4920756865599112044,
+    "gps_coordinates": {
+      "latitude": -6.2600912,
+      "longitude": 106.9348342
+    },
+    "provider_id": "/g/11bc7tpffx",
+    "type": "Elementary school",
+    "types": [
+      "Elementary school"
+    ],
+    "address": "Jl. Jati Utama Raya No.77 5, RT.002/RW.008, Jatibening Baru, Kec. Pd. Gede, Kota Bks, Jawa Barat 17412",
+    "open_state": "Open 24 hours",
+    "operating_hours": {
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Closed",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours"
+    },
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=X4NOV7Pw2dbYNiuouEgh5Q&cb_client=search.gws-prod.gps&w=211&h=120&yaw=272.65326&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "Jl. Jati Utama Raya No.77 5, RT.002/RW.008",
+    "city": "Bekasi",
+    "state": "West Java",
+    "zip_code": 17412,
+    "country": "ID",
+    "reviews_per_1": null,
+    "reviews_per_2": null,
+    "reviews_per_3": null,
+    "reviews_per_4": null,
+    "reviews_per_5": null,
+    "photo_count": 31,
+    "not_claimed": true,
+    "owner": "107350397668401970865",
+    "category": "Sekolah Dasar",
+    "rating": null,
+    "reviews": null,
+    "place_url": "https://www.google.com/maps/preview/place/State+Elementary+School+Jatibening+Baru+IV,+Jl.+Jati+Utama+Raya+No.77+5,+RT.002%2FRW.008,+Jatibening+Baru,+Kec.+Pd.+Gede,+Kota+Bks,+Jawa+Barat+17412,+Indonesia/@-6.2600912,106.9348342,3966a,13.1y/data=!4m2!3m1!1s0x2e698d1914fdbd01:0x444a0a4c4819836c",
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "reviews_link": null,
+    "service_option": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "sekolah dasar negeri",
+    "location": "Denpasar, gianyar",
+    "start": 10,
+    "language": "en",
+    "location_name": ""
+  },
+  {
+    "title": "Bekasi Mayor's Office",
+    "place_id": "ChIJ9VltLiOMaS4RlcmT0yqHsgk",
+    "data_id": "0x2e698c232e6d59f5:0x9b2872ad393c995",
+    "data_cid": 698769510203902357,
+    "gps_coordinates": {
+      "latitude": -6.2359827,
+      "longitude": 106.99415909999999
+    },
+    "provider_id": "/g/11bc7q_n9t",
+    "rating": 4,
+    "reviews": 336,
+    "type": "City government office",
+    "types": [
+      "City government office"
+    ],
+    "address": "Jl. Ahmad Yani No.1, RT.001/RW.005, Marga Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17143",
+    "open_state": "Closed ⋅ Opens 7:30 AM Mon",
+    "operating_hours": {
+      "sunday": "Closed",
+      "monday": "Closed",
+      "tuesday": "7:30 AM–4 PM",
+      "wednesday": "7:30 AM–4 PM",
+      "thursday": "7:30 AM–4 PM",
+      "friday": "7:30 AM–4 PM",
+      "saturday": "7:30 AM–4 PM"
+    },
+    "phone": "+62 21 88961767",
+    "website": "https://www.bekasikota.go.id/",
+    "description": {},
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq6VRvTaPYji7YAK7AksWRvSG25WKxLfErI-qjpSgPXk1N7muT-JDbZr7DkMvcND3Cw0XNqdjgVGFsH7d0tDU6LobaFQtZDyyk18BrTcqgO31rtWtoh12FRI5y5e425ssRguAKJ=w1600-h1000-k-no",
+    "street": "Jl. Ahmad Yani No.1, RT.001/RW.005",
+    "city": "Bekasi",
+    "state": "West Java",
+    "zip_code": 17143,
+    "country": "ID",
+    "reviews_per_1": 51,
+    "reviews_per_2": 8,
+    "reviews_per_3": 22,
+    "reviews_per_4": 53,
+    "reviews_per_5": 202,
+    "photo_count": 540,
+    "logo": "https://lh4.googleusercontent.com/-5QyBucPYfcs/AAAAAAAAAAI/AAAAAAAAAAA/P7CvyrXcLS4/s44-p-k-no-ns-nd/photo.jpg",
+    "owner": "104885603110942326756",
+    "category": "Kantor Pemerintahan Kota",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ9VltLiOMaS4RlcmT0yqHsgk&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Wheelchair accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          },
+          {
+            "name": "Wheelchair accessible restroom",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_restroom"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/Bekasi+Mayor's+Office,+Jl.+Ahmad+Yani+No.1,+RT.001%2FRW.005,+Marga+Jaya,+Bekasi+Selatan,+Bekasi,+West+Java+17143,+Indonesia/@-6.2359827,106.9941591,3966a,13.1y/data=!4m2!3m1!1s0x2e698c232e6d59f5:0x9b2872ad393c995",
+    "note_from_owner": null,
+    "description_arr": null,
+    "not_claimed": false,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "KANTOR PEMERINTAHAN",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 10,
+    "language": "en",
+    "location_name": ""
+  },
+  {
+    "title": "Pemerintah Kota Bekasi",
+    "place_id": "ChIJzXFcgYmMaS4R0rJZ4hhYzBo",
+    "data_id": "0x2e698c89815c71cd:0x1acc5818e259b2d2",
+    "data_cid": 1931015204135088850,
+    "gps_coordinates": {
+      "latitude": -6.2279778,
+      "longitude": 106.95687579999999
+    },
+    "provider_id": "/g/11gmyw8gnh",
+    "type": "Government office",
+    "types": [
+      "Government office"
+    ],
+    "address": "QXC4+RQ2, Jl. Bintara VIII, RT.005/RW.003, Bintara, Kec. Bekasi Bar., Kota Bks, Jawa Barat 17134",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wn_Jj4n9AYwCqo4pU_UPZA&cb_client=search.gws-prod.gps&w=211&h=120&yaw=110.02264&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "QXC4+RQ2, Jl. Bintara VIII, RT.005/RW.003",
+    "city": "Bekasi",
+    "state": "West Java",
+    "zip_code": 17134,
+    "country": "ID",
+    "reviews_per_1": null,
+    "reviews_per_2": null,
+    "reviews_per_3": null,
+    "reviews_per_4": null,
+    "reviews_per_5": null,
+    "photo_count": 7,
+    "not_claimed": true,
+    "owner": "104728660815002683982",
+    "category": "Kantor Pemerintah",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Wheelchair accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "place_url": "https://www.google.com/maps/preview/place/QXC4%2BRQ2+Pemerintah+Kota+Bekasi,+Jl.+Bintara+VIII,+RT.005%2FRW.003,+Bintara,+Kec.+Bekasi+Bar.,+Kota+Bks,+Jawa+Barat+17134,+Indonesia/@-6.2279778,106.9568758,3966a,13.1y/data=!4m2!3m1!1s0x2e698c89815c71cd:0x1acc5818e259b2d2",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "reviews_link": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "KANTOR PEMERINTAHAN",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 10,
+    "language": "en",
+    "location_name": ""
+  },
+  {
+    "title": "Sekretariat Daerah Kota Bekasi",
+    "place_id": "ChIJCTfrOGONaS4RKGRk9Fk2oMk",
+    "data_id": "0x2e698d6338eb3709:0xc9a03659f4646428",
+    "data_cid": 14528672157877429288,
+    "gps_coordinates": {
+      "latitude": -6.235882999999999,
+      "longitude": 106.994997
+    },
+    "provider_id": "/g/11j4fzlt1x",
+    "rating": 5,
+    "reviews": 2,
+    "type": "Government office",
+    "types": [
+      "Government office"
+    ],
+    "address": "Jl. Ahmad Yani No.1, RT.004/RW.001, Marga Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17141",
+    "open_state": "Closed ⋅ Opens 8 AM Mon",
+    "operating_hours": {
+      "sunday": "Closed",
+      "monday": "Closed",
+      "tuesday": "8 AM–4 PM",
+      "wednesday": "8 AM–4 PM",
+      "thursday": "8 AM–4 PM",
+      "friday": "8 AM–4 PM",
+      "saturday": "8 AM–4 PM"
+    },
+    "phone": "+62 21 88961767",
+    "description": {},
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no3R6xZNrCXBuZqswYWpoPpaKLwSMfVnDFO6J5iiwxXdZjtal50srehq0e2OCOBbIhXuKd23i_HS7m0Y4xiUhWWazu5JFXMsBxr5lu95vpIhiwGIl_WODZBAiL7z845CquMIFlr=w1600-h1000-k-no",
+    "street": "Jl. Ahmad Yani No.1, RT.004/RW.001",
+    "city": "Bekasi",
+    "state": "West Java",
+    "zip_code": 17141,
+    "country": "ID",
+    "reviews_per_1": 0,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 0,
+    "reviews_per_5": 2,
+    "photo_count": 15,
+    "logo": "https://lh4.googleusercontent.com/-LM6bDh4d8f4/AAAAAAAAAAI/AAAAAAAAAAA/qF1eNP302pc/s44-p-k-no-ns-nd/photo.jpg",
+    "owner": "104760764917904966974",
+    "category": "Government office",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJCTfrOGONaS4RKGRk9Fk2oMk&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Service options",
+        "slug": "service_options",
+        "options": [
+          {
+            "name": "Onsite services",
+            "slug": "/geo/type/establishment_poi/has_onsite_services"
+          }
+        ]
+      },
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Wheelchair accessible seating",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_seating"
+          },
+          {
+            "name": "Wheelchair accessible restroom",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_restroom"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      },
+      {
+        "name": "Parking",
+        "slug": "parking",
+        "options": [
+          {
+            "name": "Free parking garage",
+            "slug": "/geo/type/establishment_poi/has_parking_garage_free"
+          },
+          {
+            "name": "Free parking lot",
+            "slug": "/geo/type/establishment_poi/has_parking_lot_free"
+          },
+          {
+            "name": "Free street parking",
+            "slug": "/geo/type/establishment_poi/has_parking_street_free"
+          },
+          {
+            "name": "On-site parking",
+            "slug": "/geo/type/establishment_poi/has_onsite_parking"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/Sekretariat+Daerah+Kota+Bekasi,+Jl.+Ahmad+Yani+No.1,+RT.004%2FRW.001,+Marga+Jaya,+Bekasi+Selatan,+Bekasi,+West+Java+17141,+Indonesia/@-6.235883,106.994997,3966a,13.1y/data=!4m2!3m1!1s0x2e698d6338eb3709:0xc9a03659f4646428",
+    "note_from_owner": "Sekretariat Daerah Kota Bekasi merupakan unsur pembantu pimpinan Pemerintah Daerah yang dipimpin oleh Sekretaris Daerah, berada di bawah dan bertanggung jawab kepada Wali kota Bekasi. Sekretariat Daerah Kota Bekasi bertugas membantu Wali kota Bekasi dalam melaksanakan tugas penyelenggaraan pemerintahan, administrasi, organisasi dan tata laksana serta memberikan pelayanan administrasi kepada seluruh Perangkat Daerah Kota Bekasi. Sekretariat Daerah Kota Bekasi terdiri atas 3 Asisten dan 12 Bagian",
+    "description_arr": null,
+    "website": null,
+    "not_claimed": false,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "KANTOR PEMERINTAHAN",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 10,
+    "language": "en",
+    "location_name": ""
+  }
+]

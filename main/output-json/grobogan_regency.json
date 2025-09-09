@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Puskesmas Pembantu ( PUSTU )",
+    "place_id": "ChIJQ-4HkbqjcC4RdmnH-9jlWuY",
+    "data_id": "0x2e70a3ba9107ee43:0xe65ae5d8fbc76976",
+    "data_cid": 16598832096727230838,
+    "gps_coordinates": {
+      "latitude": -7.176495,
+      "longitude": 110.8031525
+    },
+    "provider_id": "/g/11q79zmjch",
+    "rating": 5,
+    "reviews": 1,
+    "type": "Public medical center",
+    "types": [
+      "Public medical center"
+    ],
+    "address": "Jalan Desa No.4, RT.02/RW.03, Welahan, Telawah, Karangrayung, Grobogan Regency, Central Java 58163",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SWKioHlJNI_-JUtTN5_wOw&cb_client=search.gws-prod.gps&w=211&h=120&yaw=195.86154&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "Jalan Desa No.4, RT.02/RW.03",
+    "city": "Grobogan Regency",
+    "state": "Central Java",
+    "zip_code": 58163,
+    "country": "ID",
+    "reviews_per_1": 0,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 0,
+    "reviews_per_5": 1,
+    "photo_count": 5,
+    "not_claimed": true,
+    "owner": "104387791250721246916",
+    "category": "Pusat Kesehatan Masyarakat",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJQ-4HkbqjcC4RdmnH-9jlWuY&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/Puskesmas+Pembantu+(+PUSTU+),+Jalan+Desa+No.4,+RT.02%2FRW.03,+Welahan,+Telawah,+Kec.+Karangrayung,+Kabupaten+Grobogan,+Jawa+Tengah+58163,+Indonesia/@-7.176495,110.8031525,3959a,13.1y/data=!4m2!3m1!1s0x2e70a3ba9107ee43:0xe65ae5d8fbc76976",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "PUSKESMAS PEMBANTU",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 4,
+    "language": "en",
+    "location_name": ""
+  }
+]

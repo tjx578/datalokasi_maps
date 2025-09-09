@@ -1,0 +1,192 @@
+[
+  {
+    "title": "Crossroads",
+    "place_id": "ChIJI1l8hIFqekgRQyX6MFIoUgI",
+    "data_id": "0x487a6a81847c5923:0x252285230fa2543",
+    "data_cid": 167240469640258883,
+    "gps_coordinates": {
+      "latitude": 53.025661,
+      "longitude": -2.066706
+    },
+    "provider_id": "/g/1tg9s6nn",
+    "rating": 4,
+    "reviews": 1,
+    "type": "Bus station",
+    "types": [
+      "Bus station"
+    ],
+    "address": "Werrington, Stoke-on-Trent ST9 0DH, United Kingdom",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jkING3BEOZDbblsFpOFUOA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=226.73756&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "city": "Stoke-on-Trent",
+    "country": "GB",
+    "reviews_per_1": 0,
+    "photo_count": 1,
+    "owner": "113856564340991532823",
+    "category": "Bus station",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJI1l8hIFqekgRQyX6MFIoUgI&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      },
+      {
+        "name": "Getting here",
+        "slug": "getting_here",
+        "options": [
+          {
+            "name": "24-hour transit available",
+            "slug": "/geo/type/establishment_poi/has_transit_24_hours"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/Crossroads,+Werrington,+Stoke-on-Trent+ST9+0DH,+United+Kingdom/@53.025661,-2.066706,2400a,13.1y/data=!4m2!3m1!1s0x487a6a81847c5923:0x252285230fa2543",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 1,
+    "reviews_per_5": 0,
+    "phone": null,
+    "website": null,
+    "street": null,
+    "state": null,
+    "zip_code": null,
+    "logo": null,
+    "not_claimed": false,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "CROSSROAD(S)",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 4,
+    "language": "en",
+    "location_name": ""
+  },
+  {
+    "title": "Crossroads",
+    "place_id": "ChIJM465cb5cekgREt8j12ouvxw",
+    "data_id": "0x487a5cbe71b98e33:0x1cbf2e6ad723df12",
+    "data_cid": 2071425390024580882,
+    "gps_coordinates": {
+      "latitude": 53.0938685,
+      "longitude": -2.2567779999999997
+    },
+    "provider_id": "/g/11c1p9030n",
+    "type": "Transport hub",
+    "types": [
+      "Transport hub"
+    ],
+    "address": "Stoke-on-Trent, United Kingdom",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7KhOVOFVgr_QsDmj9ZEoVA&cb_client=search.gws-prod.gps&w=360&h=120&yaw=37.114212&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "city": "Stoke-on-Trent",
+    "country": "GB",
+    "reviews_per_1": null,
+    "photo_count": 1,
+    "owner": "109260565828877036844",
+    "category": "Transport hub",
+    "service_option": [
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "place_url": "https://www.google.com/maps/preview/place/Crossroads,+Stoke-on-Trent,+United+Kingdom/@53.0938685,-2.256778,2396a,13.1y/data=!4m2!3m1!1s0x487a5cbe71b98e33:0x1cbf2e6ad723df12",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "reviews_per_2": null,
+    "reviews_per_3": null,
+    "reviews_per_4": null,
+    "reviews_per_5": null,
+    "phone": null,
+    "website": null,
+    "street": null,
+    "state": null,
+    "zip_code": null,
+    "logo": null,
+    "not_claimed": false,
+    "reviews_link": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "CROSSROAD(S)",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 4,
+    "language": "en",
+    "location_name": ""
+  }
+]

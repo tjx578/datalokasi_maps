@@ -1,0 +1,92 @@
+[
+  {
+    "title": "puskesmas pembantu (pustu).",
+    "place_id": "ChIJzWVdJazD1C8RFUMGEs_-DWE",
+    "data_id": "0x2fd4c3ac255d65cd:0x610dfecf12064315",
+    "data_cid": 6993525961690333973,
+    "gps_coordinates": {
+      "latitude": -0.7996259,
+      "longitude": 100.2944857
+    },
+    "provider_id": "/g/11fhrv8c50",
+    "rating": 4,
+    "reviews": 1,
+    "type": "Community health center",
+    "types": [
+      "Community health center"
+    ],
+    "address": "672V+4QX, Katapiang, Batang Anai, Padang Pariaman Regency, West Sumatra 25586",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=I26X_OI6D3llUTBuGzNWVQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=154.91884&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "672V+4QX",
+    "city": "Padang Pariaman Regency",
+    "state": "West Sumatra",
+    "zip_code": 25586,
+    "country": "ID",
+    "reviews_per_1": 0,
+    "photo_count": 1,
+    "not_claimed": true,
+    "owner": "103587607202535155053",
+    "category": "Pusat Kesehatan Masyarakat",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJzWVdJazD1C8RFUMGEs_-DWE&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/672V%2B4QX+puskesmas+pembantu+(pustu).,+Katapiang,+Kec.+Batang+Anai,+Kabupaten+Padang+Pariaman,+Sumatera+Barat+25586,+Indonesia/@-0.7996259,100.2944857,3989a,13.1y/data=!4m2!3m1!1s0x2fd4c3ac255d65cd:0x610dfecf12064315",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 1,
+    "reviews_per_5": 0,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "PUSKESMAS PEMBANTU",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 6,
+    "language": "en",
+    "location_name": ""
+  }
+]
