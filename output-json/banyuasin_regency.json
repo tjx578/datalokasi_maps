@@ -1,0 +1,192 @@
+[
+  {
+    "title": "Puskesmas Pembantu",
+    "place_id": "ChIJzX8nnfLPOi4RioziOiUoYe8",
+    "data_id": "0x2e3acff29d277fcd:0xef6128253ae28c8a",
+    "data_cid": 17249112188172536970,
+    "gps_coordinates": {
+      "latitude": -2.5308865,
+      "longitude": 104.0790227
+    },
+    "provider_id": "/g/11fzc0lhv1",
+    "rating": 5,
+    "reviews": 1,
+    "type": "Community health center",
+    "types": [
+      "Community health center"
+    ],
+    "address": "F39H+JJR, Bentayan, Tungkal Ilir, Banyuasin Regency, South Sumatra 30755",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KrMjNYGW2NFxNPXxZvE-9w&cb_client=search.gws-prod.gps&w=360&h=120&yaw=145.94052&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "F39H+JJR",
+    "city": "Banyuasin Regency",
+    "state": "South Sumatra",
+    "zip_code": 30755,
+    "country": "ID",
+    "reviews_per_1": 0,
+    "photo_count": 1,
+    "not_claimed": true,
+    "owner": "103020927827273143586",
+    "category": "Pusat Kesehatan Masyarakat",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJzX8nnfLPOi4RioziOiUoYe8&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair accessible restroom",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_restroom"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/F39H%2BJJR+Puskesmas+Pembantu,+Bentayan,+Kec.+Tungkal+Ilir,+Kab.+Banyuasin,+Sumatera+Selatan+30755,+Indonesia/@-2.5308865,104.0790227,3986a,13.1y/data=!4m2!3m1!1s0x2e3acff29d277fcd:0xef6128253ae28c8a",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 0,
+    "reviews_per_5": 1,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "PUSKESMAS PEMBANTU",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 4,
+    "language": "en",
+    "location_name": ""
+  },
+  {
+    "title": "Puskesmas Pembantu (PUSTU) Ds. Paldas",
+    "place_id": "ChIJRU8ZajD5Oi4RXQ24AOQGHLo",
+    "data_id": "0x2e3af9306a194f45:0xba1c06e400b80d5d",
+    "gps_coordinates": {
+      "latitude": -2.9764082,
+      "longitude": 104.1704013
+    },
+    "provider_id": "/g/11jdy_hj00",
+    "rating": 5,
+    "reviews": 1,
+    "type": "Public medical center",
+    "types": [
+      "Public medical center"
+    ],
+    "address": "25FC+C5J, Paldas, Lais, Banyuasin Regency, South Sumatra 30968",
+    "operating_hours": {},
+    "description": {},
+    "street": "25FC+C5J",
+    "city": "Banyuasin Regency",
+    "state": "South Sumatra",
+    "zip_code": 30968,
+    "country": "ID",
+    "not_claimed": true,
+    "owner": "113649695861073757852",
+    "category": "Pusat Kesehatan Masyarakat",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJRU8ZajD5Oi4RXQ24AOQGHLo&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "data_cid": 13410601366736866653,
+    "place_url": "https://www.google.com/maps/preview/place/25FC%2BC5J+Puskesmas+Pembantu+(PUSTU)+Ds.+Paldas,+Paldas,+Kec.+Lais,+Kab.+Banyuasin,+Sumatera+Selatan+30968,+Indonesia/@-2.9764082,104.1704013,3984a,13.1y/data=!4m2!3m1!1s0x2e3af9306a194f45:0xba1c06e400b80d5d",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "reviews_per_1": 0,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 0,
+    "reviews_per_5": 1,
+    "phone": null,
+    "website": null,
+    "thumbnail": null,
+    "photo_count": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "PUSKESMAS PEMBANTU",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 7,
+    "language": "en",
+    "location_name": ""
+  }
+]

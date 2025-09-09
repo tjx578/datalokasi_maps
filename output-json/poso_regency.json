@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Bangunan bersejarah",
+    "place_id": "ChIJ36NGeZqJji0R3LIJpHUUb1Y",
+    "data_id": "0x2d8e899a7946a3df:0x566f1475a409b2dc",
+    "data_cid": 6228219305172513500,
+    "gps_coordinates": {
+      "latitude": -1.5596462999999998,
+      "longitude": 120.3450661
+    },
+    "provider_id": "/g/11twgbzzv9",
+    "rating": 5,
+    "reviews": 1,
+    "type": "Historical landmark",
+    "types": [
+      "Historical landmark"
+    ],
+    "address": "C8QV+WW4, Watutau, Lore Peore, Poso Regency, Central Sulawesi 94653",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqvftDmYYP75epWmaJJjEAqL5hVXHMbgvj91xPT3Z6GeRuNLqLYVXc7KqVAqpkPXPqIMOgPKjJJ9Zl-W7SYcXY833be6BRtbIgsCNXdUJYMGw6rw7VLcHMiJPw5WxP2MW2DSPPdTA=w1600-h1000-k-no",
+    "street": "C8QV+WW4",
+    "city": "Poso Regency",
+    "state": "Central Sulawesi",
+    "zip_code": 94653,
+    "country": "ID",
+    "reviews_per_1": 0,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 0,
+    "reviews_per_5": 1,
+    "photo_count": 10,
+    "not_claimed": true,
+    "owner": "107712521979799864839",
+    "category": "Bangunan Bersejarah",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ36NGeZqJji0R3LIJpHUUb1Y&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Children",
+        "slug": "children",
+        "options": [
+          {
+            "name": "Good for kids",
+            "slug": "/geo/type/establishment_poi/welcomes_children"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/C8QV%2BWW4+Bangunan+bersejarah,+Watutau,+Kec.+Lore+Peore,+Kabupaten+Poso,+Sulawesi+Tengah+94653,+Indonesia/@-1.5596463,120.3450661,3988a,13.1y/data=!4m2!3m1!1s0x2d8e899a7946a3df:0x566f1475a409b2dc",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "BANGUNAN BERSEJARAH",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 1,
+    "language": "en",
+    "location_name": ""
+  }
+]

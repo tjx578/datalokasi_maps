@@ -1,0 +1,236 @@
+[
+  {
+    "title": "Crossroads Cafe",
+    "place_id": "ChIJf_1kFgBX0DERZWysONxRhhU",
+    "data_id": "0x31d057001664fd7f:0x158651dc38ac6c65",
+    "data_cid": 1551017127961193573,
+    "gps_coordinates": {
+      "latitude": 1.8498183,
+      "longitude": 102.9275359
+    },
+    "provider_id": "/g/11w8s6xc0k",
+    "rating": 4.7,
+    "reviews": 173,
+    "price": "RM 1–20",
+    "type": "Family restaurant",
+    "types": [
+      "Family restaurant"
+    ],
+    "address": "21, Jln Rahmat, Kampung Pegawai, 83000 Batu Pahat, Johor Darul Ta'zim, Malaysia",
+    "open_state": "Closes soon ⋅ 2 AM ⋅ Reopens 1 PM",
+    "operating_hours": {
+      "sunday": "3 PM–2 AM",
+      "monday": "1 PM–2 AM",
+      "tuesday": "1 PM–2 AM",
+      "wednesday": "1 PM–2 AM",
+      "thursday": "1 PM–2 AM",
+      "friday": "1 PM–2 AM",
+      "saturday": "1 PM–2 AM"
+    },
+    "phone": "+60 17-346 4059",
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TTd6rD2OzPBzv4CDLHmNgw&cb_client=search.gws-prod.gps&w=211&h=120&yaw=207.3484&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "21, Jln Rahmat",
+    "city": "Batu Pahat",
+    "state": "Johor",
+    "zip_code": 83000,
+    "country": "MY",
+    "reviews_per_1": 8,
+    "reviews_per_2": 1,
+    "reviews_per_3": 5,
+    "reviews_per_4": 9,
+    "reviews_per_5": 150,
+    "photo_count": 176,
+    "not_claimed": true,
+    "owner": "109932606978918846837",
+    "category": "restaurants",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJf_1kFgBX0DERZWysONxRhhU&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Service options",
+        "slug": "service_options",
+        "options": [
+          {
+            "name": "Takeout",
+            "slug": "/geo/type/establishment_poi/has_takeout"
+          },
+          {
+            "name": "Dine-in",
+            "slug": "/geo/type/establishment_poi/serves_dine_in"
+          }
+        ]
+      },
+      {
+        "name": "Popular for",
+        "slug": "popular_for",
+        "options": [
+          {
+            "name": "Dinner",
+            "slug": "/geo/type/establishment_poi/serves_dinner_popular"
+          },
+          {
+            "name": "Solo dining",
+            "slug": "/geo/type/establishment_poi/suitable_for_solo_dining"
+          }
+        ]
+      },
+      {
+        "name": "Offerings",
+        "slug": "offerings",
+        "options": [
+          {
+            "name": "Coffee",
+            "slug": "/geo/type/establishment_poi/serves_coffee"
+          },
+          {
+            "name": "Quick bite",
+            "slug": "/geo/type/establishment_poi/quick_bite"
+          },
+          {
+            "name": "Small plates",
+            "slug": "/geo/type/establishment_poi/serves_small_plates"
+          }
+        ]
+      },
+      {
+        "name": "Dining options",
+        "slug": "dining_options",
+        "options": [
+          {
+            "name": "Breakfast",
+            "slug": "/geo/type/establishment_poi/serves_breakfast"
+          },
+          {
+            "name": "Dinner",
+            "slug": "/geo/type/establishment_poi/serves_dinner"
+          },
+          {
+            "name": "Table service",
+            "slug": "/geo/type/establishment_poi/has_table_service"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      },
+      {
+        "name": "Atmosphere",
+        "slug": "atmosphere",
+        "options": [
+          {
+            "name": "Casual",
+            "slug": "/geo/type/establishment_poi/feels_casual"
+          },
+          {
+            "name": "Cozy",
+            "slug": "/geo/type/establishment_poi/feels_cozy"
+          }
+        ]
+      },
+      {
+        "name": "Crowd",
+        "slug": "crowd",
+        "options": [
+          {
+            "name": "Groups",
+            "slug": "/geo/type/establishment_poi/suitable_for_groups"
+          }
+        ]
+      },
+      {
+        "name": "Planning",
+        "slug": "planning",
+        "options": [
+          {
+            "name": "Accepts reservations",
+            "slug": "/geo/type/establishment_poi/accepts_reservations"
+          }
+        ]
+      },
+      {
+        "name": "Payments",
+        "slug": "payments",
+        "options": [
+          {
+            "name": "NFC mobile payments",
+            "slug": "/geo/type/establishment_poi/pay_mobile_nfc"
+          }
+        ]
+      },
+      {
+        "name": "Children",
+        "slug": "children",
+        "options": [
+          {
+            "name": "Good for kids",
+            "slug": "/geo/type/establishment_poi/welcomes_children"
+          }
+        ]
+      },
+      {
+        "name": "Parking",
+        "slug": "parking",
+        "options": [
+          {
+            "name": "Free parking lot",
+            "slug": "/geo/type/establishment_poi/has_parking_lot_free"
+          },
+          {
+            "name": "Free street parking",
+            "slug": "/geo/type/establishment_poi/has_parking_street_free"
+          },
+          {
+            "name": "Parking",
+            "slug": "/geo/type/establishment_poi/parking_availability"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/Crossroads+Cafe,+21,+Jln+Rahmat,+Kampung+Pegawai,+83000+Batu+Pahat,+Johor,+Malaysia/@1.8498183,102.9275359,3988a,13.1y/data=!4m2!3m1!1s0x31d057001664fd7f:0x158651dc38ac6c65",
+    "note_from_owner": null,
+    "description_arr": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "query": "CROSSROAD(S)",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 1,
+    "language": "en",
+    "location_name": ""
+  }
+]

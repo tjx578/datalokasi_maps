@@ -1,0 +1,200 @@
+[
+  {
+    "title": "Cagar Budaya Gunung Karamat",
+    "place_id": "ChIJk1g5zPqHQi4RalneyRIWM70",
+    "data_id": "0x2e4287facc395893:0xbd331612c9de596a",
+    "data_cid": 13633264766932638058,
+    "gps_coordinates": {
+      "latitude": -6.887713199999999,
+      "longitude": 106.43068339999999
+    },
+    "provider_id": "/g/11j4v1yr34",
+    "rating": 4.8,
+    "reviews": 5,
+    "type": "Off roading area",
+    "types": [
+      "Off roading area"
+    ],
+    "address": "4C6J+W77, Gunung Kramat, Cisolok, Sukabumi Regency, West Java 43366",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqPv-YGbix8t8wVjw8lkH8VWYeHiHG3RVS4wlbqzMsYRuEyylNsYgs3rQQ1WSWA7C19zEIaILmTwgEYNPjuS01IN-pJyf7SJHmS9PkgxyD9fJcJEuquuj02N_4J44QF2h8VSwpvjA=w1600-h1000-k-no",
+    "street": "4C6J+W77",
+    "city": "Sukabumi Regency",
+    "state": "West Java",
+    "zip_code": 43366,
+    "country": "ID",
+    "reviews_per_1": 0,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 1,
+    "reviews_per_5": 4,
+    "photo_count": 11,
+    "not_claimed": true,
+    "owner": "115025218350957788057",
+    "category": "attractions",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJk1g5zPqHQi4RalneyRIWM70&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          }
+        ]
+      },
+      {
+        "name": "Children",
+        "slug": "children",
+        "options": [
+          {
+            "name": "Good for kids",
+            "slug": "/geo/type/establishment_poi/welcomes_children"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/4C6J%2BW77+Cagar+Budaya+Gunung+Karamat,+Gn.+Kramat,+Kec.+Cisolok,+Kabupaten+Sukabumi,+Jawa+Barat+43366,+Indonesia/@-6.8877132,106.4306834,3961a,13.1y/data=!4m2!3m1!1s0x2e4287facc395893:0xbd331612c9de596a",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "CAGAR BUDAYA",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 1,
+    "language": "en",
+    "location_name": ""
+  },
+  {
+    "title": "PUSKESMAS Pembantu",
+    "place_id": "ChIJO1nlsLkeaC4RAADVzPUuO78",
+    "data_id": "0x2e681eb9b0e5593b:0xbf3b2ef5ccd50000",
+    "data_cid": 13779659118108540928,
+    "gps_coordinates": {
+      "latitude": -7.1962592,
+      "longitude": 106.6153655
+    },
+    "provider_id": "/g/11f_j37128",
+    "rating": 5,
+    "reviews": 1,
+    "type": "Public health department",
+    "types": [
+      "Public health department"
+    ],
+    "address": "RJ38+F4X, Waluran Mandiri, Waluran, Sukabumi Regency, West Java 43175",
+    "open_state": "Open ⋅ Closes 3 AM ⋅ Reopens 8 AM",
+    "operating_hours": {
+      "sunday": "8 AM–3 AM",
+      "monday": "8 AM–3 AM",
+      "tuesday": "Closed",
+      "wednesday": "8 AM–3 AM",
+      "thursday": "8 AM–3 AM",
+      "friday": "8 AM–3 AM",
+      "saturday": "8 AM–3 AM"
+    },
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=y_Fy3fw5_upQkgSTq0tc_A&cb_client=search.gws-prod.gps&w=360&h=120&yaw=186.15816&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "RJ38+F4X",
+    "city": "Sukabumi Regency",
+    "state": "West Java",
+    "zip_code": 43175,
+    "country": "ID",
+    "reviews_per_1": 0,
+    "photo_count": 1,
+    "not_claimed": true,
+    "owner": "113116789168021348207",
+    "category": "Dinas Kesehatan",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJO1nlsLkeaC4RAADVzPUuO78&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/RJ38%2BF4X+PUSKESMAS+Pembantu,+Waluran+Mandiri,+Kec.+Waluran,+Kabupaten+Sukabumi,+Jawa+Barat+43175,+Indonesia/@-7.1962592,106.6153655,3958a,13.1y/data=!4m2!3m1!1s0x2e681eb9b0e5593b:0xbf3b2ef5ccd50000",
+    "note_from_owner": null,
+    "description_arr": null,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 0,
+    "reviews_per_5": 1,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "PUSKESMAS PEMBANTU",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 3,
+    "language": "en",
+    "location_name": ""
+  }
+]

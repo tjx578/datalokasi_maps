@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Puskesmas Pembantu (Pustu) Dara",
+    "place_id": "ChIJ50opSaGJtS0RsMA2As1FJ3c",
+    "data_id": "0x2db589a149294ae7:0x772745cd0236c0b0",
+    "data_cid": 8585907961412894896,
+    "gps_coordinates": {
+      "latitude": -8.491810899999999,
+      "longitude": 118.7151246
+    },
+    "provider_id": "/g/11hcym3zm6",
+    "rating": 5,
+    "reviews": 2,
+    "type": "Community health center",
+    "types": [
+      "Community health center"
+    ],
+    "address": "GP58+72H, Dara, Rasanae Barat, Bima Regency, West Nusa Tenggara 84111",
+    "open_state": "Open 24 hours",
+    "operating_hours": {
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours"
+    },
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NsulAM7ccRvRUZs9hJvJkQ&cb_client=search.gws-prod.gps&w=360&h=120&yaw=301.55063&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "GP58+72H",
+    "city": "Bima Regency",
+    "state": "West Nusa Tenggara",
+    "zip_code": 84111,
+    "country": "ID",
+    "reviews_per_1": 0,
+    "photo_count": 1,
+    "not_claimed": true,
+    "owner": "104108922477562173599",
+    "category": "Pusat Kesehatan Masyarakat",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ50opSaGJtS0RsMA2As1FJ3c&authuser=0&hl=en&gl=US",
+    "service_option": [
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Restroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/GP58%2B72H+Puskesmas+Pembantu+(Pustu)+Dara,+Dara,+Kec.+Rasanae+Bar.,+Kabupaten+Bima,+Nusa+Tenggara+Bar.+84111,+Indonesia/@-8.4918109,118.7151246,3946a,13.1y/data=!4m2!3m1!1s0x2db589a149294ae7:0x772745cd0236c0b0",
+    "note_from_owner": null,
+    "description_arr": null,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 0,
+    "reviews_per_5": 2,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "contacts": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "linkedin_name": null,
+    "linkedin_url": null,
+    "linkedin_username": null,
+    "linkedin_description": null,
+    "linkedin_numberOfEmployees": null,
+    "linkedin_website": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "PUSKESMAS PEMBANTU",
+    "location": "KABUPATEN JEMBRANA",
+    "start": 1,
+    "language": "en",
+    "location_name": ""
+  }
+]
