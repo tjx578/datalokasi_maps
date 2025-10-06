@@ -1,0 +1,243 @@
+[
+  {
+    "title": "Taman Sidoarjo PHC",
+    "place_id": "ChIJL_9Mh7X81y0RUDxvIZd0uQ0",
+    "data_id": "0x2dd7fcb5874cff2f:0xdb97497216f3c50",
+    "data_cid": 988949785634356304,
+    "gps_coordinates": {
+      "latitude": -7.347423,
+      "longitude": 112.69084199999999
+    },
+    "provider_id": "/g/11b67fr_m0",
+    "rating": 4.4,
+    "reviews": 1765,
+    "type": "Public medical center",
+    "types": [
+      "Public medical center"
+    ],
+    "address": "Jl. Raya Ngelom No.50, Ngelom, Kec. Taman, Kabupaten Sidoarjo, Jawa Timur 61257",
+    "open_state": "Open 24 hours",
+    "operating_hours": {
+      "sunday": "Open 24 hours",
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours"
+    },
+    "phone": "+62 31 7881201",
+    "website": "http://puskesmastaman.sidoarjokab.go.id/",
+    "description": {},
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr_U6upwFnnJqI9cyQDT7yA9fiQ-rcfKs7Lc08ze3iNQmfcVYvKfvjpc9c10-Gz-6r-pWsCpqwyfxo0_0C6ghiYqkgDeauyIwXf3gipY3nDvzw1ZElAp1sOn7G4wusS6-_7jAA46g=w1600-h1000-k-no",
+    "street": "Jl. Raya Ngelom No.50",
+    "city": "Sidoarjo Regency",
+    "state": "East Java",
+    "zip_code": 61257,
+    "country": "ID",
+    "reviews_per_1": 190,
+    "reviews_per_2": 28,
+    "reviews_per_3": 31,
+    "reviews_per_4": 67,
+    "reviews_per_5": 1449,
+    "photo_count": 295,
+    "logo": "https://lh6.googleusercontent.com/-CHTx_r9AxPQ/AAAAAAAAAAI/AAAAAAAAAAA/Cu61dnEHOnw/s44-p-k-no-ns-nd/photo.jpg",
+    "owner": "100233777757116424953",
+    "category": "Pusat Kesehatan Masyarakat",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJL_9Mh7X81y0RUDxvIZd0uQ0&authuser=0&hl=en&gl=CA",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Wheelchair-accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          },
+          {
+            "name": "Wheelchair-accessible washroom",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_restroom"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Washroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/Taman+Sidoarjo+PHC,+Jl.+Raya+Ngelom+No.50,+Ngelom,+Taman,+Sidoarjo+Regency,+East+Java+61257,+Indonesia/@-7.347423,112.690842,3957a,13.1y/data=!4m2!3m1!1s0x2dd7fcb5874cff2f:0xdb97497216f3c50",
+    "note_from_owner": "Puskesmas Perkotaan dengan melayani 24 Jam dan Rawat Inap serta Persalinan dan Kandungan",
+    "description_arr": null,
+    "not_claimed": false,
+    "email": [],
+    "social_media_links": [
+      "http://www.twitter.com",
+      "http://www.facebook.com"
+    ],
+    "facebook": "http://www.facebook.com",
+    "twitter": "http://www.twitter.com",
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "puskesmas",
+    "location": "Denpasar, gianyar, ",
+    "start": 4,
+    "language": "en",
+    "location_name": ""
+  },
+  {
+    "title": "Puskesmas Sidoarjo",
+    "place_id": "ChIJj2dI_crm1y0RKFBg4Lke5u8",
+    "data_id": "0x2dd7e6cafd48678f:0xefe61eb9e0605028",
+    "data_cid": 17286538003390418984,
+    "gps_coordinates": {
+      "latitude": -7.4446534,
+      "longitude": 112.71554649999999
+    },
+    "provider_id": "/g/1pzrrhmkv",
+    "rating": 4.3,
+    "reviews": 755,
+    "type": "Public medical center",
+    "types": [
+      "Public medical center"
+    ],
+    "address": "Jl. Dr. Soetomo No.14, Gajah Timur, Magersari, Kec. Sidoarjo, Kabupaten Sidoarjo, Jawa Timur 61212",
+    "open_state": "Closed ⋅ Opens 7:30 a.m.",
+    "operating_hours": {
+      "sunday": "7:30–10 a.m.",
+      "monday": "7:30–11 a.m.",
+      "tuesday": "Closed",
+      "wednesday": "7:30–11:30 a.m.",
+      "thursday": "7:30–11:30 a.m.",
+      "friday": "7:30–11:30 a.m.",
+      "saturday": "7:30–11:30 a.m."
+    },
+    "phone": "+62 31 8921956",
+    "website": "http://puskesmassidoarjo.sidoarjokab.go.id/",
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DlGUwreQ3BV2eCZ1D0K4wQ&cb_client=search.gws-prod.gps&w=211&h=120&yaw=280.7349&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "Jl. Dr. Soetomo No.14",
+    "city": "Sidoarjo Regency",
+    "state": "East Java",
+    "zip_code": 61212,
+    "country": "ID",
+    "reviews_per_1": 88,
+    "reviews_per_2": 26,
+    "reviews_per_3": 22,
+    "reviews_per_4": 43,
+    "reviews_per_5": 576,
+    "photo_count": 94,
+    "logo": "https://lh6.googleusercontent.com/-nerbhHd7lX8/AAAAAAAAAAI/AAAAAAAAAAA/PdlgWdSmxPM/s44-p-k-no-ns-nd/photo.jpg",
+    "owner": "111223822377135000984",
+    "category": "Pusat Kesehatan Masyarakat",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJj2dI_crm1y0RKFBg4Lke5u8&authuser=0&hl=en&gl=CA",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair accessible seating",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_seating"
+          },
+          {
+            "name": "Wheelchair-accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Wheelchair-accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          },
+          {
+            "name": "Wheelchair-accessible washroom",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_restroom"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Gender-neutral washroom",
+            "slug": "/geo/type/establishment_poi/has_restroom_unisex"
+          },
+          {
+            "name": "Washroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      },
+      {
+        "name": "Children",
+        "slug": "children",
+        "options": [
+          {
+            "name": "Nursing room",
+            "slug": "/geo/type/establishment_poi/has_lactation_space"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/Puskesmas+Sidoarjo,+Jl.+Dr.+Soetomo+No.14,+Gajah+Timur,+Magersari,+Sidoarjo,+Sidoarjo+Regency,+East+Java+61212,+Indonesia/@-7.4446534,112.7155465,3956a,13.1y/data=!4m2!3m1!1s0x2dd7e6cafd48678f:0xefe61eb9e0605028",
+    "note_from_owner": "Puskesmas Sidoarjo, puskesmas rawat jalan, puskesmas kota",
+    "description_arr": null,
+    "not_claimed": false,
+    "email": [],
+    "social_media_links": [
+      "http://www.twitter.com"
+    ],
+    "facebook": null,
+    "twitter": "http://www.twitter.com",
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "puskesmas",
+    "location": "Denpasar, gianyar, ",
+    "start": 9,
+    "language": "en",
+    "location_name": ""
+  }
+]

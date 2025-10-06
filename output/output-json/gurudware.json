@@ -1,0 +1,85 @@
+[
+  {
+    "title": "Arjun nagar Obaidulla ganj madhya pradesh",
+    "place_id": "ChIJ04eBLgAj0i0RVfjPnQ79BSw",
+    "data_id": "0x2dd223002e8187d3:0x2c05fd0e9dcff855",
+    "gps_coordinates": {
+      "latitude": -8.4095178,
+      "longitude": 115.18891599999999
+    },
+    "provider_id": "/g/11w234d9st",
+    "type": "Government office",
+    "types": [
+      "Government office"
+    ],
+    "address": "Word no.10 Gali no.1, Gurudware, Bali",
+    "operating_hours": {},
+    "description": {},
+    "street": "Word no.10 Gali no.1",
+    "city": "Gurudware",
+    "state": "Bali",
+    "country": "ID",
+    "not_claimed": true,
+    "owner": "105626965279963627690",
+    "category": "Government office",
+    "service_option": [
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Washroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "data_cid": 3172219751771404373,
+    "rating": null,
+    "reviews": null,
+    "place_url": "https://www.google.com/maps/preview/place/Arjun+nagar+Obaidulla+ganj+madhya+pradesh,+Word+no.10+Gali+no.1,+Gurudware,+Bali,+Indonesia/@-8.4095178,115.188916,3947a,13.1y/data=!4m2!3m1!1s0x2dd223002e8187d3:0x2c05fd0e9dcff855",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "reviews_per_1": null,
+    "reviews_per_2": null,
+    "reviews_per_3": null,
+    "reviews_per_4": null,
+    "reviews_per_5": null,
+    "phone": null,
+    "website": null,
+    "thumbnail": null,
+    "zip_code": null,
+    "photo_count": null,
+    "logo": null,
+    "reviews_link": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "kantor pemerintahan",
+    "location": "bali",
+    "start": 0,
+    "language": "en",
+    "location_name": ""
+  }
+]

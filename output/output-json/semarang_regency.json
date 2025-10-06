@@ -1,0 +1,115 @@
+[
+  {
+    "title": "Palagan Ambarawa Monument",
+    "place_id": "ChIJ6UqOtAqBcC4R6x4Cn62mY4M",
+    "data_id": "0x2e70810ab48e4ae9:0x8363a6ad9f021eeb",
+    "data_cid": 9467594106290183915,
+    "gps_coordinates": {
+      "latitude": -7.259886099999999,
+      "longitude": 110.4025602
+    },
+    "provider_id": "/g/120hzfhg",
+    "rating": 4.5,
+    "reviews": 4583,
+    "type": "Monument",
+    "types": [
+      "Monument",
+      "Attraction",
+      "Tourist attraction"
+    ],
+    "address": "PCR3+22V, Jl. Mgr. Sugiyopranoto, Panjang Lor, Panjang, Kec. Ambarawa, Kabupaten Semarang, Jawa Tengah 50614",
+    "open_state": "Closed ⋅ Opens 8 a.m.",
+    "operating_hours": {
+      "sunday": "8 a.m.–6 p.m.",
+      "monday": "8 a.m.–6 p.m.",
+      "tuesday": "8 a.m.–6 p.m.",
+      "wednesday": "8 a.m.–6 p.m.",
+      "thursday": "8 a.m.–6 p.m.",
+      "friday": "8 a.m.–6 p.m.",
+      "saturday": "8 a.m.–6 p.m."
+    },
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=znxH3IqSWvo2y9rIfEva9A&cb_client=search.gws-prod.gps&w=211&h=120&yaw=297.11035&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "PCR3+22V, Jl. Mgr. Sugiyopranoto",
+    "city": "Semarang Regency",
+    "state": "Central Java",
+    "zip_code": 50614,
+    "country": "ID",
+    "reviews_per_1": 117,
+    "reviews_per_2": 75,
+    "reviews_per_3": 405,
+    "reviews_per_4": 939,
+    "reviews_per_5": 3047,
+    "photo_count": 5279,
+    "owner": "105360936351845321358",
+    "category": "attractions",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ6UqOtAqBcC4R6x4Cn62mY4M&authuser=0&hl=en&gl=CA",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          }
+        ]
+      },
+      {
+        "name": "Children",
+        "slug": "children",
+        "options": [
+          {
+            "name": "Good for kids",
+            "slug": "/geo/type/establishment_poi/welcomes_children"
+          }
+        ]
+      },
+      {
+        "name": "Parking",
+        "slug": "parking",
+        "options": [
+          {
+            "name": "Free parking lot",
+            "slug": "/geo/type/establishment_poi/has_parking_lot_free"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/PCR3%2B22V+Palagan+Ambarawa+Monument,+Jl.+Mgr.+Sugiyopranoto,+Panjang+Lor,+Panjang,+Ambarawa,+Semarang+Regency,+Central+Java+50614,+Indonesia/@-7.2598861,110.4025602,3958a,13.1y/data=!4m2!3m1!1s0x2e70810ab48e4ae9:0x8363a6ad9f021eeb",
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "not_claimed": false,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "monumen",
+    "location": "Denpasar, gianyar",
+    "start": 2,
+    "language": "en",
+    "location_name": ""
+  }
+]

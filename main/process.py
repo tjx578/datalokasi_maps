@@ -4,8 +4,8 @@ import csv
 from collections import defaultdict
 
 INPUT_FOLDER = "raw-data"
-OUTPUT_FOLDER = "output-json"
-CSV_FILE = "output-data.csv"
+OUTPUT_FOLDER = "../output/output-json"
+CSV_FILE = "../output/output-data.csv"
 
 # --- 1. Validasi folder input ---
 if not os.path.isdir(INPUT_FOLDER):

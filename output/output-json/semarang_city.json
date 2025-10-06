@@ -1,0 +1,178 @@
+[
+  {
+    "title": "Kantor Kelurahan Tembalang",
+    "place_id": "ChIJ0Qekcq-OcC4RX5HuAiXL4zE",
+    "data_id": "0x2e708eaf72a407d1:0x31e3cb2502ee915f",
+    "data_cid": 3594940287395205471,
+    "gps_coordinates": {
+      "latitude": -7.0595573,
+      "longitude": 110.4391572
+    },
+    "provider_id": "/g/1pzv_yttj",
+    "rating": 4,
+    "reviews": 23,
+    "type": "District government office",
+    "types": [
+      "District government office"
+    ],
+    "address": "Jl. Banjarsari No.35, Tembalang, Kec. Tembalang, Kota Semarang, Jawa Tengah 50275",
+    "open_state": "Closed ⋅ Opens 7:30 a.m.",
+    "operating_hours": {
+      "sunday": "7:30 a.m.–2 p.m.",
+      "monday": "Closed",
+      "tuesday": "Closed",
+      "wednesday": "8 a.m.–4 p.m.",
+      "thursday": "8 a.m.–4 p.m.",
+      "friday": "8 a.m.–4 p.m.",
+      "saturday": "8 a.m.–4 p.m."
+    },
+    "phone": "+62 24 7466707",
+    "website": "http://pencarian-alamat.blogspot.com/2016/11/alamat-kantor-kelurahan-tembalang.html",
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bIkCq3RuitI8cbctoZ_z4w&cb_client=search.gws-prod.gps&w=211&h=120&yaw=10.3093605&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "Jl. Banjarsari No.35",
+    "city": "Semarang City",
+    "state": "Central Java",
+    "zip_code": 50275,
+    "country": "ID",
+    "reviews_per_1": 2,
+    "reviews_per_2": 1,
+    "reviews_per_3": 4,
+    "reviews_per_4": 5,
+    "reviews_per_5": 11,
+    "photo_count": 27,
+    "not_claimed": true,
+    "owner": "104050042383223762294",
+    "category": "Kantor Pemerintah Distrik",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ0Qekcq-OcC4RX5HuAiXL4zE&authuser=0&hl=en&gl=CA",
+    "service_option": [
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Washroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/Kantor+Kelurahan+Tembalang,+Jl.+Banjarsari+No.35,+Tembalang,+Kec.+Tembalang,+Kota+Semarang,+Jawa+Tengah+50275,+Indonesia/@-7.0595573,110.4391572,3960a,13.1y/data=!4m2!3m1!1s0x2e708eaf72a407d1:0x31e3cb2502ee915f",
+    "note_from_owner": null,
+    "description_arr": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [
+      "http://twitter.com/share"
+    ],
+    "facebook": null,
+    "twitter": "http://twitter.com/share",
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "kantor lurah",
+    "location": "Denpasar, gianyar, ",
+    "start": 2,
+    "language": "en",
+    "location_name": ""
+  },
+  {
+    "title": "Kelurahan",
+    "place_id": "ChIJXz95Xf6NcC4R6R72K6cK2OE",
+    "data_id": "0x2e708dfe5d793f5f:0xe1d80aa72bf61ee9",
+    "data_cid": 16273768966616653545,
+    "gps_coordinates": {
+      "latitude": -7.0134498,
+      "longitude": 110.4502361
+    },
+    "provider_id": "/g/11j9cjrgyh",
+    "rating": 5,
+    "reviews": 3,
+    "type": "Corporate office",
+    "types": [
+      "Corporate office"
+    ],
+    "address": "XFP2+J3H, Jalan Jl. Kedungmundu, Tandang, Tembalang, Semarang City, Central Java 50274",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MweG5_BJCXXUdvCwhhIqFA&cb_client=search.gws-prod.gps&w=211&h=120&yaw=130.29208&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "XFP2+J3H, Jalan Jl. Kedungmundu",
+    "city": "Semarang City",
+    "state": "Central Java",
+    "zip_code": 50274,
+    "country": "ID",
+    "reviews_per_1": 0,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 0,
+    "reviews_per_5": 3,
+    "photo_count": 9,
+    "not_claimed": true,
+    "owner": "107200943519140758810",
+    "category": "Kantor Perusahaan",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJXz95Xf6NcC4R6R72K6cK2OE&authuser=0&hl=en&gl=CA",
+    "service_option": [
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Washroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/XFP2%2BJ3H+Kelurahan,+Jalan+Jl.+Kedungmundu,+Tandang,+Kec.+Tembalang,+Kota+Semarang,+Jawa+Tengah+50274,+Indonesia/@-7.0134498,110.4502361,3960a,13.1y/data=!4m2!3m1!1s0x2e708dfe5d793f5f:0xe1d80aa72bf61ee9",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "kantor lurah",
+    "location": "Denpasar, gianyar, ",
+    "start": 3,
+    "language": "en",
+    "location_name": ""
+  }
+]

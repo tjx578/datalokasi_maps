@@ -12,9 +12,7 @@ Struktur
 main/
 ├─ raw-data/              # taruh JSON mentah di sini
 │  └─ .gitkeep
-├─ process.py
-└─ .github/workflows/
-   └─ process.yml
+└─ process.py
 
 output/
 ├─ output-json/
@@ -25,14 +23,14 @@ output/
 
 Cara pakai
 
-Upload JSON mentah ke raw-data/ → commit & push ke main.
+Upload JSON mentah ke main/raw-data/ → commit & push ke main.
 
 Actions jalan otomatis → hasil muncul di branch output.
 
 Link Raw (untuk Custom GPT / publik):
 
 JSON per kab/kota
-https://raw.githubusercontent.com/<tjx578>/lokasi-data/output/output-json/gianyar_regency.json
+https://raw.githubusercontent.com/tjx578/datalokasi_maps/output/output-json/gianyar_regency.json
 
 CSV besar
-https://raw.githubusercontent.com/<tjx578>/lokasi-data/output/output-data.csv
+https://raw.githubusercontent.com/tjx578/datalokasi_maps/output/output-data.csv
