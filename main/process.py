@@ -3,7 +3,7 @@ import json
 import csv
 from collections import defaultdict
 
-INPUT_FOLDER = "raw-data"
+INPUT_FOLDER = "main/raw-data"
 OUTPUT_FOLDER = "output-json"
 CSV_FILE = "output-data.csv"
 
