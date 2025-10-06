@@ -30,7 +30,7 @@ jobs:
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
       - name: Run processor
-        run: python main/process.py
+        run: cd main && python process.py
 
       - name: Commit outputs to repo
         uses: stefanzweifel/git-auto-commit-action@v5

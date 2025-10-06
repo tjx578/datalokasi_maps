@@ -1,0 +1,99 @@
+[
+  {
+    "title": "puskesmas pembantu",
+    "place_id": "ChIJNZVpSeF3cC4RwGuUyh6kO5o",
+    "data_id": "0x2e7077e149699535:0x9a3ba41eca946bc0",
+    "data_cid": 11113656957621529536,
+    "gps_coordinates": {
+      "latitude": -7.277613,
+      "longitude": 110.0731891
+    },
+    "provider_id": "/g/11j13jdpfc",
+    "rating": 3,
+    "reviews": 1,
+    "type": "Corporate office",
+    "types": [
+      "Corporate office"
+    ],
+    "address": "P3CF+X74, Gundangan, Watukumpul, Kec. Parakan, Kabupaten Temanggung, Jawa Tengah 56254",
+    "operating_hours": {},
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AthkfHe9qIY5WxyV5Xagzw&cb_client=search.gws-prod.gps&w=360&h=120&yaw=307.76376&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "P3CF+X74",
+    "city": "Temanggung Regency",
+    "state": "Central Java",
+    "zip_code": 56254,
+    "country": "ID",
+    "reviews_per_1": 0,
+    "photo_count": 1,
+    "not_claimed": true,
+    "owner": "107184245133508842913",
+    "category": "Kantor Perusahaan",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJNZVpSeF3cC4RwGuUyh6kO5o&authuser=0&hl=en&gl=CA",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Wheelchair-accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Washroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/P3CF%2BX74+puskesmas+pembantu,+Gundangan,+Watukumpul,+Kec.+Parakan,+Kabupaten+Temanggung,+Jawa+Tengah+56254,+Indonesia/@-7.277613,110.0731891,3958a,13.1y/data=!4m2!3m1!1s0x2e7077e149699535:0x9a3ba41eca946bc0",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "reviews_per_2": 0,
+    "reviews_per_3": 1,
+    "reviews_per_4": 0,
+    "reviews_per_5": 0,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "puskesmas pembantu",
+    "location": "Denpasar, gianyar",
+    "start": 5,
+    "language": "en",
+    "location_name": ""
+  }
+]

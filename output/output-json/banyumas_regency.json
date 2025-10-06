@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Kantor Pemerintahan Desa Datar",
+    "place_id": "ChIJu4MQq9RfZS4RENXoY9o6djE",
+    "data_id": "0x2e655fd4ab1083bb:0x31763ada63e8d510",
+    "data_cid": 3564100864763811088,
+    "gps_coordinates": {
+      "latitude": -7.3716905,
+      "longitude": 109.2527638
+    },
+    "provider_id": "/g/11f6dqjv04",
+    "rating": 5,
+    "reviews": 2,
+    "type": "County government office",
+    "types": [
+      "County government office"
+    ],
+    "address": "J7H3+84C, Jl. Wangsajaya, Dusun II, Datar, Kec. Sumbang, Kabupaten Banyumas, Jawa Tengah 53183",
+    "open_state": "Closed ⋅ Opens 12 a.m. Mon",
+    "operating_hours": {
+      "sunday": "Closed",
+      "monday": "Closed",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours"
+    },
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cu2pJKWgt1WcQNbTJXhDfA&cb_client=search.gws-prod.gps&w=211&h=120&yaw=331.13358&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "J7H3+84C, Jl. Wangsajaya",
+    "city": "Banyumas Regency",
+    "state": "Central Java",
+    "zip_code": 53183,
+    "country": "ID",
+    "reviews_per_1": 0,
+    "reviews_per_2": 0,
+    "reviews_per_3": 0,
+    "reviews_per_4": 0,
+    "reviews_per_5": 2,
+    "photo_count": 28,
+    "not_claimed": true,
+    "owner": "112805601895620258870",
+    "category": "Kantor Pemerintahan Wilayah",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJu4MQq9RfZS4RENXoY9o6djE&authuser=0&hl=en&gl=CA",
+    "service_option": [
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Washroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/J7H3%2B84C+Kantor+Pemerintahan+Desa+Datar,+Jl.+Wangsajaya,+Dusun+II,+Datar,+Kec.+Sumbang,+Kabupaten+Banyumas,+Jawa+Tengah+53183,+Indonesia/@-7.3716905,109.2527638,3957a,13.1y/data=!4m2!3m1!1s0x2e655fd4ab1083bb:0x31763ada63e8d510",
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "kantor pemerintahan",
+    "location": "denpasar, gianyar",
+    "start": 10,
+    "language": "id",
+    "location_name": ""
+  }
+]

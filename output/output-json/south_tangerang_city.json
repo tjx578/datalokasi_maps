@@ -1,0 +1,203 @@
+[
+  {
+    "title": "PHC Pondok Kacang East",
+    "place_id": "ChIJv3VyP1r6aS4RoV1UXUoK6w0",
+    "data_id": "0x2e69fa5a3f7275bf:0xdeb0a4a5d545da1",
+    "data_cid": 1002906656529735073,
+    "gps_coordinates": {
+      "latitude": -6.2559078,
+      "longitude": 106.6896915
+    },
+    "provider_id": "/g/11b6dnr1f7",
+    "rating": 3.7,
+    "reviews": 367,
+    "type": "Public medical center",
+    "types": [
+      "Public medical center",
+      "Community health center"
+    ],
+    "address": "Jl. Gelora I No.1A, Pd. Kacang Tim., Kec. Pd. Aren, Kota Tangerang Selatan, Banten 15224",
+    "open_state": "Closed ⋅ Opens 7:30 a.m.",
+    "operating_hours": {
+      "sunday": "7:30 a.m.–2:30 p.m.",
+      "monday": "7:30 a.m.–2 p.m.",
+      "tuesday": "Closed",
+      "wednesday": "7:30 a.m.–2 p.m.",
+      "thursday": "7:30 a.m.–2 p.m.",
+      "friday": "7:30 a.m.–2 p.m.",
+      "saturday": "7:30 a.m.–2 p.m."
+    },
+    "phone": "+62 21 22271323",
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MuFA6gVqnvfxjgRV-tiiFA&cb_client=search.gws-prod.gps&w=211&h=120&yaw=341.4235&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "Jl. Gelora I No.1A",
+    "city": "South Tangerang City",
+    "state": "Banten",
+    "zip_code": 15224,
+    "country": "ID",
+    "reviews_per_1": 102,
+    "reviews_per_2": 14,
+    "reviews_per_3": 11,
+    "reviews_per_4": 18,
+    "reviews_per_5": 222,
+    "photo_count": 82,
+    "logo": "https://lh5.googleusercontent.com/-Fo36sPsfbuE/AAAAAAAAAAI/AAAAAAAAAAA/eNtMXUbyC_I/s44-p-k-no-ns-nd/photo.jpg",
+    "owner": "109580719193444208753",
+    "category": "Pusat Kesehatan Masyarakat",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJv3VyP1r6aS4RoV1UXUoK6w0&authuser=0&hl=en&gl=CA",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Wheelchair-accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          },
+          {
+            "name": "Wheelchair-accessible washroom",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_restroom"
+          },
+          {
+            "name": "Wheelchair accessible seating",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_seating"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Washroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/PHC+Pondok+Kacang+East,+Jl.+Gelora+I+No.1A,+East+Pondok+Kacang,+Pondok+Aren,+South+Tangerang+City,+Banten+15224,+Indonesia/@-6.2559078,106.6896915,3966a,13.1y/data=!4m2!3m1!1s0x2e69fa5a3f7275bf:0xdeb0a4a5d545da1",
+    "note_from_owner": "Salam Sehat untuk kita semua.\nUntuk sobat healthies yang membutuhkan informasi pelayanan UPTD. Puskesmas Pondok Kacang Timur dan informasi kesehatan lainnya selain dapat datang langsung saat jam pelayanan yaitu pukul 07:30 - 14:00, dapat juga menghubungi Nomor Hotline Whatsapp di 089525225476 atau direct message ke akun Instagram kami di @officialpkmpondokkacangtimur. Tetap jaga kesehatan anda dan keluarga, terimakasih. :)",
+    "description_arr": null,
+    "website": null,
+    "not_claimed": false,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "puskesmas",
+    "location": "Denpasar, gianyar, ",
+    "start": 9,
+    "language": "en",
+    "location_name": ""
+  },
+  {
+    "title": "Sekolah Dasar Negeri Serua Indah I",
+    "place_id": "ChIJmR2fAljlaS4Ru7RrHtdahts",
+    "data_id": "0x2e69e558029f1d99:0xdb865ad71e6bb4bb",
+    "data_cid": 15818430621160289467,
+    "gps_coordinates": {
+      "latitude": -6.3126032,
+      "longitude": 106.72285439999999
+    },
+    "provider_id": "/g/11bv30k8_7",
+    "type": "Elementary school",
+    "types": [
+      "Elementary school"
+    ],
+    "address": "MPPF+W65, Jl. Sukamulya Raya No.47, Serua Indah, Kec. Ciputat, Kota Tangerang Selatan, Banten 15414",
+    "operating_hours": {},
+    "phone": "+62 21 74635846",
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7CZuEcJeeGb0OWXSOX2MIw&cb_client=search.gws-prod.gps&w=211&h=120&yaw=60.061268&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "MPPF+W65, Jl. Sukamulya Raya No.47",
+    "city": "South Tangerang City",
+    "state": "Banten",
+    "zip_code": 15414,
+    "country": "ID",
+    "reviews_per_1": null,
+    "reviews_per_2": null,
+    "reviews_per_3": null,
+    "reviews_per_4": null,
+    "reviews_per_5": null,
+    "photo_count": 35,
+    "logo": "https://lh6.googleusercontent.com/-dGhBNsWRAmQ/AAAAAAAAAAI/AAAAAAAAAAA/yteCAFnIvtg/s44-p-k-no-ns-nd/photo.jpg",
+    "owner": "114809431806008274422",
+    "category": "Sekolah Dasar",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Wheelchair-accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          }
+        ]
+      }
+    ],
+    "rating": null,
+    "reviews": null,
+    "place_url": "https://www.google.com/maps/preview/place/MPPF%2BW65+Sekolah+Dasar+Negeri+Serua+Indah+I,+Jl.+Sukamulya+Raya+No.47,+Serua+Indah,+Kec.+Ciputat,+Kota+Tangerang+Selatan,+Banten+15414,+Indonesia/@-6.3126032,106.7228544,3966a,13.1y/data=!4m2!3m1!1s0x2e69e558029f1d99:0xdb865ad71e6bb4bb",
+    "open_state": null,
+    "note_from_owner": null,
+    "description_arr": null,
+    "website": null,
+    "not_claimed": false,
+    "reviews_link": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "sekolah dasar negeri",
+    "location": "cau blayu",
+    "start": 12,
+    "language": "id",
+    "location_name": ""
+  }
+]

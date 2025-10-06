@@ -1,0 +1,107 @@
+[
+  {
+    "title": "Balai Desa Banjareja Kec. Nusawungu",
+    "place_id": "ChIJwTa02Bo5ZS4R1M_BMN1pu7g",
+    "data_id": "0x2e65391ad8b436c1:0xb8bb69dd30c1cfd4",
+    "data_cid": 13311349522350329812,
+    "gps_coordinates": {
+      "latitude": -7.686579,
+      "longitude": 109.3735095
+    },
+    "provider_id": "/g/11r10tqtt7",
+    "rating": 4.5,
+    "reviews": 42,
+    "type": "Community center",
+    "types": [
+      "Community center"
+    ],
+    "address": "Jl. Satria No.34, Banjarutama, Banjareja, Kec. Nusawungu, Kabupaten Cilacap, Jawa Tengah 53283",
+    "open_state": "Closed ⋅ Opens 8:30 a.m. Mon",
+    "operating_hours": {
+      "sunday": "Closed",
+      "monday": "8:30 a.m.–2:30 p.m.",
+      "tuesday": "8:30 a.m.–2:30 p.m.",
+      "wednesday": "8:30 a.m.–2:30 p.m.",
+      "thursday": "8:30 a.m.–2:30 p.m.",
+      "friday": "8:30 a.m.–2 p.m.",
+      "saturday": "Closed"
+    },
+    "description": {},
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=I8Z2ZLRCB4zlYymHqgd6sg&cb_client=search.gws-prod.gps&w=211&h=120&yaw=23.439983&pitch=0&thumbfov=100&w=1600&h=1000&w=1600&h=1000",
+    "street": "Jl. Satria No.34",
+    "city": "Cilacap Regency",
+    "state": "Central Java",
+    "zip_code": 53283,
+    "country": "ID",
+    "reviews_per_1": 2,
+    "reviews_per_2": 1,
+    "reviews_per_3": 1,
+    "reviews_per_4": 7,
+    "reviews_per_5": 31,
+    "photo_count": 14,
+    "not_claimed": true,
+    "owner": "113182954722361932724",
+    "category": "Balai masyarakat",
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJwTa02Bo5ZS4R1M_BMN1pu7g&authuser=0&hl=en&gl=CA",
+    "service_option": [
+      {
+        "name": "Accessibility",
+        "slug": "accessibility",
+        "options": [
+          {
+            "name": "Wheelchair-accessible entrance",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance"
+          },
+          {
+            "name": "Wheelchair-accessible parking lot",
+            "slug": "/geo/type/establishment_poi/has_wheelchair_accessible_parking"
+          }
+        ]
+      },
+      {
+        "name": "Amenities",
+        "slug": "amenities",
+        "options": [
+          {
+            "name": "Washroom",
+            "slug": "/geo/type/establishment_poi/has_restroom"
+          }
+        ]
+      }
+    ],
+    "place_url": "https://www.google.com/maps/preview/place/Balai+Desa+Banjareja+Kec.+Nusawungu,+Jl.+Satria+No.34,+Banjarutama,+Banjareja,+Kec.+Nusawungu,+Kabupaten+Cilacap,+Jawa+Tengah+53283,+Indonesia/@-7.686579,109.3735095,3954a,13.1y/data=!4m2!3m1!1s0x2e65391ad8b436c1:0xb8bb69dd30c1cfd4",
+    "note_from_owner": null,
+    "description_arr": null,
+    "phone": null,
+    "website": null,
+    "logo": null,
+    "email": [],
+    "social_media_links": [],
+    "facebook": null,
+    "twitter": null,
+    "instagram": null,
+    "linkedin": null,
+    "youtube": null,
+    "pinterest": null,
+    "tumblr": null,
+    "reddit": null,
+    "snapchat": null,
+    "quora": null,
+    "flickr": null,
+    "vimeo": null,
+    "medium": null,
+    "soundcloud": null,
+    "tiktok": null,
+    "mix": null,
+    "vk": null,
+    "meetup": null,
+    "operation_state": "OPEN",
+    "full_description": "",
+    "price": null,
+    "query": "balai banjar",
+    "location": "denpasar barat",
+    "start": 18,
+    "language": "id",
+    "location_name": ""
+  }
+]
